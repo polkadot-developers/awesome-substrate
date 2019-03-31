@@ -17,12 +17,14 @@ This is an up-to-date cheatsheet of news, events, and onboarding materials for S
 * [Research](#Research)
 * [Security](#Security)
 * [Critiques](#Critiques)
-* [Historical](#Historical)
+* [Appendix](#Appendix)
+    * [Historical](#Historical)
+    * [Helpful Diagrams](#Helpful-Diagrams)
 
 ## Happening this Month
 ### Announcements
+- Stable release of Substrate V1 coming soon. [See Repo](https://github.com/paritytech/substrate)
 - [Mar 29]: 10 more validators slots open on Alexander testnet. Ping [Riot](https://riot.im/app/#/room/#watercooler:matrix.parity.io) to start.
-- 
 
 ### Events
 - [Apr 1]: Wrocław blockchain [meetup](https://www.meetup.com/Wroclaw-Blockchain-Meetup/)
@@ -45,9 +47,16 @@ Join our [Meetup Group](https://www.meetup.com/parity/events/) for more events.
 
 
 ## Timeline
+### Substrate
 ![](https://i.imgur.com/tYt3luX.png)
 
-**As of Feb 8 2019*
+**As of 8 Feb 2019*
+
+### Polkadot
+![](https://i.imgur.com/Ga30C1g.png)
+
+**As of 1 Dec 2018
+
 
 ## Tutorials
 - [Custom Runtime](https://docs.substrate.dev/docs/creating-a-custom-substrate-chain): Build a coin-flip game DAppChain with [@gavofyork](https://github.com/gavofyork)
@@ -118,11 +127,50 @@ Showcasing projects built on Substrate
 - An "Apple Store": sells apples using Substrate. [Repo](https://github.com/osuketh/apple-store-substrate)
 
 ## Research
-
 ## Security
-
 ## Critiques
+## Appendix
+### Historical
 
-## Historical
+### Helpful Diagrams
 
+#### Substrate
+SRML is composable
+![](https://i.imgur.com/KXkgK45.png)
+
+Substrate parallelises transactions:
+![](https://i.imgur.com/8qDB5dU.png)
+
+You can hack at various layers of Substrate:
+![](https://i.imgur.com/S7m81Ol.png)
+
+#### Polkadot
+Polkadot is composable
+![](https://i.imgur.com/aMgVQ0n.png)
+
+Polkadot chains
+![](https://i.imgur.com/a8syKgB.png)
+
+Relay chain vs Parachain
+![](https://i.imgur.com/nb0GjXO.png)
+
+
+How PoS staking affects finality:
+![](https://i.imgur.com/5duXkQQ.png)
+
+Polkadot pools security:
+![](https://i.imgur.com/yxPeBdq.png)
+
+
+Difference btw Polkadot parachains vs Substrate chains:
+![](https://i.imgur.com/Wo7xci9.png)
+
+Relaychain, parachains, bridgechains
+![](https://i.imgur.com/fC96E9J.png)
+
+Solo chains, bridge chains, parachains
+![](https://i.imgur.com/o3w406Z.png)
+
+Transaction flow:
+![](https://i.imgur.com/fLCqnxw.png)
 
