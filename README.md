@@ -21,10 +21,16 @@ This is an up-to-date cheatsheet of news, events, and onboarding materials for S
 
 ## Happening this Month
 ### Announcements
-- ...
+- [Mar 29]: 10 more validators slots open on Alexander testnet. Ping [Riot](https://riot.im/app/#/room/#watercooler:matrix.parity.io) to start.
+- 
 
 ### Events
-Join our [Meetup Group](https://www.meetup.com/parity/events/)
+- [Apr 1]: Wrocław blockchain [meetup](https://www.meetup.com/Wroclaw-Blockchain-Meetup/)
+- [Apr 3] Seoul [DOT Day](http://bit.ly/dot-day-seoul)
+- [Apr 4] Buenos Aires [meetup](https://www.meetup.com/meetup-group-PoZjboSq/events/259876801/)
+- [Apr 9]: Tokyo [Dot day](https://cryptoage.connpass.com/event/125207/)
+
+Join our [Meetup Group](https://www.meetup.com/parity/events/) for more events.
 
 ## Official Wikis
 - [Substrate Documentation](https://crates.parity.io/): Official reference docs for Substrate in Rust
