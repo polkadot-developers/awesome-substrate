@@ -6,8 +6,8 @@ This is an up-to-date cheatsheet of news, events, and onboarding materials for S
 
 ## Table of Contents
 * [Happening this Month](#Happening-this-Month)
-    * Announcements
-    * Events
+    * [Announcements](@Announcements)
+    * [Events](#Events)
 * [Official Wikis](#Official-Wikis)
 * [Official Channels](#Social-Channels)
 * [Timeline](#Timeline)
@@ -40,6 +40,7 @@ Join our [Meetup Group](https://www.meetup.com/parity/events/)
 
 ## Timeline
 ![](https://i.imgur.com/tYt3luX.png)
+
 **As of Feb 8 2019*
 
 ## Tutorials
