@@ -1,6 +1,8 @@
 # Oveview of Substrate
 
-[Substrate](https://github.com/paritytech/substrate) is an open-source framework that lets you build entire, configurable blockchains in minimal time. You can then deploy your blockchain to a network called [Polkadot](https://github.com/paritytech/polkadot), which has pooled security and other advantages. See a detailed summary [here](https://www.parity.io/a-brief-summary-of-everything-substrate-polkadot/). 
+[Substrate](https://github.com/paritytech/substrate) is an open-source framework that lets you build entire, configurable blockchains in minimal time. You can then deploy your blockchain to a network called [Polkadot](https://github.com/paritytech/polkadot), which has pooled security and other advantages. See a detailed summary [here](https://www.parity.io/a-brief-summary-of-everything-substrate-polkadot/).
+
+
 
 This is an up-to-date cheatsheet of news, events, and onboarding materials for Substrate.
 
@@ -23,7 +25,7 @@ This is an up-to-date cheatsheet of news, events, and onboarding materials for S
 
 ## Happening this Month
 ### Announcements
-- Stable release of Substrate V1 coming soon. [See Repo](https://github.com/paritytech/substrate)
+- [Coming soon] Stable release of Substrate V1. [Follow the Repo](https://github.com/paritytech/substrate)
 - [Mar 29]: 10 more validators slots open on Alexander testnet. Ping [Riot](https://riot.im/app/#/room/#watercooler:matrix.parity.io) to start.
 
 ### Events
@@ -32,7 +34,7 @@ This is an up-to-date cheatsheet of news, events, and onboarding materials for S
 - [Apr 4] Buenos Aires [meetup](https://www.meetup.com/meetup-group-PoZjboSq/events/259876801/)
 - [Apr 9]: Tokyo [Dot day](https://cryptoage.connpass.com/event/125207/)
 
-Join our [Meetup Group](https://www.meetup.com/parity/events/) for more events.
+Join the [Meetup Group](https://www.meetup.com/parity/events/) for more events.
 
 ## Official Wikis
 - [Substrate Documentation](https://crates.parity.io/): Official reference docs for Substrate in Rust
@@ -42,6 +44,7 @@ Join our [Meetup Group](https://www.meetup.com/parity/events/) for more events.
 ## Social Channels
 - [Twitter](https://twitter.com/ParityTech): latest announcements
 - [Riot](https://riot.im/app/#/room/#watercooler:matrix.parity.io): live discussion with core devs
+- [Blog](https://www.parity.io/tag/parity-substrate/): technical decisions and company culture
 - [Stakeoverflow](https://stackoverflow.com/questions/tagged/substrate): Q&A support for `#substrate`
 - [Reddit](https://www.reddit.com/r/dot/): community forum
 
@@ -69,7 +72,7 @@ Join our [Meetup Group](https://www.meetup.com/parity/events/) for more events.
 
 ## Key talks
 ### Intro to Parity
-
+Sourced from [@folsen](https://github.com/folsen)
 * [ZeroKnowledgeFM 58: Kicking off 2019 with Jutta Steiner](https://www.zeroknowledge.fm/58)
 * [ZeroKnowledgeFM 46: Gavin Wood on Polkadot, Sharding and Substrate](https://www.zeroknowledge.fm/46)
 * [ZeroKnowledgeFM 12: How to become a blockchain developer? We ask Gavin Wood](https://www.zeroknowledge.fm/12)
@@ -82,7 +85,6 @@ Join our [Meetup Group](https://www.meetup.com/parity/events/) for more events.
 * [Introducing Polkadot](https://www.youtube.com/watch?v=lIghiCmHz0U) by Gavin Wood at London Ethereum Meetup, July 2017
 
 ### Substrate and Polkadot
-* [Polkadot Lightpaper](https://polkadot.network/Polkadot-lightpaper.pdf)
 * [Motivating Polkadot](https://www.youtube.com/watch?v=O363z8UQYLE) by Bjorn Wagner, Fred Harrysson, August 2018
 * [Polkadot and Parity Substrate](https://www.youtube.com/watch?v=PoHa2p5XzUs) by Bjorn Wagner, Robert Habermeier at Polkadot SF, December 2018
 * [A Case for Substrate and Polkadot](https://www.youtube.com/watch?v=jyieXzflPAk) by Fabian Gompf, October 2018
@@ -127,6 +129,7 @@ Showcasing projects built on Substrate
 - An "Apple Store": sells apples using Substrate. [Repo](https://github.com/osuketh/apple-store-substrate)
 
 ## Research
+- [Polkadot Lightpaper](https://polkadot.network/Polkadot-lightpaper.pdf)
 ## Security
 ## Critiques
 ## Appendix
@@ -160,7 +163,6 @@ How PoS staking affects finality:
 
 Polkadot pools security:
 ![](https://i.imgur.com/yxPeBdq.png)
-
 
 Difference btw Polkadot parachains vs Substrate chains:
 ![](https://i.imgur.com/Wo7xci9.png)
