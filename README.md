@@ -40,11 +40,15 @@ With Substrate, you get the following *customizable* functionalities out-of-the-
 - [Mar 29]: 10 more validators slots open on Alexander testnet. Ping [Riot](https://riot.im/app/#/room/#watercooler:matrix.parity.io) to start.
 
 ### Events
+**Featured: [Apr 24] 1st Substrate Conference in Berlin!** Ping [Riot](https://riot.im/app/#/room/#watercooler:matrix.parity.io) to attend.
 - [Apr 1]: Wrocław blockchain [meetup](https://www.meetup.com/Wroclaw-Blockchain-Meetup/)
 - [Apr 3] Seoul [DOT Day](http://bit.ly/dot-day-seoul)
 - [Apr 4] Buenos Aires [meetup](https://www.meetup.com/meetup-group-PoZjboSq/events/259876801/)
 - [Apr 9]: Tokyo [Dot day](https://cryptoage.connpass.com/event/125207/)
-
+- [Apr 14]: Odyssey Hackathon [Groningen](https://www.odyssey.org/)
+- [Apr 16] Berlin Meetup
+- [Apr 20-21] RustCon Asia
+- [Apr 29] Oslo Blockchain
 Join the [Meetup Group](https://www.meetup.com/parity/events/) for more events.
 
 ## Official Wikis
@@ -83,7 +87,7 @@ Join the [Meetup Group](https://www.meetup.com/parity/events/) for more events.
 
 ## Key talks
 ### Intro to Parity
-Sourced from [@folsen](https://github.com/folsen)
+Sourced from [@folsen](https://github.com/folsen) and [@amarRSingh](https://github.com/AmarRSingh)
 * [ZeroKnowledgeFM 58: Kicking off 2019 with Jutta Steiner](https://www.zeroknowledge.fm/58)
 * [ZeroKnowledgeFM 46: Gavin Wood on Polkadot, Sharding and Substrate](https://www.zeroknowledge.fm/46)
 * [ZeroKnowledgeFM 12: How to become a blockchain developer? We ask Gavin Wood](https://www.zeroknowledge.fm/12)
