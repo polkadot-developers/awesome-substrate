@@ -26,6 +26,7 @@ With Substrate, you get the following *customizable* functionalities out-of-the-
 * [Timeline](#Timeline)
 * [Tutorials](#Tutorials)
 * [Key Talks](#Key-talks)
+* [Articles](#Articles)
 * [Projects](#Projects)
 * [Research](#Research)
 * [Security](#Security)
@@ -44,8 +45,9 @@ With Substrate, you get the following *customizable* functionalities out-of-the-
 - [Apr 3] Seoul [DOT Day](http://bit.ly/dot-day-seoul)
 - [Apr 4] Buenos Aires [meetup](https://www.meetup.com/meetup-group-PoZjboSq/events/259876801/)
 - [Apr 9]: Tokyo [Dot day](https://cryptoage.connpass.com/event/125207/)
+- [Apr 24 - 25]: Sub0 2-day Substrate workshop in Berlin. [Apply to attend here.](https://docs.google.com/forms/d/1k97NJLdBCLjfhlxSvntibBYT15DsLSz42c9exgIzGLE)
 
-Join the [Meetup Group](https://www.meetup.com/parity/events/) for more events.
+Join the [Meetup Group](https://www.meetup.com/parity/events/) and [subscribe to Parity's newsletter](https://www.parity.io/newsletter/) for more events.
 
 ## Official Wikis
 - [Substrate Documentation](https://crates.parity.io/): Official reference docs for Substrate in Rust
@@ -56,8 +58,9 @@ Join the [Meetup Group](https://www.meetup.com/parity/events/) for more events.
 - [Twitter](https://twitter.com/ParityTech): latest announcements
 - [Riot](https://riot.im/app/#/room/#watercooler:matrix.parity.io): live discussion with core devs
 - [Blog](https://www.parity.io/tag/parity-substrate/): technical decisions and company culture
-- [Stakeoverflow](https://stackoverflow.com/questions/tagged/substrate): Q&A support for `#substrate`
-- [Reddit](https://www.reddit.com/r/dot/): community forum
+- [Stack Overflow](https://stackoverflow.com/questions/tagged/substrate): Q&A support for `#substrate`
+- [Reddit](https://www.reddit.com/r/dot/): Polkadot community forum
+- [Reddit](https://www.reddit.com/r/substrate/): Substrate community forum
 
 
 ## Timeline
@@ -121,6 +124,13 @@ Sourced from [@folsen](https://github.com/folsen)
 * [Governance: Web3 Summit Governance Panel](https://www.youtube.com/watch?v=eO3fG_1YrE4)
 * [Governance: ZeroKnowledgeFM 52: Vlad and Gavin debate blockchain governance](https://www.zeroknowledge.fm/52)
 * [Governance: Epicenter #259 Gavin Wood: Substrate, Polkadot and the Case for On-Chain Governance](https://www.youtube.com/watch?v=eP4mT19S_jg)
+
+## Articles
+- [What is Substrate](https://www.parity.io/what-is-substrate/)
+- [Substrate in a nutshell](https://www.parity.io/substrate-in-a-nutshell/)
+- [Never fork again](https://medium.com/polkadot-network/never-fork-again-438c5e985cd8)
+- [Substrate has arrived](https://www.parity.io/substrate-has-arrived/)
+- [A brief summary of everything Substrate and Polkadot](https://www.parity.io/a-brief-summary-of-everything-substrate-polkadot/)
 
 ## Projects
 Showcasing projects built on Substrate
