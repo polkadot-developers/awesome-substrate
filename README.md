@@ -149,7 +149,7 @@ Showcasing projects built on Substrate
 - Substrate multisig. [Repo](https://github.com/mixbytes/substrate-module-multisig)
 - Merkle tree module. [Repo](https://github.com/filiplazovic/substrate-merkle-tree)
 - Parking spaces registry using Substrate. [Repo](https://github.com/yjkimjunior/ParkingSpaceSubstrate)
-- Chainx: social network on Substrate [Repo](https://github.com/chainx-org/ChainX)
+- ChainX: cross-chain asset management platform on Substrate [Repo](https://github.com/chainx-org/ChainX)
 - An "Apple Store": sells apples using Substrate. [Repo](https://github.com/osuketh/apple-store-substrate)
 
 ## Research
