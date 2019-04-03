@@ -28,6 +28,7 @@ With Substrate, you get the following *customizable* functionalities out-of-the-
 * [Key Talks](#Key-talks)
 * [Articles](#Articles)
 * [Projects](#Projects)
+* [Partnerships](#Partnerships)
 * [Research](#Research)
 * [Security](#Security)
 * [Critiques](#Critiques)
@@ -151,6 +152,9 @@ Showcasing projects built on Substrate
 - Parking spaces registry using Substrate. [Repo](https://github.com/yjkimjunior/ParkingSpaceSubstrate)
 - ChainX: cross-chain asset management platform on Substrate [Repo](https://github.com/chainx-org/ChainX)
 - An "Apple Store": sells apples using Substrate. [Repo](https://github.com/osuketh/apple-store-substrate)
+
+## Partnerships
+- Partnering with Longhash on a Polkadot incubator [program](https://longhash.com.sg/program)
 
 ## Research
 - [Polkadot Lightpaper](https://polkadot.network/Polkadot-lightpaper.pdf)
