@@ -39,16 +39,17 @@ With Substrate, you get the following *customizable* functionalities out-of-the-
 ## Happening this Month
 ### Announcements
 - [Coming soon] Stable release of Substrate V1. [Follow the Repo](https://github.com/paritytech/substrate)
-- [Mar 29]: 10 more validators slots open on Alexander testnet. Ping [Riot](https://riot.im/app/#/room/#watercooler:matrix.parity.io) to start.
+- [3 Apr]: Polkadot PoC-4 v0.4.1 is out; validators must upgrade!
+- [29 Mar]: 10 more validators slots open on Alexander testnet. Ping [Riot](https://riot.im/app/#/room/#watercooler:matrix.parity.io) to start.
 
 ### Events
 **Featured: Sub0 2-day Substrate workshop in Berlin. [Apply to attend here.](https://docs.google.com/forms/d/1k97NJLdBCLjfhlxSvntibBYT15DsLSz42c9exgIzGLE)**
-- [Apr 1]: Wrocław blockchain [meetup](https://www.meetup.com/Wroclaw-Blockchain-Meetup/)
-- [Apr 3] Seoul [DOT Day](http://bit.ly/dot-day-seoul)
 - [Apr 4] Buenos Aires [meetup](https://www.meetup.com/meetup-group-PoZjboSq/events/259876801/)
 - [Apr 9]: Tokyo [Dot day](https://cryptoage.connpass.com/event/125207/)
+- [Aprl 11]: Sidney smart contract [meetup](https://www.eventbrite.com/e/sydney-sync-creating-a-connected-smart-contract-ecosystem-tickets-59591249030)
 - [Apr 14]: Odyssey Hackathon [Groningen](https://www.odyssey.org/)
 - [Apr 16]: Berlin Meetup
+- [Apr 16-17]: Paris Blockchain [Week](https://pbwsummit.com)
 - [Apr 20-21]: RustCon Asia
 - [Apr 29]: Oslo Blockchain
 Join the [Meetup Group](https://www.meetup.com/parity/events/) for more events.
