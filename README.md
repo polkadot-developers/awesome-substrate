@@ -19,7 +19,7 @@ With Substrate, you get the following *customizable* functionalities out-of-the-
 
 ## Table of Contents
 * [Happening this Month](#Happening-this-Month)
-    * [Announcements](@Announcements)
+    * [Announcements](#Announcements)
     * [Events](#Events)
 * [Official Wikis](#Official-Wikis)
 * [Official Channels](#Social-Channels)
