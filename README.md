@@ -43,7 +43,7 @@ With Substrate, you get the following *customizable* functionalities out-of-the-
 - [29 Mar]: 10 more validators slots open on Alexander testnet. Ping [Riot](https://riot.im/app/#/room/#watercooler:matrix.parity.io) to start.
 
 ### Events
-**Featured: Sub0 2-day Substrate workshop in Berlin. [Apply to attend here.](https://docs.google.com/forms/d/1k97NJLdBCLjfhlxSvntibBYT15DsLSz42c9exgIzGLE)**
+**Featured: [Apr 24-25] Sub0 2-day Substrate workshop in Berlin. [Apply to attend here.](https://docs.google.com/forms/d/1k97NJLdBCLjfhlxSvntibBYT15DsLSz42c9exgIzGLE)**
 - [Apr 4] Buenos Aires [meetup](https://www.meetup.com/meetup-group-PoZjboSq/events/259876801/)
 - [Apr 9]: Tokyo [Dot day](https://cryptoage.connpass.com/event/125207/)
 - [Aprl 11]: Sidney smart contract [meetup](https://www.eventbrite.com/e/sydney-sync-creating-a-connected-smart-contract-ecosystem-tickets-59591249030)
