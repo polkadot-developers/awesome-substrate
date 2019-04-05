@@ -84,6 +84,7 @@ Join the [Meetup Group](https://www.meetup.com/parity/events/) for more events.
 - [Custom Runtime](https://docs.substrate.dev/docs/creating-a-custom-substrate-chain): Build a coin-flip game DAppChain with [@gavofyork](https://github.com/gavofyork)
 - [Substrate Kitties](https://shawntabrizi.github.io/substrate-collectables-workshop/#/): build a cryptokitty DAppChain on Substrate by [@shawntabrizi](https://github.com/shawntabrizi)
 - [TCR](https://docs.substrate.dev/docs/building-a-token-curated-registry-dappchain-using-substrate): Build a token curated registry DAppChain on Substrate by [@Gautamdhameja](https://github.com/gautamdhameja)
+- [Getting Started](tiny.cc/substrate-getting-started) basic set up, dos and don'ts of Rust, from @shawn @hernando 
 - [Video](https://www.youtube.com/watch?v=26ucTSSaqog) : Substrate workshop by @Gavin and @SergeiShulepov at Dotcon-0, November 2018
 
 *Non-DAppChain tutorials coming soon*
