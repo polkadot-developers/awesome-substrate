@@ -26,7 +26,7 @@ With Substrate, you get the following *customizable* functionalities out-of-the-
 * [Timeline](#Timeline)
 * [Tutorials](#Tutorials)
 * [Key Talks](#Key-talks)
-* [Articles](#Articles)
+* [Key Articles](#Key-Articles)
 * [Projects](#Projects)
 * [Partnerships](#Partnerships)
 * [Research](#Research)
@@ -131,12 +131,13 @@ Sourced from [@folsen](https://github.com/folsen) and [@amarRSingh](https://gith
 * [Governance: ZeroKnowledgeFM 52: Vlad and Gavin debate blockchain governance](https://www.zeroknowledge.fm/52)
 * [Governance: Epicenter #259 Gavin Wood: Substrate, Polkadot and the Case for On-Chain Governance](https://www.youtube.com/watch?v=eP4mT19S_jg)
 
-## Articles
+## Key Articles
 - [What is Substrate](https://www.parity.io/what-is-substrate/)
 - [Substrate in a nutshell](https://www.parity.io/substrate-in-a-nutshell/)
 - [Never fork again](https://medium.com/polkadot-network/never-fork-again-438c5e985cd8)
 - [Substrate has arrived](https://www.parity.io/substrate-has-arrived/)
 - [A brief summary of everything Substrate and Polkadot](https://www.parity.io/a-brief-summary-of-everything-substrate-polkadot/)
+- [Everything you Need to Know to Prepare for Polkadot](https://medium.com/polkadot-network/everything-you-need-to-know-to-prepare-for-polkadot-32d08b929735?sk=d81a3cebd61fb9b8aaf29a564fe0d303)
 
 ## Projects
 Showcasing projects built on Substrate
