@@ -39,6 +39,7 @@ With Substrate, you get the following *customizable* functionalities out-of-the-
 ## Happening this Month
 ### Announcements
 - [Coming soon] Stable release of Substrate V1. [Follow the Repo](https://github.com/paritytech/substrate)
+- [9 Apr]: Parity Fether: Ethereum desktop wallet [is live](https://medium.com/paritytech/parity-fether-is-on-ethereum-mainnet-105ed0c7b491)!
 - [3 Apr]: Polkadot PoC-4 v0.4.1 is out; validators must upgrade!
 - [29 Mar]: 10 more validators slots open on Alexander testnet. Ping [Riot](https://riot.im/app/#/room/#watercooler:matrix.parity.io) to start.
 
