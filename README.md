@@ -142,6 +142,7 @@ Sourced from [@folsen](https://github.com/folsen) and [@amarRSingh](https://gith
 
 ## Projects
 Showcasing projects built on Substrate
+- UTXO: UTXO chain built on substrate by @0x7CFE [Repo](https://github.com/0x7CFE/substrate-node-template/tree/utxo)
 - AdEx: Payment channels using Substrate. [Video](https://www.youtube.com/watch?v=1CeI6Oa1BnU). [Repo](https://github.com/AdExNetwork/adex-protocol-substrate).
 - AIRA Robonomics: modules for integrating with ROS. [Repo](https://github.com/airalab/substrate-node-robonomics)
 - Zerochain privacy-focused runtime module.
