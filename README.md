@@ -9,13 +9,10 @@ With Substrate, you get the following *customizable* functionalities out-of-the-
 * Upgradable runtimes
 * Pluggable consensus (PoS, PoW, PoA)
 * Block production, synchronization
-* Efficient storage
-* Efficient state machine
 * P2P networking layer
 * Built in crypto primitives
 * Light client support
 * Suite of [libraries](https://crates.parity.io/srml_staking/index.html?search=srml) to modify runtime logic, i.e. manage storage, accounts, staking, a treasury, consensus and more
-* UI kits
 
 ## Table of Contents
 * [Happening this Month](#Happening-this-Month)
