@@ -56,6 +56,7 @@ Join the [Meetup Group](https://www.meetup.com/parity/events/) for more events.
 - [Substrate Documentation](https://crates.parity.io/): Official reference docs for Substrate in Rust
 - [Substrate Wiki](https://docs.substrate.dev/docs): Tutorials, samples, and in-depth explanations
 - [Polkadot Wiki](https://wiki.polkadot.network/en/latest/): Tutorials, samples, and in-depth explanations
+- [Substrate UI Wiki](https://polkadot.js.org/api/)
 
 ## Social Channels
 - [Twitter](https://twitter.com/ParityTech): latest announcements
