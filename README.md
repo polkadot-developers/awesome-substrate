@@ -41,15 +41,16 @@ With Substrate, you get the following *customizable* functionalities out-of-the-
 - [29 Mar]: 10 more validators slots open on Alexander testnet. Ping [Riot](https://riot.im/app/#/room/#watercooler:matrix.parity.io) to start.
 
 ### Events
-**Featured: [Apr 24-25] Sub0 2-day Substrate workshop in Berlin. [Apply to attend here.](https://docs.google.com/forms/d/1k97NJLdBCLjfhlxSvntibBYT15DsLSz42c9exgIzGLE)**
-- [Apr 4] Buenos Aires [meetup](https://www.meetup.com/meetup-group-PoZjboSq/events/259876801/)
-- [Apr 9]: Tokyo [Dot day](https://cryptoage.connpass.com/event/125207/)
-- [Aprl 11]: Sidney smart contract [meetup](https://www.eventbrite.com/e/sydney-sync-creating-a-connected-smart-contract-ecosystem-tickets-59591249030)
-- [Apr 14]: Odyssey Hackathon [Groningen](https://www.odyssey.org/)
-- [Apr 16]: Berlin Meetup
-- [Apr 16-17]: Paris Blockchain [Week](https://pbwsummit.com)
-- [Apr 20-21]: RustCon Asia
-- [Apr 29]: Oslo Blockchain
+Substrate talks near you:
+- [Apr 29]: Oslo Blockchain Day
+- [May 6-8]: Re:publica in Berlin ft. Jutta Steiner. [Link](https://re-publica.com/en)
+- [May 9 -10]: The next web in Amsterdam. [Link](https://thenextweb.com/conference/)
+- [May 10-11]: Ethereal Summit in NYC. [Link]( https://etherealsummit.com/events/ethereal-ny/)
+- [May 13-15]: Coindesk Consensus in NYC. [Link](https://www.coindesk.com/events/consensus-2019)
+- [May 13-15]: Webit Festival in Bulgaria. [Link](https://www.webit.org/festival/2019/index.php)
+- [May 17-19]: Eth New York, Eth Global Hackathon. [Link](https://twitter.com/ethnewyork)
+- [May 23-24]: Malta AI & Blockchain Summit in Malta. [Link](https://maltablockchainsummit.com/)
+- [May 31]: Crypto Chicks in Toronto. [Link](https://www.toronto.cryptochicks.ca/)
 Join the [Meetup Group](https://www.meetup.com/parity/events/) for more events.
 
 ## Official Wikis
