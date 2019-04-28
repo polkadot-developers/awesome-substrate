@@ -52,18 +52,18 @@ Join the [Meetup Group](https://www.meetup.com/parity/events/) for more events.
 
 ## Social Channels
 - [Twitter](https://twitter.com/ParityTech): latest announcements
-- [Riot](https://riot.im/app/#/room/#watercooler:matrix.parity.io): live discussion with core devs
+- [Riot](https://riot.im/app/#/room/#watercooler:matrix.parity.io): discussion with core devs
 - [Blog](https://www.parity.io/tag/parity-substrate/): technical decisions and company culture
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/substrate): Q&A support for `#substrate`
-- [Reddit](https://www.reddit.com/r/dot/): Polkadot community forum
-- [Reddit](https://www.reddit.com/r/substrate/): Substrate community forum
+- [Substrate Reddit](https://www.reddit.com/r/substrate/): Substrate community forum
+- [Polkadot Reddit](https://www.reddit.com/r/dot/): Polkadot community forum
 
 ## Tutorials
 - [Build a Custom Substrate Runtime](https://docs.substrate.dev/docs/creating-a-custom-substrate-chain): A coin-flip game DAppChain with [@gavofyork](https://github.com/gavofyork)
 - [Build Substrate Kitties](https://shawntabrizi.github.io/substrate-collectables-workshop/#/): A cryptokitty DAppChain on Substrate by [@shawntabrizi](https://github.com/shawntabrizi)
 - [Build a TCR Chain](https://docs.substrate.dev/docs/building-a-token-curated-registry-dappchain-using-substrate): A token curated registry DAppChain on Substrate by [@Gautamdhameja](https://github.com/gautamdhameja)
 - [Build a UTXO Chain](https://github.com/nczhu/utxo-workshop): A utxo chain on Substrate by [@Dmitriy K.](https://github.com/0x7CFE)
-- ****New**** [Ink](http://tiny.cc/ink-workshop): Write smart contract on Substrate using this custom DSL.
+- **[New!]**** [Write Smart Contracts in Ink](http://tiny.cc/ink-workshop): A new, domain specific language around writing smart contracts in Substrate.
 
 ## Key talks
 ### Intro to Parity
