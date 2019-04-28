@@ -28,9 +28,8 @@ With Substrate, you get the following *customizable* functionalities out-of-the-
 ## Happening this Month
 ### Announcements
 - [Coming soon] Stable release of Substrate V1. [Follow the Repo](https://github.com/paritytech/substrate)
+- [26 Apr]: Initial version of [Ink](https://github.com/paritytech/ink/): Substrate's smart contract DSL is ready.
 - [9 Apr]: Parity Fether: Ethereum desktop wallet [is live](https://medium.com/paritytech/parity-fether-is-on-ethereum-mainnet-105ed0c7b491)!
-- [3 Apr]: Polkadot PoC-4 v0.4.1 is out; validators must upgrade!
-- [29 Mar]: 10 more validators slots open on Alexander testnet. Ping [Riot](https://riot.im/app/#/room/#watercooler:matrix.parity.io) to start.
 
 ### Events
 Substrate talks near you:
@@ -60,14 +59,11 @@ Join the [Meetup Group](https://www.meetup.com/parity/events/) for more events.
 - [Reddit](https://www.reddit.com/r/substrate/): Substrate community forum
 
 ## Tutorials
-- [Custom Runtime](https://docs.substrate.dev/docs/creating-a-custom-substrate-chain): Build a coin-flip game DAppChain with [@gavofyork](https://github.com/gavofyork)
-- [Substrate Kitties](https://shawntabrizi.github.io/substrate-collectables-workshop/#/): build a cryptokitty DAppChain on Substrate by [@shawntabrizi](https://github.com/shawntabrizi)
-- [TCR](https://docs.substrate.dev/docs/building-a-token-curated-registry-dappchain-using-substrate): Build a token curated registry DAppChain on Substrate by [@Gautamdhameja](https://github.com/gautamdhameja)
-- [Getting Started](tiny.cc/substrate-getting-started) basic set up, dos and don'ts of Rust, from @shawn @hernando, Apr 2019
-- [Video](https://www.youtube.com/watch?v=26ucTSSaqog) : Substrate workshop by @Gavin and @SergeiShulepov at Dotcon-0, November 2018
-
-*Non-DAppChain tutorials coming soon*
-
+- [Build a Custom Substrate Runtime](https://docs.substrate.dev/docs/creating-a-custom-substrate-chain): A coin-flip game DAppChain with [@gavofyork](https://github.com/gavofyork)
+- [Build Substrate Kitties](https://shawntabrizi.github.io/substrate-collectables-workshop/#/): A cryptokitty DAppChain on Substrate by [@shawntabrizi](https://github.com/shawntabrizi)
+- [Build a TCR Chain](https://docs.substrate.dev/docs/building-a-token-curated-registry-dappchain-using-substrate): A token curated registry DAppChain on Substrate by [@Gautamdhameja](https://github.com/gautamdhameja)
+- [Build a UTXO Chain](https://github.com/nczhu/utxo-workshop): A utxo chain on Substrate by [@Dmitriy K.](https://github.com/0x7CFE)
+- ****New**** [Ink](http://tiny.cc/ink-workshop): Write smart contract on Substrate using this custom DSL.
 
 ## Key talks
 ### Intro to Parity
