@@ -12,13 +12,13 @@ With Substrate, you get the following *customizable* functionalities out-of-the-
     * [Events](#Events)
 * [Official Wikis](#Official-Wikis)
 * [Official Channels](#Social-Channels)
-* [Timeline](#Timeline)
 * [Tutorials](#Tutorials)
 * [Key Talks](#Key-talks)
 * [Key Articles](#Key-Articles)
 * [Projects](#Projects)
 * [Partnerships](#Partnerships)
 * [Research](#Research)
+* [Timeline](#Timeline)
 * [Security](#Security)
 * [Critiques](#Critiques)
 * [Appendix](#Appendix)
@@ -58,19 +58,6 @@ Join the [Meetup Group](https://www.meetup.com/parity/events/) for more events.
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/substrate): Q&A support for `#substrate`
 - [Reddit](https://www.reddit.com/r/dot/): Polkadot community forum
 - [Reddit](https://www.reddit.com/r/substrate/): Substrate community forum
-
-
-## Timeline
-### Substrate
-![](https://i.imgur.com/tYt3luX.png)
-
-**As of 8 Feb 2019*
-
-### Polkadot
-![](https://i.imgur.com/Ga30C1g.png)
-
-**As of 1 Dec 2018
-
 
 ## Tutorials
 - [Custom Runtime](https://docs.substrate.dev/docs/creating-a-custom-substrate-chain): Build a coin-flip game DAppChain with [@gavofyork](https://github.com/gavofyork)
@@ -154,6 +141,17 @@ Showcasing projects built on Substrate
 
 ## Research
 - [Polkadot Lightpaper](https://polkadot.network/Polkadot-lightpaper.pdf)
+
+## Timeline
+### Substrate
+![](https://i.imgur.com/tYt3luX.png)
+
+**As of 8 Feb 2019*
+
+### Polkadot
+![](https://i.imgur.com/Ga30C1g.png)
+
+**As of 1 Dec 2018
 ## Security
 ## Critiques
 ## Appendix
