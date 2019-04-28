@@ -1,4 +1,4 @@
-# Oveview of Substrate
+# Overview of Substrate
 
 This is an up-to-date cheatsheet of news, events, and onboarding materials for Substrate.
 
