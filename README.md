@@ -4,7 +4,7 @@ This is an up-to-date cheatsheet of news, events, and onboarding materials for S
 
 [Substrate](https://github.com/paritytech/substrate) is an open-source framework that lets you build entire, configurable blockchains in minimal time. Optionally, you can then deploy your blockchain to the [Polkadot](https://github.com/paritytech/polkadot) network, which has pooled security and other advantages. See a detailed summary [here](https://www.parity.io/a-brief-summary-of-everything-substrate-polkadot/).
 
-With Substrate, you get the following *customizable* functionalities out-of-the-box: A default PoS blockchain, upgradable runtimes, pluggable consensus (PoS, PoW, PoA), block production, synchronization, P2P networking layer, built in crypto primitives, light client support, and an entire suite of ready-to-use [libraries](https://crates.parity.io/srml_staking/index.html?search=srml), i.e. to manage storage, accounts, staking, a treasury, consensus and more.
+*With Substrate, you get the following customizable functionalities out-of-the-box: A default PoS blockchain, upgradable runtimes, pluggable consensus (PoS, PoW, PoA), block production, synchronization, P2P networking layer, built in crypto primitives, light client support, and an entire suite of ready-to-use [libraries](https://crates.parity.io/srml_staking/index.html?search=srml), i.e. to manage storage, accounts, staking, a treasury, consensus and more.*
 
 ## Table of Contents
 * [Happening this Month](#Happening-this-Month)
