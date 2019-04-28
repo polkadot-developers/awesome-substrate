@@ -28,7 +28,7 @@ With Substrate, you get the following *customizable* functionalities out-of-the-
 ## Happening this Month
 ### Announcements
 - [Coming soon] Stable release of Substrate V1. [Follow the Repo](https://github.com/paritytech/substrate)
-- [26 Apr]: Initial version of [Ink](https://github.com/paritytech/ink/): Substrate's smart contract DSL is ready.
+- [26 Apr]: Initial version of [Ink](https://github.com/paritytech/ink/): Substrate's smart contract DSL is ready for experimentation.
 - [9 Apr]: Parity Fether: Ethereum desktop wallet [is live](https://medium.com/paritytech/parity-fether-is-on-ethereum-mainnet-105ed0c7b491)!
 
 ### Events
