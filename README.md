@@ -86,7 +86,7 @@ Sourced from [@folsen](https://github.com/folsen) and [@amarRSingh](https://gith
 * [A Case for Substrate and Polkadot](https://www.youtube.com/watch?v=jyieXzflPAk) by Fabian Gompf, October 2018
 
 ### Key Developers Talks
-
+* [Staking on Polkadot](https://www.youtube.com/watch?v=4Wz6FHqaTLk&feature=youtu.be&t=1) by Gav Wood in Hong Kong Apr 2019
 * [Upcoming Polkadot Developments](https://youtu.be/Opj_5ORbyXA?t=21972) by Gavin Wood at the M1 Conference, February 2019
 * [Building DApps with Substrate](https://www.youtube.com/watch?v=Bamo8xjPzVc) by Benjamin Kampmann, February 2019
 * [Polkadot for Developers: Status, Roadmap and Tools](https://www.youtube.com/watch?v=XbJ1ESl_Dhw) by Robert Habermeier at Polkadot Seoul, December 2018
