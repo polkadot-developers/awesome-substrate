@@ -42,9 +42,9 @@ Substrate talks near you:
 - [May 17-19]: Eth New York, Eth Global Hackathon. [Link](https://twitter.com/ethnewyork)
 - [May 23-24]: Malta AI & Blockchain Summit in Malta. [Link](https://maltablockchainsummit.com/)
 - [May 31]: Crypto Chicks in Toronto. [Link](https://www.toronto.cryptochicks.ca/)
+Join the [Meetup Group](https://www.meetup.com/parity/events/) for more events.
 
 **Featured: Web3Summit tickets [are here](https://web3summit.com/). Coming Aug 19-21 '19.**
-Join the [Meetup Group](https://www.meetup.com/parity/events/) for more events.
 
 ## Official Wikis
 - [Substrate Documentation](https://crates.parity.io/): Official reference docs for Substrate in Rust
