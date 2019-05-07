@@ -27,7 +27,7 @@ This is an up-to-date cheatsheet of news, events, and onboarding materials for S
 
 ## Happening this Month
 ### Announcements
-- [Coming soon] Stable release of Substrate V1. [Follow the Repo](https://github.com/paritytech/substrate)
+- Now hiring: Rust developers, runtime engineers, and release managers [here!](https://www.parity.io/jobs/)
 - [26 Apr]: Initial version of [Ink](https://github.com/paritytech/ink/): Substrate's smart contract DSL is ready for experimentation.
 - [9 Apr]: Parity Fether: Ethereum desktop wallet [is live](https://medium.com/paritytech/parity-fether-is-on-ethereum-mainnet-105ed0c7b491)!
 
