@@ -127,7 +127,6 @@ Showcasing projects built on Substrate
     - [Bellman-substrate (zksnarks on substrate) Repo](https://github.com/LayerXcom/bellman-substrate)
 - Starlog: IPFS metadata on substrate. [Repo](https://github.com/PACTCare/Starlog)
 - Joystream: a user governed video platform. [Repo]( https://github.com/Joystream/substrate-runtime-joystream)
-- IPFS browser. [Repo](https://github.com/Polygos/substrate-node-ipfsbrowser)
 - Edgeware: linking identities [Repo](https://github.com/hicommonwealth/edge-identity)
 - Substrate multisig. [Repo](https://github.com/mixbytes/substrate-module-multisig)
 - Merkle tree module. [Repo](https://github.com/filiplazovic/substrate-merkle-tree)
