@@ -1,4 +1,4 @@
-# Oveview of Substrate
+# Overview of Substrate
 
 This is an up-to-date cheatsheet of news, events, and onboarding materials for Substrate.
 
@@ -37,55 +37,46 @@ With Substrate, you get the following *customizable- functionalities out-of-the-
 
 ## Happening this Month
 ### Announcements
-- [Coming soon] Stable release of Substrate V1. [Follow the Repo](https://github.com/paritytech/substrate)
-- [Mar 29]: 10 more validators slots open on Alexander testnet. Ping [Riot](https://riot.im/app/#/room/#watercooler:matrix.parity.io) to start.
+- **Now hiring**: Rust developers, runtime engineers, and release managers [here!](https://www.parity.io/jobs/)
+- [26 Apr]: Initial version of [Ink](https://github.com/paritytech/ink/): Substrate's smart contract DSL is ready for experimentation.
+- [9 Apr]: Parity Fether: Ethereum desktop wallet [is live](https://medium.com/paritytech/parity-fether-is-on-ethereum-mainnet-105ed0c7b491)!
 
 ### Events
-**Featured: Sub0 2-day Substrate workshop in Berlin. [Apply to attend here.](https://docs.google.com/forms/d/1k97NJLdBCLjfhlxSvntibBYT15DsLSz42c9exgIzGLE)**
-- [Apr 1]: Wrocław blockchain [meetup](https://www.meetup.com/Wroclaw-Blockchain-Meetup/)
-- [Apr 3] Seoul [DOT Day](http://bit.ly/dot-day-seoul)
-- [Apr 4] Buenos Aires [meetup](https://www.meetup.com/meetup-group-PoZjboSq/events/259876801/)
-- [Apr 9]: Tokyo [Dot day](https://cryptoage.connpass.com/event/125207/)
-- [Apr 14]: Odyssey Hackathon [Groningen](https://www.odyssey.org/)
-- [Apr 16]: Berlin Meetup
-- [Apr 20-21]: RustCon Asia
-- [Apr 29]: Oslo Blockchain
+Substrate talks near you:
+- [Apr 29]: Oslo Blockchain Day
+- [May 6-8]: Re:publica in Berlin ft. Jutta Steiner. [Link](https://re-publica.com/en)
+- [May 9 -10]: The next web in Amsterdam. [Link](https://thenextweb.com/conference/)
+- [May 10-11]: Ethereal Summit in NYC. [Link]( https://etherealsummit.com/events/ethereal-ny/)
+- [May 13-15]: Coindesk Consensus in NYC. [Link](https://www.coindesk.com/events/consensus-2019)
+- [May 13-15]: Webit Festival in Bulgaria. [Link](https://www.webit.org/festival/2019/index.php)
+- [May 17-19]: Eth New York, Eth Global Hackathon. [Link](https://twitter.com/ethnewyork)
+- [May 23-24]: Malta AI & Blockchain Summit in Malta. [Link](https://maltablockchainsummit.com/)
+- [May 31]: Crypto Chicks in Toronto. [Link](https://www.toronto.cryptochicks.ca/)
 Join the [Meetup Group](https://www.meetup.com/parity/events/) for more events.
+
+**Featured: Web3Summit tickets [are here](https://web3summit.com/). Coming Aug 19-21 '19.**
 
 ## Official Wikis
 - [Substrate Documentation](https://crates.parity.io/): Official reference docs for Substrate in Rust
 - [Substrate Wiki](https://docs.substrate.dev/docs): Tutorials, samples, and in-depth explanations
 - [Polkadot Wiki](https://wiki.polkadot.network/en/latest/): Tutorials, samples, and in-depth explanations
+- [Research Wiki](https://research.web3.foundation/en/latest/): Early research, what's coming down the road
+- [UI Wiki](https://polkadot.js.org/api/): JS API for Polkadot and Substrate
 
 ## Social Channels
 - [Twitter](https://twitter.com/ParityTech): latest announcements
-- [Riot](https://riot.im/app/#/room/#watercooler:matrix.parity.io): live discussion with core devs
+- [Riot](https://riot.im/app/#/room/#watercooler:matrix.parity.io): discussion with core devs
 - [Blog](https://www.parity.io/tag/parity-substrate/): technical decisions and company culture
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/substrate): Q&A support for `#substrate`
-- [Reddit](https://www.reddit.com/r/dot/): Polkadot community forum
-- [Reddit](https://www.reddit.com/r/substrate/): Substrate community forum
-
-
-## Timeline
-### Substrate
-![](https://i.imgur.com/tYt3luX.png)
-
-**As of 8 Feb 2019*
-
-### Polkadot
-![](https://i.imgur.com/Ga30C1g.png)
-
-**As of 1 Dec 2018
-
+- [Substrate Reddit](https://www.reddit.com/r/substrate/): Substrate community forum
+- [Polkadot Reddit](https://www.reddit.com/r/dot/): Polkadot community forum
 
 ## Tutorials
-- [Custom Runtime](https://docs.substrate.dev/docs/creating-a-custom-substrate-chain): Build a coin-flip game DAppChain with [@gavofyork](https://github.com/gavofyork)
-- [Substrate Kitties](https://shawntabrizi.github.io/substrate-collectables-workshop/#/): build a cryptokitty DAppChain on Substrate by [@shawntabrizi](https://github.com/shawntabrizi)
-- [TCR](https://docs.substrate.dev/docs/building-a-token-curated-registry-dappchain-using-substrate): Build a token curated registry DAppChain on Substrate by [@Gautamdhameja](https://github.com/gautamdhameja)
-- [Video](https://www.youtube.com/watch?v=26ucTSSaqog) : Substrate workshop by @Gavin and @SergeiShulepov at Dotcon-0, November 2018
-
-*Non-DAppChain tutorials coming soon*
-
+- [Build a Custom Substrate Runtime](https://docs.substrate.dev/docs/creating-a-custom-substrate-chain): A coin-flip game DAppChain with [@gavofyork](https://github.com/gavofyork)
+- [Build Substrate Kitties](https://shawntabrizi.github.io/substrate-collectables-workshop/#/): A cryptokitty DAppChain on Substrate by [@shawntabrizi](https://github.com/shawntabrizi)
+- [Build a TCR Chain](https://docs.substrate.dev/docs/building-a-token-curated-registry-dappchain-using-substrate): A token curated registry DAppChain on Substrate by [@Gautamdhameja](https://github.com/gautamdhameja)
+- [Build a UTXO Chain](https://github.com/nczhu/utxo-workshop): A utxo chain on Substrate by [@Dmitriy K.](https://github.com/0x7CFE)
+- **[New!]**** [Write Smart Contracts in Ink](http://tiny.cc/ink-workshop): A new, domain specific language around writing smart contracts in Substrate.
 
 ## Key talks
 ### Intro to Parity
@@ -128,12 +119,13 @@ Sourced from [@folsen](https://github.com/folsen) and [@amarRSingh](https://gith
 - [Governance: ZeroKnowledgeFM 52: Vlad and Gavin debate blockchain governance](https://www.zeroknowledge.fm/52)
 - [Governance: Epicenter #259 Gavin Wood: Substrate, Polkadot and the Case for On-Chain Governance](https://www.youtube.com/watch?v=eP4mT19S_jg)
 
-## Articles
+## Key Articles
 - [What is Substrate](https://www.parity.io/what-is-substrate/)
 - [Substrate in a nutshell](https://www.parity.io/substrate-in-a-nutshell/)
 - [Never fork again](https://medium.com/polkadot-network/never-fork-again-438c5e985cd8)
 - [Substrate has arrived](https://www.parity.io/substrate-has-arrived/)
 - [A brief summary of everything Substrate and Polkadot](https://www.parity.io/a-brief-summary-of-everything-substrate-polkadot/)
+- [Everything you Need to Know to Prepare for Polkadot](https://medium.com/polkadot-network/everything-you-need-to-know-to-prepare-for-polkadot-32d08b929735?sk=d81a3cebd61fb9b8aaf29a564fe0d303)
 
 ## Projects
 Showcasing projects built on Substrate
@@ -169,8 +161,22 @@ Showcasing projects built on Substrate
 
 [source](https://forum.web3.foundation/t/teams-building-on-polkadot/67)
 
+## Partnerships
+- Partnering with Longhash on a Polkadot incubator [program](https://longhash.com.sg/program)
+
 ## Research
 - [Polkadot Lightpaper](https://polkadot.network/Polkadot-lightpaper.pdf)
+
+## Timeline
+### Substrate
+![](https://i.imgur.com/tYt3luX.png)
+
+**As of 8 Feb 2019*
+
+### Polkadot
+![](https://i.imgur.com/Ga30C1g.png)
+
+**As of 1 Dec 2018
 ## Security
 ## Critiques
 ## Appendix
