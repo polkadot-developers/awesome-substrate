@@ -136,7 +136,15 @@ Substrate相关的分享活动：
 - [A brief summary of everything Substrate and Polkadot](https://www.parity.io/a-brief-summary-of-everything-substrate-polkadot/)
 - [Everything you Need to Know to Prepare for Polkadot](https://medium.com/polkadot-network/everything-you-need-to-know-to-prepare-for-polkadot-32d08b929735?sk=d81a3cebd61fb9b8aaf29a564fe0d303)
 
+## 中文资料
+
+- [Substrate 基础介绍](https://www.slideshare.net/casperLTH/substrate-134676336/1)
+- [Polkadot 简介](https://www.slideshare.net/casperLTH/polkadot/1)
+- [Substrate高阶概览和在ChainX系统中的应用（视频分享）](https://mp.weixin.qq.com/s/AjQ10yk-VsmS-HdREgjBTQ)
+- [Substrate 设计总览](https://zhuanlan.zhihu.com/p/56383616)
+
 ## 项目
+
 使用Substrate构建的项目展示：
 - IPFS浏览器. [代码](https://github.com/Polygos/substrate-node-ipfsbrowser)
 - Substrate多重签名. [代码](https://github.com/mixbytes/substrate-module-multisig)
