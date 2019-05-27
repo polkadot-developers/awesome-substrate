@@ -1,5 +1,7 @@
 # Overview of Substrate
 
+**Translated version: [中文](README_CN.md).**
+
 This is an up-to-date cheatsheet of news, events, and onboarding materials for Substrate.
 
 [Substrate](https://github.com/paritytech/substrate) is an open-source framework that lets you build entire, configurable blockchains in minimal time. Optionally, you can then deploy your blockchain to the [Polkadot](https://github.com/paritytech/polkadot) network, which has pooled security and other advantages. See a detailed summary [here](https://www.parity.io/a-brief-summary-of-everything-substrate-polkadot/).
@@ -156,8 +158,8 @@ Showcasing projects built on Substrate
 - LayerX - zk-SNARKs chain ([announcement](https://medium.com/layerx/announcing-zerochain-5b08e158355d))
 - Plasm - Plasm is a Substrate Runtime Module Library allows developers to add Plasma functions to their Substrate chain ([GitHub](https://github.com/stakedtechnologies/Plasm))
 - Speckle OS - universal identity and account parachain ([announcement](https://medium.com/polkadot-network/dots-and-speckle-paving-the-way-forward-for-the-new-web-691beed50f1a))
-- Agora.Trade - a cryptocurrency exchange for non-custodial trading
-([Website](https://agora.trade](https://agora.trade/)))
+- Agora.Trade - a cryptocurrency exchange for non-custodial trading ([Website](https://agora.trade](https://agora.trade/)))
+- Evolution Land - a virtual management game based on blockchain ([Github](https://github.com/evolutionlandorg/darwinia-appchain))
 
 [source](https://forum.web3.foundation/t/teams-building-on-polkadot/67)
 

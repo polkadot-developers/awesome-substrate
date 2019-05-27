@@ -60,6 +60,7 @@ Substrate相关的分享活动：
 - [5月17-19]: Eth New York, Eth Global Hackathon. [链接](https://twitter.com/ethnewyork)
 - [5月23-24]: Malta AI & Blockchain Summit in Malta. [链接](https://maltablockchainsummit.com/)
 - [5月31]: Crypto Chicks in Toronto. [链接](https://www.toronto.cryptochicks.ca/)
+
 加入[Meetup 群组](https://www.meetup.com/parity/events/) 获取更多活动。
 
 **推荐：Web3Summit购票[入口](https://web3summit.com/)，时间：8月19-21，地点：柏林。**
@@ -174,6 +175,7 @@ Substrate相关的分享活动：
 - Plasm - Plasm 是Substrate的一个运行时模块，可以方便开发者添加Plasma功能到自己的Substrate链中 ([代码](https://github.com/stakedtechnologies/Plasm))
 - Speckle OS - 通用的身份和账户管理平行链 ([公告](https://medium.com/polkadot-network/dots-and-speckle-paving-the-way-forward-for-the-new-web-691beed50f1a))
 - Agora.Trade - 实现非保管交易的数字货币交易所 ([网站](https://agora.trade](https://agora.trade/)))
+- Evolution Land - 基于区块链的虚拟经营游戏 ([Github](https://github.com/evolutionlandorg/darwinia-appchain))
 
 [来源](https://forum.web3.foundation/t/teams-building-on-polkadot/67)
 
