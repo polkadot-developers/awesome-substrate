@@ -15,7 +15,7 @@
 * P2P网络层
 * 内置的基本加密工具
 * 支持轻客户端
-* [工具集]((https://crates.parity.io/srml_staking/index.html?search=srml))，用来修改运行环境的逻辑，例如管理存储、账户、权益、资产、共识算法等等
+* [工具集]((https://substrate.dev/rustdocs/v1.0/substrate_service/index.html?search=srml))，用来修改运行环境的逻辑，例如管理存储、账户、权益、资产、共识算法等等
 * UI工具
 
 ## 内容列表
@@ -67,8 +67,8 @@ Substrate相关的分享活动：
 
 ## 官方文档
 
-- [Substrate 参考文档](https://crates.parity.io/): 官方Substrate参考文档
-- [Substrate Wiki](https://docs.substrate.dev/docs): 指南、实例和深入解释
+- [Substrate 参考文档](https://substrate.dev/rustdocs/): 官方Substrate参考文档
+- [Substrate Wiki](https://substrate.dev/docs/): 指南、实例和深入解释
 - [Polkadot Wiki](https://wiki.polkadot.network/en/latest/): 指南、实例和深入解释
 - [Research Wiki](https://research.web3.foundation/en/latest/): 早期研究，未来的技术路线
 - [UI Wiki](https://polkadot.js.org/api/): Polkadot和Substrate的JS API文档
@@ -82,11 +82,11 @@ Substrate相关的分享活动：
 - [Polkadot Reddit](https://www.reddit.com/r/dot/): Polkadot社区论坛
 
 ## 开发指南
-- [构建自定义的Substrate运行环境](https://docs.substrate.dev/docs/creating-a-custom-substrate-chain): 作者[@gavofyork](https://github.com/gavofyork)，抛硬币游戏DAppChain。
-- [构建加密猫区块链](https://shawntabrizi.github.io/substrate-collectables-workshop/#/): 作者[@shawntabrizi](https://github.com/shawntabrizi)，基于Substrate的加密猫DAppChain 
-- [构建TCR链](https://docs.substrate.dev/docs/building-a-token-curated-registry-dappchain-using-substrate): 作者[@Gautamdhameja](https://github.com/gautamdhameja)，基于Substrate的通证背书清单
-- [构建UTXO链](https://github.com/nczhu/utxo-workshop): 作者[@Dmitriy K](https://github.com/0x7CFE) 基于Substrate的UTXO链
-- **[新!]**** [使用Ink开发智能合约](http://tiny.cc/ink-workshop): 一个用Substrate编写智能合约的DSL。
+- [构建自定义的Substrate运行环境](https://substrate.dev/docs/en/tutorials/creating-your-first-substrate-chain): 作者[@gavofyork](https://github.com/gavofyork)，抛硬币游戏DAppChain。
+- [构建加密猫区块链](https://substrate.dev/substrate-collectables-workshop/#/): 作者[@shawntabrizi](https://github.com/shawntabrizi)，基于Substrate的加密猫DAppChain 
+- [构建TCR链](https://substrate.dev/docs/en/tutorials/tcr/): 作者[@Gautamdhameja](https://github.com/gautamdhameja)，基于Substrate的通证背书清单
+- [构建UTXO链](https://github.com/substrate-developer-hub/utxo-workshop): 作者[@Dmitriy K](https://github.com/0x7CFE) 基于Substrate的UTXO链
+- **[新!]**** [使用Ink开发智能合约](https://substrate.dev/substrate-contracts-workshop/#/): 一个用Substrate编写智能合约的DSL。
 
 ## 重要分享
 ### Parity介绍
