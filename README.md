@@ -20,7 +20,7 @@ With Substrate, you get the following *customizable- functionalities out-of-the-
 - UI kits
 
 ## Table of Contents
-- [Happening this Month](#happening-this-Month)
+- [Happening this Month](#happening-this-month)
     - [Announcements](#announcements)
     - [Events](#events)
 - [Official Wikis](#official-Wikis)
