@@ -16,51 +16,51 @@ With Substrate, you get the following *customizable- functionalities out-of-the-
 - P2P networking layer
 - Built in crypto primitives
 - Light client support
-- Suite of [libraries](https://crates.parity.io/srml_staking/index.html?search=srml) to modify runtime logic, i.e. manage storage, accounts, staking, a treasury, consensus and more
+- Suite of [libraries](https://substrate.dev/rustdocs/v1.0/substrate_service/index.html?search=srml) to modify runtime logic, i.e. manage storage, accounts, staking, a treasury, consensus and more
 - UI kits
 
 ## Table of Contents
-- [Happening this Month](#Happening-this-Month)
-    - [Announcements](@Announcements)
-    - [Events](#Events)
-- [Official Wikis](#Official-Wikis)
-- [Official Channels](#Social-Channels)
-- [Timeline](#Timeline)
-- [Tutorials](#Tutorials)
-- [Key Talks](#Key-talks)
-- [Articles](#Articles)
-- [Projects](#Projects)
-- [Research](#Research)
-- [Security](#Security)
-- [Critiques](#Critiques)
-- [Appendix](#Appendix)
-    - [Historical](#Historical)
-    - [Helpful Diagrams](#Helpful-Diagrams)
+- [Happening this Month](#happening-this-Month)
+    - [Announcements](#announcements)
+    - [Events](#events)
+- [Official Wikis](#official-Wikis)
+- [Official Channels](#social-channels)
+- [Timeline](#timeline)
+- [Tutorials](#tutorials)
+- [Key Talks](#key-talks)
+- [Articles](#articles)
+- [Projects](#projects)
+- [Research](#research)
+- [Security](#security)
+- [Critiques](#critiques)
+- [Appendix](#appendix)
+    - [Historical](#historical)
+    - [Helpful Diagrams](#helpful-diagrams)
 
 ## Happening this Month
 ### Announcements
 - **Now hiring**: Rust developers, runtime engineers, and release managers [here!](https://www.parity.io/jobs/)
-- [26 Apr]: Initial version of [Ink](https://github.com/paritytech/ink/): Substrate's smart contract DSL is ready for experimentation.
-- [9 Apr]: Parity Fether: Ethereum desktop wallet [is live](https://medium.com/paritytech/parity-fether-is-on-ethereum-mainnet-105ed0c7b491)!
+- (26 Apr): Initial version of [Ink](https://github.com/paritytech/ink/): Substrate's smart contract DSL is ready for experimentation.
+- (9 Apr): Parity Fether: Ethereum desktop wallet [is live](https://medium.com/paritytech/parity-fether-is-on-ethereum-mainnet-105ed0c7b491)!
 
 ### Events
 Substrate talks near you:
-- [Apr 29]: Oslo Blockchain Day
-- [May 6-8]: Re:publica in Berlin ft. Jutta Steiner. [Link](https://re-publica.com/en)
-- [May 9 -10]: The next web in Amsterdam. [Link](https://thenextweb.com/conference/)
-- [May 10-11]: Ethereal Summit in NYC. [Link]( https://etherealsummit.com/events/ethereal-ny/)
-- [May 13-15]: Coindesk Consensus in NYC. [Link](https://www.coindesk.com/events/consensus-2019)
-- [May 13-15]: Webit Festival in Bulgaria. [Link](https://www.webit.org/festival/2019/index.php)
-- [May 17-19]: Eth New York, Eth Global Hackathon. [Link](https://twitter.com/ethnewyork)
-- [May 23-24]: Malta AI & Blockchain Summit in Malta. [Link](https://maltablockchainsummit.com/)
-- [May 31]: Crypto Chicks in Toronto. [Link](https://www.toronto.cryptochicks.ca/)
+- (Apr 29): Oslo Blockchain Day
+- (May 6-8): Re:publica in Berlin ft. Jutta Steiner. [Link](https://re-publica.com/en)
+- (May 9 -10): The next web in Amsterdam. [Link](https://thenextweb.com/conference/)
+- (May 10-11): Ethereal Summit in NYC. [Link]( https://etherealsummit.com/events/ethereal-ny/)
+- (May 13-15): Coindesk Consensus in NYC. [Link](https://www.coindesk.com/events/consensus-2019)
+- (May 13-15): Webit Festival in Bulgaria. [Link](https://www.webit.org/festival/2019/index.php)
+- (May 17-19): Eth New York, Eth Global Hackathon. [Link](https://twitter.com/ethnewyork)
+- (May 23-24): Malta AI & Blockchain Summit in Malta. [Link](https://maltablockchainsummit.com/)
+- (May 31): Crypto Chicks in Toronto. [Link](https://www.toronto.cryptochicks.ca/)
 Join the [Meetup Group](https://www.meetup.com/parity/events/) for more events.
 
 **Featured: Web3Summit tickets [are here](https://web3summit.com/). Coming Aug 19-21 '19.**
 
 ## Official Wikis
-- [Substrate Documentation](https://crates.parity.io/): Official reference docs for Substrate in Rust
-- [Substrate Wiki](https://docs.substrate.dev/docs): Tutorials, samples, and in-depth explanations
+- [Substrate Documentation](https://substrate.dev/rustdocs/): Official reference docs for Substrate in Rust
+- [Substrate Wiki](https://substrate.dev/docs/): Tutorials, samples, and in-depth explanations
 - [Polkadot Wiki](https://wiki.polkadot.network/en/latest/): Tutorials, samples, and in-depth explanations
 - [Research Wiki](https://research.web3.foundation/en/latest/): Early research, what's coming down the road
 - [UI Wiki](https://polkadot.js.org/api/): JS API for Polkadot and Substrate
@@ -74,11 +74,11 @@ Join the [Meetup Group](https://www.meetup.com/parity/events/) for more events.
 - [Polkadot Reddit](https://www.reddit.com/r/dot/): Polkadot community forum
 
 ## Tutorials
-- [Build a Custom Substrate Runtime](https://docs.substrate.dev/docs/creating-a-custom-substrate-chain): A coin-flip game DAppChain with [@gavofyork](https://github.com/gavofyork)
-- [Build Substrate Kitties](https://shawntabrizi.github.io/substrate-collectables-workshop/#/): A cryptokitty DAppChain on Substrate by [@shawntabrizi](https://github.com/shawntabrizi)
-- [Build a TCR Chain](https://docs.substrate.dev/docs/building-a-token-curated-registry-dappchain-using-substrate): A token curated registry DAppChain on Substrate by [@Gautamdhameja](https://github.com/gautamdhameja)
-- [Build a UTXO Chain](https://github.com/nczhu/utxo-workshop): A utxo chain on Substrate by [@Dmitriy K.](https://github.com/0x7CFE)
-- **[New!]**** [Write Smart Contracts in Ink](http://tiny.cc/ink-workshop): A new, domain specific language around writing smart contracts in Substrate.
+- [Build a Custom Substrate Runtime](https://substrate.dev/docs/en/tutorials/creating-your-first-substrate-chain): A coin-flip game DAppChain with [@gavofyork](https://github.com/gavofyork)
+- [Build Substrate Kitties](https://substrate.dev/substrate-collectables-workshop/#/): A cryptokitty DAppChain on Substrate by [@shawntabrizi](https://github.com/shawntabrizi)
+- [Build a TCR Chain](https://substrate.dev/docs/en/tutorials/tcr/): A token curated registry DAppChain on Substrate by [@Gautamdhameja](https://github.com/gautamdhameja)
+- [Build a UTXO Chain](https://github.com/substrate-developer-hub/utxo-workshop): A utxo chain on Substrate by [@Dmitriy K.](https://github.com/0x7CFE)
+- **[New!]**** [Write Smart Contracts in Ink](https://substrate.dev/substrate-contracts-workshop/#/): A new, domain specific language around writing smart contracts in Substrate.
 
 ## Key talks
 ### Intro to Parity
