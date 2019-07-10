@@ -82,7 +82,7 @@ Join the [Meetup Group](https://www.meetup.com/parity/events/) for more events.
 
 ## Key talks
 ### Intro to Parity
-Sourced from [@folsen](https://github.com/folsen) and [@amarRSingh](https://github.com/AmarRSingh)
+Sourced from [@folsen](https://github.com/folsen) and [@4meta5](https://github.com/4meta5)
 - [ZeroKnowledgeFM 58: Kicking off 2019 with Jutta Steiner](https://www.zeroknowledge.fm/58)
 - [ZeroKnowledgeFM 46: Gavin Wood on Polkadot, Sharding and Substrate](https://www.zeroknowledge.fm/46)
 - [ZeroKnowledgeFM 12: How to become a blockchain developer? We ask Gavin Wood](https://www.zeroknowledge.fm/12)
@@ -160,6 +160,7 @@ Showcasing projects built on Substrate
 - Speckle OS - universal identity and account parachain ([announcement](https://medium.com/polkadot-network/dots-and-speckle-paving-the-way-forward-for-the-new-web-691beed50f1a))
 - Agora.Trade - a cryptocurrency exchange for non-custodial trading ([Website](https://agora.trade](https://agora.trade/)))
 - Evolution Land - a virtual management game based on blockchain ([Github](https://github.com/evolutionlandorg/darwinia-appchain))
+- KatalChain - standard framework for DeFi ([Github](https://github.com/Trinkler/katal-chain))
 
 [source](https://forum.web3.foundation/t/teams-building-on-polkadot/67)
 
@@ -168,6 +169,7 @@ Showcasing projects built on Substrate
 
 ## Research
 - [Polkadot Lightpaper](https://polkadot.network/Polkadot-lightpaper.pdf)
+- [Polkadot Consensus Research](https://github.com/w3f/consensus)
 
 ## Timeline
 ### Substrate
