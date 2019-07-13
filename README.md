@@ -95,6 +95,7 @@ Sourced from [@folsen](https://github.com/folsen) and [@4meta5](https://github.c
 - [Introducing Polkadot](https://www.youtube.com/watch?v=lIghiCmHz0U) by Gavin Wood at London Ethereum Meetup, July 2017
 
 ### Substrate and Polkadot
+- [ZeroKnowledgeFM 83: From Warp Sync to SPREE with Polkadot's Rob Habermeier](https://www.zeroknowledge.fm/83)
 - [Motivating Polkadot](https://www.youtube.com/watch?v=O363z8UQYLE) by Bjorn Wagner, Fred Harrysson, August 2018
 - [Polkadot and Parity Substrate](https://www.youtube.com/watch?v=PoHa2p5XzUs) by Bjorn Wagner, Robert Habermeier at Polkadot SF, December 2018
 - [A Case for Substrate and Polkadot](https://www.youtube.com/watch?v=jyieXzflPAk) by Fabian Gompf, October 2018
