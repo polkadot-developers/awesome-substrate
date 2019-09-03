@@ -22,6 +22,7 @@ With Substrate, you get the following *customizable- functionalities out-of-the-
 ## Table of Contents
 - [Happening this Month](#happening-this-month)
     - [Announcements](#announcements)
+    - [Substrate Collaborative Learning](substrate-collaborative-learning)
     - [Events](#events)
 - [Official Wikis](#official-Wikis)
 - [Official Channels](#social-channels)
@@ -42,6 +43,10 @@ With Substrate, you get the following *customizable- functionalities out-of-the-
 - **Now hiring**: Rust developers, runtime engineers, and release managers [here!](https://www.parity.io/jobs/)
 - (26 Apr): Initial version of [Ink](https://github.com/paritytech/ink/): Substrate's smart contract DSL is ready for experimentation.
 - (9 Apr): Parity Fether: Ethereum desktop wallet [is live](https://medium.com/paritytech/parity-fether-is-on-ethereum-mainnet-105ed0c7b491)!
+
+### Substrate Collaborative Learning
+Substrate Collaborative Learning is an open video call where we learn Substrate together. We meet every other Monday at 16:00UTC. Ask for help, show off your project, learn Substrate, and make friends!
+[Join the Call](https://zoom.us/j/440029011), [Google Calendar](https://calendar.google.com/calendar/r/eventedit/aTI4MDRrZ2FpcGpzb2NmMmo4cGJqNXMyc2dfMjAxOTA4MjZUMTYwMDAwWiBwYXJpdHkuaW9fMzkzNzkzNDNoMDczdjA2cWh0MXZwcWNlZmNAZw?cid=cGFyaXR5LmlvXzM5Mzc5MzQzaDA3M3YwNnFodDF2cHFjZWZjQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20), [Previous Recordings](https://www.youtube.com/playlist?list=PLp0_ueXY_enUCPszf_3Q9ZxovLvKm1eMx)
 
 ### Events
 Substrate talks near you:
@@ -227,4 +232,3 @@ Solo chains, bridge chains, parachains
 
 Transaction flow:
 ![](https://i.imgur.com/fLCqnxw.png)
-
