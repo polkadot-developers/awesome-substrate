@@ -72,6 +72,7 @@ Join the [Meetup Group](https://www.meetup.com/parity/events/) for more events.
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/substrate): Q&A support for `#substrate`
 - [Substrate Reddit](https://www.reddit.com/r/substrate/): Substrate community forum
 - [Polkadot Reddit](https://www.reddit.com/r/dot/): Polkadot community forum
+- [PolkaWorld](https://polkaworld.org/): Polkadot Chinese community
 
 ## Tutorials
 - [Build a Custom Substrate Runtime](https://substrate.dev/docs/en/tutorials/creating-your-first-substrate-chain): A coin-flip game DAppChain with [@gavofyork](https://github.com/gavofyork)
