@@ -139,6 +139,7 @@ Showcasing projects built on Substrate
 - Agora.Trade - a cryptocurrency exchange for non-custodial trading ([Website](https://agora.trade](https://agora.trade/)))
 - Evolution Land - a virtual management game based on blockchain ([Github](https://github.com/evolutionlandorg/darwinia-appchain))
 - KatalChain - standard framework for DeFi ([Github](https://github.com/Trinkler/katal-chain))
+- Encointer - an egalitarian cryptocurrency and decentralized identity system ([encointer.org](https://encointer.org) / [Github](https://github.com/encointer/encointer-node/tree/PoC1))
 
 [source](https://forum.web3.foundation/t/teams-building-on-polkadot/67)
 
