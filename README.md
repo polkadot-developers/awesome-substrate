@@ -20,6 +20,7 @@ With Substrate, you get the following *customizable- functionalities out-of-the-
 - UI kits
 
 ## Table of Contents
+- [Happening this Month](#happening-this-month)
 - [Official Wikis](#official-Wikis)
 - [Official Channels](#social-channels)
 - [Timeline](#timeline)
@@ -33,6 +34,15 @@ With Substrate, you get the following *customizable- functionalities out-of-the-
 - [Appendix](#appendix)
     - [Historical](#historical)
     - [Helpful Diagrams](#helpful-diagrams)
+
+## Happening this Month
+
+### Substrate Collaborative Learning
+Substrate Collaborative Learning is an open video call where we learn Substrate together. We meet every other Monday at 16:00UTC. Ask for help, show off your project, learn Substrate, and make friends!
+[Join the Call](https://zoom.us/j/440029011), [Google Calendar](https://calendar.google.com/calendar/r/eventedit/aTI4MDRrZ2FpcGpzb2NmMmo4cGJqNXMyc2dfMjAxOTA4MjZUMTYwMDAwWiBwYXJpdHkuaW9fMzkzNzkzNDNoMDczdjA2cWh0MXZwcWNlZmNAZw?cid=cGFyaXR5LmlvXzM5Mzc5MzQzaDA3M3YwNnFodDF2cHFjZWZjQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20), [Previous Recordings](https://www.youtube.com/playlist?list=PLp0_ueXY_enUCPszf_3Q9ZxovLvKm1eMx)
+
+### Events
+Join the [Meetup Group](https://www.meetup.com/parity/events/) for Substrate events, talks, and workshops near you.
 
 ## Official Wikis
 - [Substrate Documentation](https://substrate.dev/rustdocs/): Official reference docs for Substrate in Rust
@@ -206,4 +216,3 @@ Solo chains, bridge chains, parachains
 
 Transaction flow:
 ![](https://i.imgur.com/fLCqnxw.png)
-
