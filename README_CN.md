@@ -80,6 +80,7 @@ Substrate相关的分享活动：
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/substrate): 常见问题和解决方案 `#substrate`
 - [Substrate Reddit](https://www.reddit.com/r/substrate/): Substrate社区论坛
 - [Polkadot Reddit](https://www.reddit.com/r/dot/): Polkadot社区论坛
+- [PolkaWorld](https://polkaworld.org/): Polkadot中国社区
 
 ## 开发指南
 - [构建自定义的Substrate运行环境](https://substrate.dev/docs/en/tutorials/creating-your-first-substrate-chain): 作者[@gavofyork](https://github.com/gavofyork)，抛硬币游戏DAppChain。
