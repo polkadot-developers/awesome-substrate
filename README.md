@@ -119,7 +119,6 @@ Sourced from [@folsen](https://github.com/folsen) and [@4meta5](https://github.c
 
 ## Projects
 Showcasing projects built on Substrate
-- IPFS browser. [Repo](https://github.com/Polygos/substrate-node-ipfsbrowser)
 - Substrate multisig. [Repo](https://github.com/mixbytes/substrate-module-multisig)
 - Merkle tree module. [Repo](https://github.com/filiplazovic/substrate-merkle-tree)
 - Parking spaces registry using Substrate. [Repo](https://github.com/yjkimjunior/ParkingSpaceSubstrate)
