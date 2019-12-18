@@ -177,6 +177,7 @@ Substrate相关的分享活动：
 - Speckle OS - 通用的身份和账户管理平行链 ([公告](https://medium.com/polkadot-network/dots-and-speckle-paving-the-way-forward-for-the-new-web-691beed50f1a))
 - Agora.Trade - 实现非保管交易的数字货币交易所 ([网站](https://agora.trade](https://agora.trade/)))
 - Evolution Land - 基于区块链的虚拟经营游戏 ([Github](https://github.com/evolutionlandorg/darwinia-appchain))
+- Substrate Dex - 一个基于substrate的Dex ([Github](https://github.com/alexxuyang/substrate-dex))
 
 [来源](https://forum.web3.foundation/t/teams-building-on-polkadot/67)
 
