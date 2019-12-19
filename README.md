@@ -135,7 +135,6 @@ Showcasing projects built on Substrate
 - ZeroChain - zK-SNARKs chain built on Substrate ([announcement](https://medium.com/layerx/announcing-zerochain-5b08e158355d))
 - Robonomics - cyber-physical systems integration ([Twitter status](https://twitter.com/AIRA_Robonomics/status/1079001376452210689))
 - MXC - IoT protocol ([website & technical paper](https://www.mxc.org))
-- Katallassos - financial contacts ([website](https://katallassos.com/))
 - Joystream - A user governed video platform ([announcement](https://blog.joystream.org/sparta/))
 - Asure Network - social security network ([website](https://www.asure.network/))
 - Kilt Protocol - identity trust market ([website](https://kiltprotocol.com/))
@@ -145,9 +144,8 @@ Showcasing projects built on Substrate
 - LayerX - zk-SNARKs chain ([announcement](https://medium.com/layerx/announcing-zerochain-5b08e158355d))
 - Plasm - Plasm is a Substrate Runtime Module Library allows developers to add Plasma functions to their Substrate chain ([GitHub](https://github.com/stakedtechnologies/Plasm))
 - Speckle OS - universal identity and account parachain ([announcement](https://medium.com/polkadot-network/dots-and-speckle-paving-the-way-forward-for-the-new-web-691beed50f1a))
-- Agora.Trade - a cryptocurrency exchange for non-custodial trading ([Website](https://agora.trade](https://agora.trade/)))
 - Evolution Land - a virtual management game based on blockchain ([Github](https://github.com/evolutionlandorg/darwinia-appchain))
-- KatalChain - standard framework for DeFi ([Github](https://github.com/Trinkler/katal-chain))
+- Katal Chain - Standard Framework for Finance ([website](https://katalchain.com))
 - Substrate Api Client - a rust library for connecting to substrate RPC API over websockets ([Github](https://github.com/scs/substrate-api-client))
 - Encointer - an egalitarian cryptocurrency and decentralized identity system ([encointer.org](https://encointer.org) / [Github](https://github.com/encointer/encointer-node/tree/PoC1))
 
