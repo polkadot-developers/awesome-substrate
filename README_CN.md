@@ -165,7 +165,7 @@ Substrate相关的分享活动：
 - ZeroChain - 基于Substrate开发的zK-SNARKs链 ([公告](https://medium.com/layerx/announcing-zerochain-5b08e158355d))
 - Robonomics - 信息实体系统集成 ([Twitter](https://twitter.com/AIRA_Robonomics/status/1079001376452210689))
 - MXC - IoT 协议 ([网站](https://www.mxc.org))
-- Katallassos - 金融合约 ([网站](https://katallassos.com/))
+- Katal Chain - 金融合约 ([网站](https://katalchain.com/))
 - Joystream - 用户治理的视频平台 ([公告](https://blog.joystream.org/sparta/))
 - Asure Network - 社交安全网络 ([网站](https://www.asure.network/))
 - Kilt Protocol - 身份信任市场 ([网站](https://kiltprotocol.com/))
@@ -175,7 +175,6 @@ Substrate相关的分享活动：
 - LayerX - zk-SNARKs 链 ([announcement](https://medium.com/layerx/announcing-zerochain-5b08e158355d))
 - Plasm - Plasm 是Substrate的一个运行时模块，可以方便开发者添加Plasma功能到自己的Substrate链中 ([代码](https://github.com/stakedtechnologies/Plasm))
 - Speckle OS - 通用的身份和账户管理平行链 ([公告](https://medium.com/polkadot-network/dots-and-speckle-paving-the-way-forward-for-the-new-web-691beed50f1a))
-- Agora.Trade - 实现非保管交易的数字货币交易所 ([网站](https://agora.trade](https://agora.trade/)))
 - Evolution Land - 基于区块链的虚拟经营游戏 ([Github](https://github.com/evolutionlandorg/darwinia-appchain))
 
 [来源](https://forum.web3.foundation/t/teams-building-on-polkadot/67)
