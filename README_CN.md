@@ -176,6 +176,7 @@ Substrate相关的分享活动：
 - Plasm - Plasm 是Substrate的一个运行时模块，可以方便开发者添加Plasma功能到自己的Substrate链中 ([代码](https://github.com/stakedtechnologies/Plasm))
 - Speckle OS - 通用的身份和账户管理平行链 ([公告](https://medium.com/polkadot-network/dots-and-speckle-paving-the-way-forward-for-the-new-web-691beed50f1a))
 - Evolution Land - 基于区块链的虚拟经营游戏 ([Github](https://github.com/evolutionlandorg/darwinia-appchain))
+- Substrate Dex - 一个基于substrate的Dex ([Github](https://github.com/alexxuyang/substrate-dex))
 
 [来源](https://forum.web3.foundation/t/teams-building-on-polkadot/67)
 

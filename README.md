@@ -148,6 +148,7 @@ Showcasing projects built on Substrate
 - Katal Chain - Standard Framework for Finance ([website](https://katalchain.com))
 - Substrate Api Client - a rust library for connecting to substrate RPC API over websockets ([Github](https://github.com/scs/substrate-api-client))
 - Encointer - an egalitarian cryptocurrency and decentralized identity system ([encointer.org](https://encointer.org) / [Github](https://github.com/encointer/encointer-node/tree/PoC1))
+- Substrate Dex - an decentrolized exchange demo build by substrate ([Github](https://github.com/alexxuyang/substrate-dex))
 
 [source](https://forum.web3.foundation/t/teams-building-on-polkadot/67)
 
