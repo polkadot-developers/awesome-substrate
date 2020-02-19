@@ -124,6 +124,7 @@ Showcasing projects built on Substrate
 - Parking spaces registry using Substrate. [Repo](https://github.com/yjkimjunior/ParkingSpaceSubstrate)
 - An "Apple Store": sells apples using Substrate. [Repo](https://github.com/osuketh/apple-store-substrate)
 - ChainLink - developing an oracle ([announcement](https://medium.com/web3foundation/web3-foundation-and-chainlink-announce-collaboration-df55ed462a3a))
+- DataHighway - decentralized IoT roaming, mining (locking, signalling), inter-chain data market, DAO ([website](https://www.datahighway.com), [docs & technical paper](https://dev.datahighway.com), [Github](https://github.com/DataHighway-DHX))
 - 0x protocol - decentralized exchange ([Tweet](https://twitter.com/recmo/status/1081637877027549190?s=09))
 - Aragon - unstoppable organizations, DAOs ([Presentation](https://twitter.com/rzurrer/status/1090201496753504259))
 - AdEx - implementing their registry ([announcement](https://medium.com/web3foundation/adex-announces-substrate-implementation-3fdeed8bf494))
