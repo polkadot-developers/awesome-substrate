@@ -154,6 +154,7 @@ Substrate相关的分享活动：
 - 使用Substrate实现停车场车位登记. [代码](https://github.com/yjkimjunior/ParkingSpaceSubstrate)
 - 使用Substrate构建出售苹果的线上商店. [代码](https://github.com/osuketh/apple-store-substrate)
 - ChainLink - 正在开发预言机 ([公告](https://medium.com/web3foundation/web3-foundation-and-chainlink-announce-collaboration-df55ed462a3a))
+- DataHighway - 分散式物聯網漫遊，挖掘（鎖定，信令），鏈間數據市場, DAO ([网站](https://www.datahighway.com), [文件和技術報告](https://dev.datahighway.com), [Github 代码](https://github.com/DataHighway-DHX))
 - 0x protocol - 去中心化的交易所 ([Tweet](https://twitter.com/recmo/status/1081637877027549190?s=09))
 - Aragon - 永不离线的组织，DAOs ([演讲](https://twitter.com/rzurrer/status/1090201496753504259))
 - AdEx - 正在实现他们的TCR ([公告](https://medium.com/web3foundation/adex-announces-substrate-implementation-3fdeed8bf494))
