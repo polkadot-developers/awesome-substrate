@@ -150,6 +150,8 @@ Showcasing projects built on Substrate
 - Substrate Api Client - a rust library for connecting to substrate RPC API over websockets ([Github](https://github.com/scs/substrate-api-client))
 - Encointer - an egalitarian cryptocurrency and decentralized identity system ([encointer.org](https://encointer.org) / [Github](https://github.com/encointer/encointer-node/tree/PoC1))
 - Substrate Dex - an decentrolized exchange demo build by substrate ([Github](https://github.com/alexxuyang/substrate-dex))
+- Starmesh - 🛰🌍 Earth Observation data. 👀 Cryptographically verifiable and 🕸 distributed. ([website](https://starmesh.xyz), [Github](https://github.com/starmesh), [Twitter](https://twitter.com/StarMesh1))
+- KodaDot - VueJs wallet & governance dashboard for @polkadot and @substrate_io based networks. - ([website](https://vue-polkadot.js.org), [Github](https://github.com/vue-polkadot/), [Twitter](https://twitter.com/KodaDot))
 
 [source](https://forum.web3.foundation/t/teams-building-on-polkadot/67)
 
