@@ -152,6 +152,7 @@ Showcasing projects built on Substrate
 - Substrate Dex - an decentrolized exchange demo build by substrate ([Github](https://github.com/alexxuyang/substrate-dex))
 - Starmesh - 🛰🌍 Earth Observation data. 👀 Cryptographically verifiable and 🕸 distributed. ([website](https://starmesh.xyz), [Github](https://github.com/starmesh), [Twitter](https://twitter.com/StarMesh1))
 - KodaDot - VueJs wallet & governance dashboard for @polkadot and @substrate_io based networks. - ([website](https://vue-polkadot.js.org), [Github](https://github.com/vue-polkadot/), [Twitter](https://twitter.com/KodaDot))
+- Subsocial - A protocol for social networks and marketplaces. ([website](http://subsocial.network), [GitHub](https://github.com/dappforce), [Twitter](https://twitter.com/DappForce))
 
 [source](https://forum.web3.foundation/t/teams-building-on-polkadot/67)
 
