@@ -80,6 +80,7 @@ code that is maintained by [Parity Technologies](https://www.parity.io/).
 - [Reddit](https://www.reddit.com/r/substrate/) - Official subreddit
 - [Polkadot Stack](https://github.com/w3f/General-Grants-Program/blob/master/grants/polkadot_stack.md) -
   Another awesome list maintained by our friends at [Web3 Foundation](https://web3.foundation/)
+- [Subsocial](https://subsocial.network/) - Decentralized social network for Polkadot / Kusama ecosystem. Built on Substrate + IPFS.
 
 ## Frameworks
 
