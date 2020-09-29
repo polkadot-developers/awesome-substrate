@@ -156,3 +156,7 @@ code that is maintained by [Parity Technologies](https://www.parity.io/).
   hardware wallet
 - [Fork Off Substrate](https://github.com/maxsam4/fork-off-substrate) - Script to help bootstrap a
   new chain with the state of a running chain
+- [Substrate debug-kit](https://github.com/paritytech/substrate-debug-kit) - A collection of debug 
+  tools and libraries around substrate chains, including  
+  [offline-election](https://github.com/paritytech/substrate-debug-kit/tree/master/offline-election), 
+  used to predict npos elections. 
