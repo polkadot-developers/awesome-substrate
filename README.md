@@ -42,8 +42,8 @@ code that is maintained by [Parity Technologies](https://www.parity.io/).
 - [Seminar](https://substrate.dev/seminar) - Collaborative learning on
   [Crowdcast](https://www.crowdcast.io/e/substrate-seminar)
 - [Technical Chat](https://app.element.io/#/room/!HzySYSaIhtyWrwiwEV:matrix.org) - Ask questions & chat with other Substrate developers.
-- [Builders Program](https://www.substrate.io/builders-program) - white-glove support for visionary teams.
-- [Web3 Foundation Grants](https://web3.foundation/grants) - funding for ecosystem development.
+- [Builders Program](https://www.substrate.io/builders-program) - White-glove support for visionary teams.
+- [Web3 Foundation Grants](https://web3.foundation/grants) - Funding for ecosystem development.
 - [Users](https://www.substrate.io/substrate-users) - Teams building with Substrate.
 - [GitHub](https://github.com/paritytech/substrate) - Substrate source code.
 - [Developer Hub GitHub](https://github.com/substrate-developer-hub/) - Developer Hub repositories.
