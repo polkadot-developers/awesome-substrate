@@ -152,6 +152,6 @@ code that is maintained by [Parity Technologies](https://www.parity.io/).
 - [Fork Off Substrate](https://github.com/maxsam4/fork-off-substrate) - Script to help bootstrap a
   new chain with the state of a running chain.
 - [Substrate debug-kit](https://github.com/paritytech/substrate-debug-kit) - A collection of tools
-  and libraries for debugging Substrate-based chains, including  
+  and libraries for debugging Substrate-based chains, including
   [`offline-election`](https://github.com/paritytech/substrate-debug-kit/tree/master/offline-election),
   which is a tool that is used to predict nominated proof-of-stake elections.
