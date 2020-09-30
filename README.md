@@ -9,7 +9,7 @@
 
 -[Developer Resources: Awesome Lists](https://codeburst.io/developer-resources-awesome-lists-2c85b45a0216)
 
-This is the official **Awesome List** for [Substrate](https://substrate.io/); it is maintained by
+This is the official **Awesome List** for Substrate (Link in Official Resources); it is maintained by
 the [Substrate Developer Hub](https://substrate.dev/) team.
 
 ## Contents
