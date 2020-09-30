@@ -76,8 +76,7 @@ code that is maintained by [Parity Technologies](https://www.parity.io/).
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/substrate) - Questions tagged
   `substrate`.
 - [Reddit](https://www.reddit.com/r/substrate/) - Official subreddit.
-- [Polkadot Stack](https://github.com/w3f/General-Grants-Program/blob/master/grants/polkadot_stack.md) -
-  Another awesome list maintained by our friends at [Web3 Foundation](https://web3.foundation/)
+- [Polkadot Stack](https://github.com/w3f/General-Grants-Program/blob/master/grants/polkadot_stack.md) - Another awesome list maintained by our friends at [Web3 Foundation](https://web3.foundation/)
 - [Subsocial](https://subsocial.network/) - Decentralized social network for Polkadot / Kusama ecosystem. Built on Substrate + IPFS.
 
 ## Frameworks
@@ -109,14 +108,10 @@ code that is maintained by [Parity Technologies](https://www.parity.io/).
 
 ## Pallets
 
-- [Open Runtime Module Library (ORML)](https://github.com/open-web3-stack/open-runtime-module-library) -
-  Community maintained collection of Substrate runtime modules
-- [Sunshine Bounty](https://github.com/sunshine-protocol/sunshine-bounty/tree/master/pallets) -
-  Distributed autonomous organization (DAO) for administering a bounty program
-- [Sunshine Identity](https://github.com/sunshine-protocol/sunshine-keybase/tree/master/identity/pallet) -
-  Keybase-inspired identity management
-- [Sunshine Faucet](https://github.com/sunshine-protocol/sunshine-keybase/tree/master/faucet/pallet) -
-  Dispense resources for a development chain
+- [Open Runtime Module Library (ORML)](https://github.com/open-web3-stack/open-runtime-module-library) - Community maintained collection of Substrate runtime modules.
+- [Sunshine Bounty](https://github.com/sunshine-protocol/sunshine-bounty/tree/master/pallets) - Distributed autonomous organization (DAO) for administering a bounty program.
+- [Sunshine Identity](https://github.com/sunshine-protocol/sunshine-keybase/tree/master/identity/pallet) - Keybase-inspired identity management.
+- [Sunshine Faucet](https://github.com/sunshine-protocol/sunshine-keybase/tree/master/faucet/pallet) - Dispense resources for a development chain.
 - [Commodities](https://github.com/danforbes/pallet-nft) - Defines and implements a non-fungible
   token interface.
 
@@ -151,8 +146,7 @@ code that is maintained by [Parity Technologies](https://www.parity.io/).
   working with cryptographic keys.
 - [Polkascan](https://polkascan.io/) - Multi-chain block explorer maintained by
   [Polkascan Foundation](https://polkascan.org/)
-- [VSCode Substrate](https://marketplace.visualstudio.com/items?itemName=paritytech.vscode-substrate) -
-  Official plugin for Visual Studio Code
+- [VSCode Substrate](https://marketplace.visualstudio.com/items?itemName=paritytech.vscode-substrate) - Official plugin for Visual Studio Code.
 - [Parity Signer](https://www.parity.io/signer/) - Upcycle an unused mobile phone into an air-gapped
   hardware wallet.
 - [Fork Off Substrate](https://github.com/maxsam4/fork-off-substrate) - Script to help bootstrap a
