@@ -24,12 +24,13 @@ the Substrate Developer Hub (Link under Official Resources) team.
 - [Pallets](#pallets)
 - [Client Libraries](#client-libraries)
 - [Ecosystem Tools](#ecosystem-tools)
+- [Key Contributors](#key-contributors)
 
 ## What Substrate is
 
 Substrate is a framework for building upgradable, modular and efficient blockchains. Substrate is an
 open-source (see 'GitHub' under Official Resources) library of [Rust](https://www.rust-lang.org/)
-code that is maintained by [Parity Technologies](https://www.parity.io/).
+code that is maintained by Parity Technologies (see Key Contributors).
 
 ## Official Resources
 
@@ -76,7 +77,7 @@ code that is maintained by [Parity Technologies](https://www.parity.io/).
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/substrate) - Questions tagged
   `substrate`.
 - [Reddit](https://www.reddit.com/r/substrate/) - Official subreddit.
-- [Polkadot Stack](https://github.com/w3f/General-Grants-Program/blob/master/grants/polkadot_stack.md) - Another awesome list maintained by our friends at [Web3 Foundation](https://web3.foundation/)
+- [Polkadot Stack](https://github.com/w3f/General-Grants-Program/blob/master/grants/polkadot_stack.md) - Another awesome list maintained by our friends at Web3 Foundation (see Key Contributors).
 - [Subsocial](https://subsocial.network/) - Decentralized social network for Polkadot / Kusama ecosystem. Built on Substrate + IPFS.
 
 ## Frameworks
@@ -119,17 +120,17 @@ code that is maintained by [Parity Technologies](https://www.parity.io/).
 
 - [`subxt`](https://github.com/paritytech/substrate-subxt) - Official Rust client.
 - [Substrate API Client](https://github.com/scs/substrate-api-client) - Rust client maintained by
-  [Supercomputing Systems AG](https://www.scs.ch/)
+  Supercomputing Systems AG (see Key Contributors).
 - [Polkadot-JS API](https://github.com/polkadot-js/api/) - Semi-official JavaScript library for
   Substrate-based chains.
 - [Python Substrate Interface](https://github.com/polkascan/py-substrate-interface) - Maintained by
-  [Polkascan Foundation](https://polkascan.org/)
+  Polkascan Foundation (see Key Contributors).
 - [Go Substrate RPC Client](https://github.com/centrifuge/go-substrate-rpc-client/) - Maintained by
-  [Centrifuge](https://centrifuge.io/)
+  Centrifuge (see Key Contributors).
 - [Substrate C++ API](https://github.com/usetech-llc/polkadot_api_cpp) - Maintained by
-  [Usetech](https://usetech.com/blockchain/)
+  Usetech (see Key Contributors).
 - [Substrate .Net API](https://github.com/usetech-llc/polkadot_api_dotnet) - Maintained by
-  [Usetech](https://usetech.com/blockchain/)
+  Usetech (see Key Contributors).
 
 ## Ecosystem Tools
 
@@ -144,8 +145,7 @@ code that is maintained by [Parity Technologies](https://www.parity.io/).
   creation.
 - [Subkey](https://substrate.dev/docs/en/knowledgebase/integrate/subkey) - Command line utility for
   working with cryptographic keys.
-- [Polkascan](https://polkascan.io/) - Multi-chain block explorer maintained by
-  [Polkascan Foundation](https://polkascan.org/)
+- [Polkascan](https://polkascan.io/) - Multi-chain block explorer maintained by Polkascan Foundation (see Key Contributors).
 - [VSCode Substrate](https://marketplace.visualstudio.com/items?itemName=paritytech.vscode-substrate) - Official plugin for Visual Studio Code.
 - [Parity Signer](https://www.parity.io/signer/) - Upcycle an unused mobile phone into an air-gapped
   hardware wallet.
@@ -155,3 +155,12 @@ code that is maintained by [Parity Technologies](https://www.parity.io/).
   and libraries for debugging Substrate-based chains, including
   [`offline-election`](https://github.com/paritytech/substrate-debug-kit/tree/master/offline-election),
   which is a tool that is used to predict nominated proof-of-stake elections.
+
+## Key Contributors
+
+- [Parity Technologies](https://www.parity.io/)
+- [Web3 Foundation](https://web3.foundation/)
+- [Supercomputing Systems AG](https://www.scs.ch/)
+- [Polkascan Foundation](https://polkascan.org/)
+- [Centrifuge](https://centrifuge.io/)
+- [Usetech](https://usetech.com/blockchain/)
