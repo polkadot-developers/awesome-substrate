@@ -12,14 +12,9 @@
 This is the official **Awesome List** for [Substrate](https://substrate.io/); it is maintained by
 the [Substrate Developer Hub](https://substrate.dev/) team.
 
-## What is Substrate?
+## Contents
 
-Substrate is a framework for building upgradable, modular and efficient blockchains. Substrate is an
-[open-source](https://github.com/paritytech/substrate) library of [Rust](https://www.rust-lang.org/)
-code that is maintained by [Parity Technologies](https://www.parity.io/).
-
-## Table of Contents
-
+- [What Substrate is](#what-substrate-is)
 - [Official Resources](#official-resources)
 - [Recordings](#recordings)
 - [Workshops & Demos](#workshops--demos)
@@ -29,6 +24,12 @@ code that is maintained by [Parity Technologies](https://www.parity.io/).
 - [Pallets](#pallets)
 - [Client Libraries](#client-libraries)
 - [Ecosystem Tools](#ecosystem-tools)
+
+## What Substrate is
+
+Substrate is a framework for building upgradable, modular and efficient blockchains. Substrate is an
+[open-source](https://github.com/paritytech/substrate) library of [Rust](https://www.rust-lang.org/)
+code that is maintained by [Parity Technologies](https://www.parity.io/).
 
 ## Official Resources
 
@@ -161,5 +162,5 @@ code that is maintained by [Parity Technologies](https://www.parity.io/).
   new chain with the state of a running chain
 - [Substrate debug-kit](https://github.com/paritytech/substrate-debug-kit) - A collection of tools
   and libraries for debugging Substrate-based chains, including  
-  [`offline-election`](https://github.com/paritytech/substrate-debug-kit/tree/master/offline-election), 
-  which is a tool that is used to predict nominated proof-of-stake elections. 
+  [`offline-election`](https://github.com/paritytech/substrate-debug-kit/tree/master/offline-election),
+  which is a tool that is used to predict nominated proof-of-stake elections.
