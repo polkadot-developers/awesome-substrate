@@ -93,7 +93,9 @@ code that is maintained by [Parity Technologies](https://www.parity.io/).
 - [Frontier](https://github.com/paritytech/frontier) - End-to-end Ethereum emulation for Substrate
   chains
 - [Polkadot-JS](https://polkadot.js.org/) - Rich framework for front-end development
-- [SubstraTEE](https://www.substratee.com) - Trusted off-chain execution framework using Intel SGX TEEs
+- [SubstraTEE](https://www.substratee.com) - Trusted off-chain execution framework that uses
+  [Intel SGX](https://en.wikipedia.org/wiki/Software_Guard_Extensions) trusted execution
+  environments
 
 ## Templates
 
