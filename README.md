@@ -120,7 +120,7 @@ code that is maintained by [Parity Technologies](https://www.parity.io/).
 - [`subxt`](https://github.com/paritytech/substrate-subxt) - Official Rust client.
 - [Substrate API Client](https://github.com/scs/substrate-api-client) - Rust client maintained by
   [Supercomputing Systems AG](https://www.scs.ch/)
-- [Polkadot-JS API](https://github.com/polkadot-js/api/) - Semi-official Javascript library for
+- [Polkadot-JS API](https://github.com/polkadot-js/api/) - Semi-official JavaScript library for
   Substrate-based chains.
 - [Python Substrate Interface](https://github.com/polkascan/py-substrate-interface) - Maintained by
   [Polkascan Foundation](https://polkascan.org/)
