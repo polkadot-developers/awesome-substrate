@@ -9,8 +9,8 @@
 
 -[Developer Resources: Awesome Lists](https://codeburst.io/developer-resources-awesome-lists-2c85b45a0216)
 
-This is the official **Awesome List** for Substrate (Link in Official Resources); it is maintained by
-the [Substrate Developer Hub](https://substrate.dev/) team.
+This is the official **Awesome List** for Substrate (Link under Official Resources); it is maintained by
+the Substrate Developer Hub (Link under Official Resources) team.
 
 ## Contents
 
@@ -28,7 +28,7 @@ the [Substrate Developer Hub](https://substrate.dev/) team.
 ## What Substrate is
 
 Substrate is a framework for building upgradable, modular and efficient blockchains. Substrate is an
-[open-source](https://github.com/paritytech/substrate) library of [Rust](https://www.rust-lang.org/)
+open-source (see 'GitHub' under Official Resources) library of [Rust](https://www.rust-lang.org/)
 code that is maintained by [Parity Technologies](https://www.parity.io/).
 
 ## Official Resources
@@ -97,13 +97,13 @@ code that is maintained by [Parity Technologies](https://www.parity.io/).
 ## Templates
 
 - [Node](https://github.com/substrate-developer-hub/substrate-node-template) - A fresh
-  [FRAME](https://substrate.dev/docs/en/knowledgebase/runtime/frame)-based node, ready for hacking.
+  FRAME-based node, ready for hacking (see 'FRAME' under Frameworks for more info).
 - [Pallet](https://github.com/substrate-developer-hub/substrate-pallet-template) - Easily create
   pluggable blockchain capabilities.
 - [Parachain](https://github.com/substrate-developer-hub/substrate-parachain-template) - A new
-  [Cumulus](https://github.com/paritytech/cumulus)-based Substrate node, ready for hacking.
+  Cumulus-based Substrate node, ready for hacking (see 'Cumulus' under Frameworks for more info).
 - [Front-End](https://github.com/substrate-developer-hub/substrate-front-end-template) - Use the
-  [Polkadot-JS API](https://github.com/polkadot-js/api/) and [React](https://reactjs.org/) to build
+  Polkadot-JS API (see 'Polkadot-JS API' nuder Client Libraries) and [React](https://reactjs.org/) to build
   front-ends for Substrate-based chains.
 
 ## Pallets
