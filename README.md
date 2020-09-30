@@ -9,8 +9,8 @@
 
 -[Developer Resources: Awesome Lists](https://codeburst.io/developer-resources-awesome-lists-2c85b45a0216)
 
-This is the official **Awesome List** for Substrate (Link under Official Resources); it is maintained by
-the Substrate Developer Hub (Link under Official Resources) team.
+This is the official **Awesome List** for Substrate, it is maintained by the Substrate Developer Hub
+team.
 
 ## Contents
 
@@ -24,26 +24,28 @@ the Substrate Developer Hub (Link under Official Resources) team.
 - [Pallets](#pallets)
 - [Client Libraries](#client-libraries)
 - [Ecosystem Tools](#ecosystem-tools)
-- [Key Contributors](#key-contributors)
 
 ## What Substrate is
 
 Substrate is a framework for building upgradable, modular and efficient blockchains. Substrate is an
-open-source (see 'GitHub' under Official Resources) library of [Rust](https://www.rust-lang.org/)
-code that is maintained by Parity Technologies (see Key Contributors).
+open-source library of [Rust](https://www.rust-lang.org/) code that is maintained by
+[Parity Technologies](https://www.parity.io/).
 
 ## Official Resources
 
 - [substrate.io](https://substrate.io/) - Product page.
 - [Developer Hub](https://substrate.dev/) - Developer portal.
   - [Tutorials](https://substrate.dev/tutorials) - Guided exercises to get you started.
-  - [Knowledge Base](https://substrate.dev/knowledgebase) - In-depth documentation related to Substrate development.
+  - [Knowledge Base](https://substrate.dev/knowledgebase) - In-depth documentation related to
+    Substrate development.
   - [Recipes](https://substrate.dev/recipes) - Working code examples that solve common problems.
   - [Reference Docs](https://substrate.dev/rustdocs) - Rustdoc API documentation.
 - [Seminar](https://substrate.dev/seminar) - Collaborative learning on
   [Crowdcast](https://www.crowdcast.io/e/substrate-seminar)
-- [Technical Chat](https://app.element.io/#/room/!HzySYSaIhtyWrwiwEV:matrix.org) - Ask questions & chat with other Substrate developers.
-- [Builders Program](https://www.substrate.io/builders-program) - White-glove support for visionary teams.
+- [Technical Chat](https://app.element.io/#/room/!HzySYSaIhtyWrwiwEV:matrix.org) - Ask questions &
+  chat with other Substrate developers.
+- [Builders Program](https://www.substrate.io/builders-program) - White-glove support for visionary
+  teams.
 - [Web3 Foundation Grants](https://web3.foundation/grants) - Funding for ecosystem development.
 - [Users](https://www.substrate.io/substrate-users) - Teams building with Substrate.
 - [GitHub](https://github.com/paritytech/substrate) - Substrate source code.
@@ -77,8 +79,10 @@ code that is maintained by Parity Technologies (see Key Contributors).
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/substrate) - Questions tagged
   `substrate`.
 - [Reddit](https://www.reddit.com/r/substrate/) - Official subreddit.
-- [Polkadot Stack](https://github.com/w3f/General-Grants-Program/blob/master/grants/polkadot_stack.md) - Another awesome list maintained by our friends at Web3 Foundation (see Key Contributors).
-- [Subsocial](https://subsocial.network/) - Decentralized social network for Polkadot / Kusama ecosystem. Built on Substrate + IPFS.
+- [Polkadot Stack](https://github.com/w3f/General-Grants-Program/blob/master/grants/polkadot_stack.md) - Another
+  awesome list maintained by our friends at [Web3 Foundation](https://web3.foundation/).
+- [Subsocial](https://subsocial.network/) - Decentralized social network for the Polkadot / Kusama
+  ecosystem. Built on Substrate + IPFS.
 
 ## Frameworks
 
@@ -97,22 +101,25 @@ code that is maintained by Parity Technologies (see Key Contributors).
 
 ## Templates
 
-- [Node](https://github.com/substrate-developer-hub/substrate-node-template) - A fresh
-  FRAME-based node, ready for hacking (see 'FRAME' under Frameworks for more info).
+- [Node](https://github.com/substrate-developer-hub/substrate-node-template) - A fresh FRAME-based
+  node, ready for hacking.
 - [Pallet](https://github.com/substrate-developer-hub/substrate-pallet-template) - Easily create
   pluggable blockchain capabilities.
 - [Parachain](https://github.com/substrate-developer-hub/substrate-parachain-template) - A new
   Cumulus-based Substrate node, ready for hacking (see 'Cumulus' under Frameworks for more info).
 - [Front-End](https://github.com/substrate-developer-hub/substrate-front-end-template) - Use the
-  Polkadot-JS API (see 'Polkadot-JS API' nuder Client Libraries) and [React](https://reactjs.org/) to build
-  front-ends for Substrate-based chains.
+  Polkadot-JS API and [React](https://reactjs.org/) to build front-ends for Substrate-based chains.
 
 ## Pallets
 
-- [Open Runtime Module Library (ORML)](https://github.com/open-web3-stack/open-runtime-module-library) - Community maintained collection of Substrate runtime modules.
-- [Sunshine Bounty](https://github.com/sunshine-protocol/sunshine-bounty/tree/master/pallets) - Distributed autonomous organization (DAO) for administering a bounty program.
-- [Sunshine Identity](https://github.com/sunshine-protocol/sunshine-keybase/tree/master/identity/pallet) - Keybase-inspired identity management.
-- [Sunshine Faucet](https://github.com/sunshine-protocol/sunshine-keybase/tree/master/faucet/pallet) - Dispense resources for a development chain.
+- [Open Runtime Module Library (ORML)](https://github.com/open-web3-stack/open-runtime-module-library) - Community
+  maintained collection of Substrate runtime modules.
+- [Sunshine Bounty](https://github.com/sunshine-protocol/sunshine-bounty/tree/master/pallets) - Distributed
+  autonomous organization (DAO) for administering a bounty program.
+- [Sunshine Identity](https://github.com/sunshine-protocol/sunshine-keybase/tree/master/identity/pallet) - Keybase-inspired
+  identity management.
+- [Sunshine Faucet](https://github.com/sunshine-protocol/sunshine-keybase/tree/master/faucet/pallet) - Dispense
+  resources for a development chain.
 - [Commodities](https://github.com/danforbes/pallet-nft) - Defines and implements a non-fungible
   token interface.
 
@@ -120,17 +127,16 @@ code that is maintained by Parity Technologies (see Key Contributors).
 
 - [`subxt`](https://github.com/paritytech/substrate-subxt) - Official Rust client.
 - [Substrate API Client](https://github.com/scs/substrate-api-client) - Rust client maintained by
-  Supercomputing Systems AG (see Key Contributors).
+  [Supercomputing Systems AG](https://www.scs.ch/).
 - [Polkadot-JS API](https://github.com/polkadot-js/api/) - Semi-official JavaScript library for
   Substrate-based chains.
 - [Python Substrate Interface](https://github.com/polkascan/py-substrate-interface) - Maintained by
-  Polkascan Foundation (see Key Contributors).
+  [Polkascan Foundation](https://polkascan.org/).
 - [Go Substrate RPC Client](https://github.com/centrifuge/go-substrate-rpc-client/) - Maintained by
-  Centrifuge (see Key Contributors).
+  [Centrifuge](https://centrifuge.io/).
 - [Substrate C++ API](https://github.com/usetech-llc/polkadot_api_cpp) - Maintained by
-  Usetech (see Key Contributors).
-- [Substrate .Net API](https://github.com/usetech-llc/polkadot_api_dotnet) - Maintained by
-  Usetech (see Key Contributors).
+  [Usetech](https://usetech.com/blockchain/).
+- [Substrate .Net API](https://github.com/usetech-llc/polkadot_api_dotnet) - Maintained by Usetech.
 
 ## Ecosystem Tools
 
@@ -145,8 +151,10 @@ code that is maintained by Parity Technologies (see Key Contributors).
   creation.
 - [Subkey](https://substrate.dev/docs/en/knowledgebase/integrate/subkey) - Command line utility for
   working with cryptographic keys.
-- [Polkascan](https://polkascan.io/) - Multi-chain block explorer maintained by Polkascan Foundation (see Key Contributors).
-- [VSCode Substrate](https://marketplace.visualstudio.com/items?itemName=paritytech.vscode-substrate) - Official plugin for Visual Studio Code.
+- [Polkascan](https://polkascan.io/) - Multi-chain block explorer maintained by Polkascan
+   Foundation.
+- [VSCode Substrate](https://marketplace.visualstudio.com/items?itemName=paritytech.vscode-substrate) - Official
+  plugin for Visual Studio Code.
 - [Parity Signer](https://www.parity.io/signer/) - Upcycle an unused mobile phone into an air-gapped
   hardware wallet.
 - [Fork Off Substrate](https://github.com/maxsam4/fork-off-substrate) - Script to help bootstrap a
@@ -155,12 +163,3 @@ code that is maintained by Parity Technologies (see Key Contributors).
   and libraries for debugging Substrate-based chains, including
   [`offline-election`](https://github.com/paritytech/substrate-debug-kit/tree/master/offline-election),
   which is a tool that is used to predict nominated proof-of-stake elections.
-
-## Key Contributors
-
-- [Parity Technologies](https://www.parity.io/)
-- [Web3 Foundation](https://web3.foundation/)
-- [Supercomputing Systems AG](https://www.scs.ch/)
-- [Polkascan Foundation](https://polkascan.org/)
-- [Centrifuge](https://centrifuge.io/)
-- [Usetech](https://usetech.com/blockchain/)
