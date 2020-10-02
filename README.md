@@ -163,3 +163,4 @@ open-source library of [Rust](https://www.rust-lang.org/) code that is maintaine
   and libraries for debugging Substrate-based chains, including
   [`offline-election`](https://github.com/paritytech/substrate-debug-kit/tree/master/offline-election),
   which is a tool that is used to predict nominated proof-of-stake elections.
+- [`sup`](https://github.com/clearloop/sup) - Command line tool for generating or upgrading a Substrate node.
