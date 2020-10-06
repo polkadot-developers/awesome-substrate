@@ -19,6 +19,7 @@ team.
 - [Recordings](#recordings)
 - [Workshops & Demos](#workshops--demos)
 - [Community Resources](#community-resources)
+  - [Guides](#community-resources---guides)
 - [Frameworks](#frameworks)
 - [Templates](#templates)
 - [Pallets](#pallets)
@@ -83,6 +84,12 @@ open-source library of [Rust](https://www.rust-lang.org/) code that is maintaine
   awesome list maintained by our friends at [Web3 Foundation](https://web3.foundation/).
 - [Subsocial](https://subsocial.network/) - Decentralized social network for the Polkadot / Kusama
   ecosystem. Built on Substrate + IPFS.
+
+### Community Resources - Guides
+
+- [Build Substrate in a few minutes at a low cost](https://medium.com/@yangWao/build-substrate-in-few-minutes-with-fraction-costs-26fce6aa5066) - Guide
+  to using [`cargo remote`](https://github.com/sgeisler/cargo-remote) and [Google Cloud](https://cloud.google.com/) to
+  reduce Substrate build times; written by Substrate community member [Matej Nemček](https://medium.com/@yangWao).
 
 ## Frameworks
 
