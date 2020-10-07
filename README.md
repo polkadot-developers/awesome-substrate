@@ -144,6 +144,8 @@ open-source library of [Rust](https://www.rust-lang.org/) code that is maintaine
 - [Substrate C++ API](https://github.com/usetech-llc/polkadot_api_cpp) - Maintained by
   [Usetech](https://usetech.com/blockchain/).
 - [Substrate .Net API](https://github.com/usetech-llc/polkadot_api_dotnet) - Maintained by Usetech.
+- [SubstrateNetApi](https://github.com/darkfriend77/SubstrateNetApi) - Maintained by Substrate community member Cedric
+  Decoster ([@darkfriend77 on GitHub](https://github.com/darkfriend77)).
 
 ## Ecosystem Tools
 
