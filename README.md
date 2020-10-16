@@ -4,10 +4,9 @@
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-> Awesome lists are curated lists of awesome projects and resources concerning a topic, a
-> programming language, a technology, etc.
+> An awesome list is a list of awesome things curated by the community.
 
--[Developer Resources: Awesome Lists](https://codeburst.io/developer-resources-awesome-lists-2c85b45a0216)
+-[GitHub Topics: Awesome Lists](https://github.com/topics/awesome-list)
 
 This is the official **Awesome List** for Substrate, it is maintained by the Substrate Developer Hub
 team.
