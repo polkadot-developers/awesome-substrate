@@ -14,19 +14,22 @@ team.
 
 ## Contents
 
-- [What Substrate is](#what-substrate-is)
+- [What is Substrate](#what-is-substrate)
 - [Official Resources](#official-resources)
 - [Recordings](#recordings)
 - [Workshops & Demos](#workshops--demos)
 - [Community Resources](#community-resources)
-  - [Guides](#community-resources---guides)
+  - [Community Resources - Guides](#community-resources---guides)
 - [Frameworks](#frameworks)
 - [Templates](#templates)
 - [Pallets](#pallets)
 - [Client Libraries](#client-libraries)
 - [Ecosystem Tools](#ecosystem-tools)
+- [Alternative Implementations](#alternative-implementations)
+- [SCALE Codec](#scale-codec)
+  - [SCALE Codec - Implementations](#scale-codec---implementations)
 
-## What Substrate is
+## What is Substrate
 
 Substrate is a framework for building upgradable, modular and efficient blockchains. Substrate is an
 open-source library of [Rust](https://www.rust-lang.org/) code that is maintained by
@@ -55,6 +58,8 @@ open-source library of [Rust](https://www.rust-lang.org/) code that is maintaine
   Parity-sponsored chains.
 - [Parity Blog](https://www.parity.io/blog/) - Read about updates in the Substrate ecosystem.
 - [Twitter](https://twitter.com/substrate_io) - Follow us to stay up-to-date.
+- [Polkassembly](https://polkassembly.io/) - The place to discuss and vote on Kusama and Polkadot
+  governance.
 
 ## Recordings
 
@@ -64,6 +69,8 @@ open-source library of [Rust](https://www.rust-lang.org/) code that is maintaine
 - [Bridges & Cross-Chain Interoperability](https://www.crowdcast.io/e/substrate-seminar/12)
 - [Archive Indexing Engine](https://www.crowdcast.io/e/substrate-seminar/15)
 - [Ethereum Apps on Substrate Chains](https://www.crowdcast.io/e/ethereum-apps-moonbeam)
+- [Polkadot Network Technical Explainers](https://www.youtube.com/playlist?list=PLOyWqupZ-WGuAuS00rK-pebTMAOxW41W8)
+- [Sub0 Developer Conference](https://www.crowdcast.io/e/axvfinsv)
 
 ## Workshops & Demos
 
@@ -84,6 +91,8 @@ open-source library of [Rust](https://www.rust-lang.org/) code that is maintaine
   awesome list maintained by our friends at [Web3 Foundation](https://web3.foundation/).
 - [Subsocial](https://subsocial.network/) - Decentralized social network for the Polkadot / Kusama
   ecosystem. Built on Substrate + IPFS.
+- [DOTspot](https://www.dotspot.io/) - An open-place for Substrate ecosystem projects to share their
+  latest news.
 
 ### Community Resources - Guides
 
@@ -105,6 +114,8 @@ open-source library of [Rust](https://www.rust-lang.org/) code that is maintaine
 - [SubstraTEE](https://www.substratee.com) - Trusted off-chain execution framework that uses
   [Intel SGX](https://en.wikipedia.org/wiki/Software_Guard_Extensions) trusted execution
   environments.
+- [FRAME Benchmarking](https://github.com/paritytech/substrate/tree/master/frame/benchmarking) - The
+  official benchmarking framework for the FRAME system for runtime development.
 
 ## Templates
 
@@ -172,4 +183,39 @@ open-source library of [Rust](https://www.rust-lang.org/) code that is maintaine
   and libraries for debugging Substrate-based chains, including
   [`offline-election`](https://github.com/paritytech/substrate-debug-kit/tree/master/offline-election),
   which is a tool that is used to predict nominated proof-of-stake elections.
-- [`sup`](https://github.com/clearloop/sup) - Command line tool for generating or upgrading a Substrate node.
+- [`sup`](https://github.com/clearloop/sup) - Command line tool for generating or upgrading a
+  Substrate node.
+- [Substrate Dev Hub Utils](https://github.com/danforbes/substrate-devhub-utils) - _Unofficial_
+  utilities for working with official Substrate Developer Hub resources.
+- [Subscan](https://www.subscan.io/) - Multi-network explorer for Substrate-based chains.
+
+## Alternative Implementations
+
+- [Gossamer](https://gossamer.chainsafe.io/) - A Polkadot client implemented in Go; from
+  [ChainSafe](https://chainsafe.io/).
+- [Kagome](https://kagome.readthedocs.io/en/latest/) - A C++17 implementation of the Polkadot client;
+  from [Soramitsu](http://www.soramitsu.co.jp/).
+- [LimeChain AssemblyScript Runtime](https://github.com/LimeChain/as-substrate-runtime) - An
+  account-based Substrate proof-of-concept runtime written in AssemblyScript; from
+  [LimeChain](https://limechain.tech/)
+
+## SCALE Codec
+
+- [Codec Definition](https://substrate.dev/docs/en/knowledgebase/advanced/codec) - Official
+  codec documentation.
+
+### SCALE Codec - Implementations
+
+- [Parity SCALE Codec](https://github.com/paritytech/parity-scale-codec) - Reference implementation
+  written in Rust.
+- [AssemblyScript](https://github.com/LimeChain/as-scale-codec) - Maintained by LimeChain.
+- [TypeScript](https://github.com/polkadot-js/api/tree/master/packages/types) - Maintained by
+  Polkadot-JS.
+- [Go](https://github.com/itering/scale.go) - Maintained by [Itering](https://www.itering.com/).
+- [C++](https://github.com/soramitsu/kagome/tree/master/core/scale) - Maintained by Soramitsu.
+- [Haskell](https://github.com/airalab/hs-web3/tree/master/src/Codec) - Maintained by
+  [Robonomics Network](https://robonomics.network/).
+- [Java](https://github.com/emeraldpay/polkaj/tree/master/polkaj-scale) - Maintained by
+  [Emerald](https://emerald.cash/).
+- [Ruby](https://github.com/itering/scale.rb) - Maintained by Itering.
+- [Python](https://github.com/polkascan/py-scale-codec) - Maintained by Polkascan Foundation.
