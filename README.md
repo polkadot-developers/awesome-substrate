@@ -187,6 +187,8 @@ open-source library of [Rust](https://www.rust-lang.org/) code that is maintaine
 - [Substrate Dev Hub Utils](https://github.com/danforbes/substrate-devhub-utils) - _Unofficial_
   utilities for working with official Substrate Developer Hub resources.
 - [Subscan](https://www.subscan.io/) - Multi-network explorer for Substrate-based chains.
+- [Substrate Docker Builders](https://github.com/ETeissonniere/substrate-nodeops) - A set of
+  Dockerfiles and GitHub Actions to auto-build and push a Docker image for Substrate-based chains.
 
 ## Alternative Implementations
 
