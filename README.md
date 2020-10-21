@@ -189,6 +189,8 @@ open-source library of [Rust](https://www.rust-lang.org/) code that is maintaine
 - [Subscan](https://www.subscan.io/) - Multi-network explorer for Substrate-based chains.
 - [Substrate Docker Builders](https://github.com/ETeissonniere/substrate-nodeops) - A set of
   Dockerfiles and GitHub Actions to auto-build and push a Docker image for Substrate-based chains.
+- [Halva](https://github.com/halva-suite/halva) - A toolchain for improving the experience of
+  developing on Substrate.
 
 ## Alternative Implementations
 
