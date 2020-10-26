@@ -191,6 +191,8 @@ open-source library of [Rust](https://www.rust-lang.org/) code that is maintaine
   Dockerfiles and GitHub Actions to auto-build and push a Docker image for Substrate-based chains.
 - [Halva](https://github.com/halva-suite/halva) - A toolchain for improving the experience of
   developing on Substrate.
+- [`offchain::ipfs`](https://rs-ipfs.github.io/offchain-ipfs-manual/) - Substrate infused with
+  [IPFS](https://ipfs.io/).
 
 ## Alternative Implementations
 
