@@ -193,6 +193,8 @@ open-source library of [Rust](https://www.rust-lang.org/) code that is maintaine
   developing on Substrate.
 - [`offchain::ipfs`](https://rs-ipfs.github.io/offchain-ipfs-manual/) - Substrate infused with
   [IPFS](https://ipfs.io/).
+- [Gantree Library](https://github.com/gantree-io/gantree-lib-nodejs) - A suite of technologies for
+  managing Substrate-powered parachain networks via rapid spin-up & tear-down.
 
 ## Alternative Implementations
 
