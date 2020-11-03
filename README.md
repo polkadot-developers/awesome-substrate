@@ -2,14 +2,9 @@
 
 > An awesome list is a list of awesome things curated by the community.
 
-This is the official **Awesome List** for Substrate, it is maintained by the Substrate Developer Hub
-team.
-
-What is Substrate?
-
-[Substrate](https://substrate.io/) is a framework for building upgradable, modular and efficient blockchains. Substrate is an
-open-source library of [Rust](https://www.rust-lang.org/) code that is maintained by
-[Parity Technologies](https://www.parity.io/).
+[Substrate](https://substrate.io/) is a framework for building upgradable, modular and efficient
+blockchains. Substrate is an open-source library of [Rust](https://www.rust-lang.org/) code that
+is maintained by [Parity Technologies](https://www.parity.io/).
 
 ## Contents
 
@@ -26,7 +21,6 @@ open-source library of [Rust](https://www.rust-lang.org/) code that is maintaine
 - [Alternative Implementations](#alternative-implementations)
 - [SCALE Codec](#scale-codec)
   - [SCALE Codec - Implementations](#scale-codec---implementations)
-- [Related](#related)
 
 ## Official Resources
 
@@ -219,7 +213,3 @@ open-source library of [Rust](https://www.rust-lang.org/) code that is maintaine
   [Emerald](https://emerald.cash/).
 - [Ruby](https://github.com/itering/scale.rb) - Maintained by Itering.
 - [Python](https://github.com/polkascan/py-scale-codec) - Maintained by Polkascan Foundation.
-
-## Related
-
-- [GitHub Topics: Awesome Lists](https://github.com/topics/awesome-list)
