@@ -1,19 +1,18 @@
-![Substrate Logo](substrate_logo_dark.png)
-
-# Awesome Substrate
-
-[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+# Awesome Substrate [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 > An awesome list is a list of awesome things curated by the community.
-
--[GitHub Topics: Awesome Lists](https://github.com/topics/awesome-list)
 
 This is the official **Awesome List** for Substrate, it is maintained by the Substrate Developer Hub
 team.
 
+What is Substrate?
+
+[Substrate](https://substrate.io/) is a framework for building upgradable, modular and efficient blockchains. Substrate is an
+open-source library of [Rust](https://www.rust-lang.org/) code that is maintained by
+[Parity Technologies](https://www.parity.io/).
+
 ## Contents
 
-- [What is Substrate](#what-is-substrate)
 - [Official Resources](#official-resources)
 - [Recordings](#recordings)
 - [Workshops & Demos](#workshops--demos)
@@ -27,16 +26,10 @@ team.
 - [Alternative Implementations](#alternative-implementations)
 - [SCALE Codec](#scale-codec)
   - [SCALE Codec - Implementations](#scale-codec---implementations)
-
-## What is Substrate
-
-Substrate is a framework for building upgradable, modular and efficient blockchains. Substrate is an
-open-source library of [Rust](https://www.rust-lang.org/) code that is maintained by
-[Parity Technologies](https://www.parity.io/).
+- [Related](#related)
 
 ## Official Resources
 
-- [substrate.io](https://substrate.io/) - Product page.
 - [Developer Hub](https://substrate.dev/) - Developer portal.
   - [Tutorials](https://substrate.dev/tutorials) - Guided exercises to get you started.
   - [Knowledge Base](https://substrate.dev/knowledgebase) - In-depth documentation related to
@@ -44,7 +37,7 @@ open-source library of [Rust](https://www.rust-lang.org/) code that is maintaine
   - [Recipes](https://substrate.dev/recipes) - Working code examples that solve common problems.
   - [Reference Docs](https://substrate.dev/rustdocs) - Rustdoc API documentation.
 - [Seminar](https://substrate.dev/seminar) - Collaborative learning on
-  [Crowdcast](https://www.crowdcast.io/e/substrate-seminar)
+  [Crowdcast](https://www.crowdcast.io/e/substrate-seminar).
 - [Technical Chat](https://app.element.io/#/room/!HzySYSaIhtyWrwiwEV:matrix.org) - Ask questions &
   chat with other Substrate developers.
 - [Builders Program](https://www.substrate.io/builders-program) - White-glove support for visionary
@@ -171,7 +164,7 @@ open-source library of [Rust](https://www.rust-lang.org/) code that is maintaine
 - [Subkey](https://substrate.dev/docs/en/knowledgebase/integrate/subkey) - Command line utility for
   working with cryptographic keys.
 - [Polkascan](https://polkascan.io/) - Multi-chain block explorer maintained by Polkascan
-   Foundation.
+  Foundation.
 - [VSCode Substrate](https://marketplace.visualstudio.com/items?itemName=paritytech.vscode-substrate) - Official
   plugin for Visual Studio Code.
 - [Parity Signer](https://www.parity.io/signer/) - Upcycle an unused mobile phone into an air-gapped
@@ -204,7 +197,7 @@ open-source library of [Rust](https://www.rust-lang.org/) code that is maintaine
   from [Soramitsu](http://www.soramitsu.co.jp/).
 - [LimeChain AssemblyScript Runtime](https://github.com/LimeChain/as-substrate-runtime) - An
   account-based Substrate proof-of-concept runtime written in AssemblyScript; from
-  [LimeChain](https://limechain.tech/)
+  [LimeChain](https://limechain.tech/).
 
 ## SCALE Codec
 
@@ -226,3 +219,7 @@ open-source library of [Rust](https://www.rust-lang.org/) code that is maintaine
   [Emerald](https://emerald.cash/).
 - [Ruby](https://github.com/itering/scale.rb) - Maintained by Itering.
 - [Python](https://github.com/polkascan/py-scale-codec) - Maintained by Polkascan Foundation.
+
+## Related
+
+- [GitHub Topics: Awesome Lists](https://github.com/topics/awesome-list)
