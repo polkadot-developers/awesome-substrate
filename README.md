@@ -42,6 +42,7 @@ is maintained by [Parity Technologies](https://www.parity.io/).
 - [Developer Hub GitHub](https://github.com/substrate-developer-hub/) - Developer Hub repositories.
 - [Polkadot GitHub](https://github.com/paritytech/polkadot) - Substrate monorepo for multiple
   Parity-sponsored chains.
+- [`subport`](https://github.com/paritytech/subport/issues) - Support repository.
 - [Parity Blog](https://www.parity.io/blog/) - Read about updates in the Substrate ecosystem.
 - [Twitter](https://twitter.com/substrate_io) - Follow us to stay up-to-date.
 - [Polkassembly](https://polkassembly.io/) - The place to discuss and vote on Kusama and Polkadot
@@ -79,6 +80,8 @@ is maintained by [Parity Technologies](https://www.parity.io/).
   ecosystem. Built on Substrate + IPFS.
 - [DOTspot](https://www.dotspot.io/) - An open-place for Substrate ecosystem projects to share their
   latest news.
+- [DotJobs](https://dotjobs.net/) - A job board for the Polkadot ecosystem from the team at
+  [Stateless.Money](https://www.stateless.money/).
 
 ### Community Resources - Guides
 
@@ -184,7 +187,7 @@ is maintained by [Parity Technologies](https://www.parity.io/).
   managing Substrate-powered parachain networks via rapid spin-up & tear-down.
 - [Redspot](https://github.com/patractlabs/redspot) - A
   [Truffle](https://www.trufflesuite.com/truffle)-like toolkit for smart contracts for the FRAME
-  [Contracts pallet](https://substrate.dev/docs/en/knowledgebase/runtime/frame#contracts).
+  Contracts pallet.
 
 ## Alternative Implementations
 
