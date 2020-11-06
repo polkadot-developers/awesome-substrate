@@ -182,6 +182,9 @@ is maintained by [Parity Technologies](https://www.parity.io/).
   [IPFS](https://ipfs.io/).
 - [Gantree Library](https://github.com/gantree-io/gantree-lib-nodejs) - A suite of technologies for
   managing Substrate-powered parachain networks via rapid spin-up & tear-down.
+- [Redspot](https://github.com/patractlabs/redspot) - A
+  [Truffle](https://www.trufflesuite.com/truffle)-like toolkit for smart contracts for the FRAME
+  [Contracts pallet](https://substrate.dev/docs/en/knowledgebase/runtime/frame#contracts).
 
 ## Alternative Implementations
 
