@@ -44,6 +44,7 @@ is maintained by [Parity Technologies](https://www.parity.io/).
   Parity-sponsored chains.
 - [`subport`](https://github.com/paritytech/subport/issues) - Support repository.
 - [Parity Blog](https://www.parity.io/blog/) - Read about updates in the Substrate ecosystem.
+- [Parity Events](https://www.parity.io/events/) - Upcoming events.
 - [Twitter](https://twitter.com/substrate_io) - Follow us to stay up-to-date.
 - [Polkassembly](https://polkassembly.io/) - The place to discuss and vote on Kusama and Polkadot
   governance.
@@ -58,6 +59,8 @@ is maintained by [Parity Technologies](https://www.parity.io/).
 - [Ethereum Apps on Substrate Chains](https://www.crowdcast.io/e/ethereum-apps-moonbeam)
 - [Polkadot Network Technical Explainers](https://www.youtube.com/playlist?list=PLOyWqupZ-WGuAuS00rK-pebTMAOxW41W8)
 - [Sub0 Developer Conference](https://www.crowdcast.io/e/axvfinsv)
+- [Weights & Benchmarking](https://www.crowdcast.io/e/substrate-seminar/19)
+- [Runtime Upgrades & Storage Migrations](https://www.crowdcast.io/e/substrate-seminar/20)
 
 ## Workshops & Demos
 
@@ -82,7 +85,8 @@ is maintained by [Parity Technologies](https://www.parity.io/).
   latest news.
 - [DotJobs](https://dotjobs.net/) - A job board for the Polkadot ecosystem from the team at
   [Stateless.Money](https://www.stateless.money/).
-- [Substrate Migrations](https://github.com/apopiak/substrate-migrations) - A list of past runtime storage migrations with notes and examples.
+- [Substrate Migrations](https://github.com/apopiak/substrate-migrations) - A list of past runtime
+  storage migrations with notes and examples.
 
 ### Community Resources - Guides
 
