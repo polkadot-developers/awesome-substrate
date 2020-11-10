@@ -82,6 +82,7 @@ is maintained by [Parity Technologies](https://www.parity.io/).
   latest news.
 - [DotJobs](https://dotjobs.net/) - A job board for the Polkadot ecosystem from the team at
   [Stateless.Money](https://www.stateless.money/).
+- [Substrate Migrations](https://github.com/apopiak/substrate-migrations) - A list of past runtime storage migrations with notes and examples.
 
 ### Community Resources - Guides
 
