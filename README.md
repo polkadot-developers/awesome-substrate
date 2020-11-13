@@ -193,6 +193,10 @@ is maintained by [Parity Technologies](https://www.parity.io/).
 - [Redspot](https://github.com/patractlabs/redspot) - A
   [Truffle](https://www.trufflesuite.com/truffle)-like toolkit for smart contracts for the FRAME
   Contracts pallet.
+- [Proxy Hot Wallet Demo](https://github.com/emostov/proxy-hot-wallet) - A demonstration of a
+  secure, convenient, and flexible hot wallet architecture built on Substrate primitives.
+- [Substrate Faucet Bot](https://github.com/starkleytech/substrate-faucet) - Python-based faucet for
+  development purposes.
 
 ## Alternative Implementations
 
