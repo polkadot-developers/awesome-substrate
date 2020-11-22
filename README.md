@@ -197,6 +197,9 @@ is maintained by [Parity Technologies](https://www.parity.io/).
   secure, convenient, and flexible hot wallet architecture built on Substrate primitives.
 - [Substrate Faucet Bot](https://github.com/starkleytech/substrate-faucet) - Python-based faucet for
   development purposes.
+- [Hydra](https://github.com/Joystream/hydra) - A GraphQL framework for Substrate nodes with a
+  [hosted playground](https://indexer-kusama.joystream.app/graphql). Check out the great
+  [docs](https://github.com/Joystream/hydra/tree/master/docs).
 
 ## Alternative Implementations
 
