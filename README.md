@@ -200,6 +200,12 @@ is maintained by [Parity Technologies](https://www.parity.io/).
 - [Hydra](https://github.com/Joystream/hydra) - A GraphQL framework for Substrate nodes with a
   [hosted playground](https://indexer-kusama.joystream.app/graphql). Check out the great
   [docs](https://github.com/Joystream/hydra/tree/master/docs).
+- [Megaclite](https://github.com/patractlabs/megaclite) - Zero-knowledge tools for the Polkadot
+  ecosystem.
+- [Europa](https://github.com/patractlabs/europa) - A sandbox for the Substrate runtime execution
+  environment.
+- [Jupiter](https://github.com/patractlabs/jupiter) - Testnet for smart contracts written for the
+  FRAME Contracts pallet.
 
 ## Alternative Implementations
 
