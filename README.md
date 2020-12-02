@@ -209,6 +209,20 @@ is maintained by [Parity Technologies](https://www.parity.io/).
 - [Staking Rewards Collector](https://github.com/w3f/staking-rewards-collector) - A script to parse
   and output staking rewards for a given Kusama or Polkadot address and cross-reference them
   with daily price data.
+- [`polkadot-launch`](https://github.com/shawntabrizi/polkadot-launch) - Simple CLI tool to launch a
+  local Polkadot test network.
+- [`substrate-js-utils`](https://github.com/shawntabrizi/substrate-js-utilities) - A set of useful
+  Javascript utilities for Substrate using Polkadot.js API.
+- [`substrate-graph-benchmarks`](https://github.com/shawntabrizi/substrate-graph-benchmarks) - Graph
+  the benchmark output of FRAME pallets.
+- [`substrate-balance-calculator`](https://github.com/shawntabrizi/substrate-balance-calculator) - Breakdown
+  the balances of your Substrate account.
+- [`substrate-balance-graph`](https://github.com/shawntabrizi/substrate-balance-graph) - Create a
+  graph of the token balance over time of a Substrate address.
+- [`polkadot-js-bundle`](https://github.com/shawntabrizi/polkadot-js-bundle) - A standalone JS
+  bundle that contains Polkadot{JS} libraries.
+- [`substrate-staking`](https://github.com/shawntabrizi/substrate-society) - A basic front-end for
+  the FRAME Society pallet.
 
 ## Alternative Implementations
 
