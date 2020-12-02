@@ -206,6 +206,7 @@ is maintained by [Parity Technologies](https://www.parity.io/).
   environment.
 - [Jupiter](https://github.com/patractlabs/jupiter) - Testnet for smart contracts written for the
   FRAME Contracts pallet.
+- [Staking Rewards Collector](https://github.com/w3f/staking-rewards-collector) - A script to parse and output staking rewards for a given Kusama or Polkadot address and cross-reference those with daily price data.
 
 ## Alternative Implementations
 
