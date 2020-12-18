@@ -223,6 +223,8 @@ is maintained by [Parity Technologies](https://www.parity.io/).
   bundle that contains Polkadot{JS} libraries.
 - [`substrate-staking`](https://github.com/shawntabrizi/substrate-society) - A basic front-end for
   the FRAME Society pallet.
+- [Aleph.im](https://aleph.im) - Scalable, decentralized cloud services for Substrate chains and
+  more.
 
 ## Alternative Implementations
 
@@ -254,7 +256,3 @@ is maintained by [Parity Technologies](https://www.parity.io/).
   [Emerald](https://emerald.cash/).
 - [Ruby](https://github.com/itering/scale.rb) - Maintained by Itering.
 - [Python](https://github.com/polkascan/py-scale-codec) - Maintained by Polkascan Foundation.
-
-### Decentralized Cloud Projects Compatible With Substrate
-
- - [Aleph.im](https://aleph.im) - database, file storage and computation; compatible with Substrate, Cosmos, Ethereum, BinanceChain and more.
