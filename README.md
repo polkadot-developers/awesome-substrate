@@ -223,6 +223,8 @@ is maintained by [Parity Technologies](https://www.parity.io/).
   bundle that contains Polkadot{JS} libraries.
 - [`substrate-staking`](https://github.com/shawntabrizi/substrate-society) - A basic front-end for
   the FRAME Society pallet.
+- [Aleph.im](https://aleph.im) - Scalable, decentralized database, file storage, and computation
+  services for Substrate chains and more.
 
 ## Alternative Implementations
 
