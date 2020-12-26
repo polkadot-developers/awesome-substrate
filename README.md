@@ -181,8 +181,6 @@ is maintained by [Parity Technologies](https://www.parity.io/).
   Substrate node.
 - [Substrate Dev Hub Utils](https://github.com/danforbes/substrate-devhub-utils) - _Unofficial_
   utilities for working with official Substrate Developer Hub resources.
-- [Substrate JS Utilities](https://www.shawntabrizi.com/substrate-js-utilities/) - _Unofficial_
-  GUI utilities for various things, like SCALE Decoder/encoder, Query Indices, Graph Balances/Weights, Calculate Reserved Balances. By [Shawn Tabriz](https://www.shawntabrizi.com/)
 - [Subscan](https://www.subscan.io/) - Multi-network explorer for Substrate-based chains.
 - [Substrate Docker Builders](https://github.com/ETeissonniere/substrate-nodeops) - A set of
   Dockerfiles and GitHub Actions to auto-build and push a Docker image for Substrate-based chains.
@@ -216,7 +214,8 @@ is maintained by [Parity Technologies](https://www.parity.io/).
 - [`polkadot-launch`](https://github.com/shawntabrizi/polkadot-launch) - Simple CLI tool to launch a
   local Polkadot test network.
 - [`substrate-js-utils`](https://github.com/shawntabrizi/substrate-js-utilities) - A set of useful
-  Javascript utilities for Substrate using Polkadot.js API.
+  JavaScript utilities for Substrate that uses the Polkadot{JS} API. Also
+  [deployed as a website](https://www.shawntabrizi.com/substrate-js-utilities/).
 - [`substrate-graph-benchmarks`](https://github.com/shawntabrizi/substrate-graph-benchmarks) - Graph
   the benchmark output of FRAME pallets.
 - [`substrate-balance-calculator`](https://github.com/shawntabrizi/substrate-balance-calculator) - Breakdown
@@ -225,7 +224,7 @@ is maintained by [Parity Technologies](https://www.parity.io/).
   graph of the token balance over time of a Substrate address.
 - [`polkadot-js-bundle`](https://github.com/shawntabrizi/polkadot-js-bundle) - A standalone JS
   bundle that contains Polkadot{JS} libraries.
-- [`substrate-staking`](https://github.com/shawntabrizi/substrate-society) - A basic front-end for
+- [`substrate-society`](https://github.com/shawntabrizi/substrate-society) - A basic front-end for
   the FRAME Society pallet.
 - [Aleph.im](https://aleph.im) - Scalable, decentralized database, file storage, and computation
   services for Substrate chains and more.
