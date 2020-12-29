@@ -121,6 +121,8 @@ is maintained by [Parity Technologies](https://www.parity.io/).
   Cumulus-based Substrate node, ready for hacking (see 'Cumulus' under Frameworks for more info).
 - [Front-End](https://github.com/substrate-developer-hub/substrate-front-end-template) - Use the
   Polkadot-JS API and [React](https://reactjs.org/) to build front-ends for Substrate-based chains.
+- [`substrate-stencil`](https://github.com/kaichaosun/substrate-stencil) - A template for a
+  Substrate node that includes staking and governance capabilities.
 
 ## Pallets
 
