@@ -176,9 +176,10 @@ is maintained by [Parity Technologies](https://www.parity.io/).
 - [Fork Off Substrate](https://github.com/maxsam4/fork-off-substrate) - Script to help bootstrap a
   new chain with the state of a running chain.
 - [Substrate debug-kit](https://github.com/paritytech/substrate-debug-kit) - A collection of tools
-  and libraries for debugging Substrate-based chains, including
-  [`offline-election`](https://github.com/paritytech/substrate-debug-kit/tree/master/offline-election),
+  and libraries for debugging Substrate-based chains, including:
+  - [`offline-election`](https://github.com/paritytech/substrate-debug-kit/tree/master/offline-election),
   which is a tool that is used to predict nominated proof-of-stake elections.
+  - [sub-du](https://github.com/paritytech/substrate-debug-kit/tree/master/sub-du), a disk-usage-like tool that prints the storage usage of a chain. It reads all the info it needs from metadata, so independent chain or runtime.
 - [`sup`](https://github.com/clearloop/sup) - Command line tool for generating or upgrading a
   Substrate node.
 - [Substrate Dev Hub Utils](https://github.com/danforbes/substrate-devhub-utils) - _Unofficial_
