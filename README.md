@@ -237,7 +237,7 @@ is maintained by [Parity Technologies](https://www.parity.io/).
 
 ## Alternative Implementations
 
-- [Gossamer](https://gossamer.chainsafe.io/) - A Polkadot client implemented in Go; from
+- [Gossamer](https://github.com/ChainSafe/gossamer) - A Polkadot client implemented in Go; from
   [ChainSafe](https://chainsafe.io/).
 - [Kagome](https://kagome.readthedocs.io/en/latest/) - A C++17 implementation of the Polkadot client;
   from [Soramitsu](http://www.soramitsu.co.jp/).
