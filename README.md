@@ -140,6 +140,8 @@ is maintained by [Parity Technologies](https://www.parity.io/).
   resources for a development chain.
 - [Commodities](https://github.com/danforbes/pallet-nft) - Defines and implements a non-fungible
   token interface.
+- [Distribited Key Generation and Randomness Beacon](https://github.com/Cardinal-Cryptography/substrate/tree/randomness-beacon) - 
+  a pallet for Distribited Key Generation and a pallet providing unbiased, fair, and unpredictable randomness.
 
 ## Client Libraries
 
