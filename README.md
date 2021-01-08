@@ -157,6 +157,7 @@ is maintained by [Parity Technologies](https://www.parity.io/).
 - [Substrate .Net API](https://github.com/usetech-llc/polkadot_api_dotnet) - Maintained by Usetech.
 - [SubstrateNetApi](https://github.com/darkfriend77/SubstrateNetApi) - Maintained by Substrate community member Cedric
   Decoster ([@darkfriend77 on GitHub](https://github.com/darkfriend77)).
+- [Kotlin Substrate Client](https://github.com/NodleCode/substrate-client-kotlin) - Maintained by [Nodle.io](https://github.com/NodleCode)
 
 ## Ecosystem Tools
 
