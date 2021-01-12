@@ -51,7 +51,8 @@ is maintained by [Parity Technologies](https://www.parity.io/).
 
 ## Recordings
 
-- [Introduction to Substrate](https://www.crowdcast.io/e/ocimgwg2)
+- [Substrate: A Rustic Vision for Polkadot by Gavin Wood at Web3 Summit 2018](https://www.youtube.com/watch?v=0IoUZdDi5Is)
+- [Introduction to Substrate](https://www.crowdcast.io/e/xzdm2hyq)
 - [Parachains, Cumulus & the Rococo Test Network](https://www.crowdcast.io/e/zpnjlj0r)
 - [Enterprise Demo](https://www.crowdcast.io/e/substrate-seminar/6)
 - [Bridges & Cross-Chain Interoperability](https://www.crowdcast.io/e/substrate-seminar/12)
@@ -61,6 +62,9 @@ is maintained by [Parity Technologies](https://www.parity.io/).
 - [Sub0 Developer Conference](https://www.crowdcast.io/e/axvfinsv)
 - [Weights & Benchmarking](https://www.crowdcast.io/e/substrate-seminar/19)
 - [Runtime Upgrades & Storage Migrations](https://www.crowdcast.io/e/substrate-seminar/20)
+- [FRAME's Origin Primitive](https://www.crowdcast.io/e/substrate-seminar/24)
+- [Governance with FRAME](https://www.crowdcast.io/e/substrate-seminar/25)
+- [Polkadot Decoded Community Conference](https://www.crowdcast.io/e/polkadot-decoded)
 
 ## Workshops & Demos
 
@@ -121,6 +125,8 @@ is maintained by [Parity Technologies](https://www.parity.io/).
   Cumulus-based Substrate node, ready for hacking (see 'Cumulus' under Frameworks for more info).
 - [Front-End](https://github.com/substrate-developer-hub/substrate-front-end-template) - Use the
   Polkadot-JS API and [React](https://reactjs.org/) to build front-ends for Substrate-based chains.
+- [`substrate-stencil`](https://github.com/kaichaosun/substrate-stencil) - A template for a
+  Substrate node that includes staking and governance capabilities.
 
 ## Pallets
 
@@ -200,6 +206,8 @@ is maintained by [Parity Technologies](https://www.parity.io/).
 - [Hydra](https://github.com/Joystream/hydra) - A GraphQL framework for Substrate nodes with a
   [hosted playground](https://indexer-kusama.joystream.app/graphql). Check out the great
   [docs](https://github.com/Joystream/hydra/tree/master/docs).
+- [Substrate Graph](https://github.com/playzero/substrate-graph) - GraphQL indexer for
+  Substrate-based chains.
 - [Megaclite](https://github.com/patractlabs/megaclite) - Zero-knowledge tools for the Polkadot
   ecosystem.
 - [Europa](https://github.com/patractlabs/europa) - A sandbox for the Substrate runtime execution
@@ -212,7 +220,8 @@ is maintained by [Parity Technologies](https://www.parity.io/).
 - [`polkadot-launch`](https://github.com/shawntabrizi/polkadot-launch) - Simple CLI tool to launch a
   local Polkadot test network.
 - [`substrate-js-utils`](https://github.com/shawntabrizi/substrate-js-utilities) - A set of useful
-  Javascript utilities for Substrate using Polkadot.js API.
+  JavaScript utilities for Substrate that uses the Polkadot{JS} API. Also
+  [deployed as a website](https://www.shawntabrizi.com/substrate-js-utilities/).
 - [`substrate-graph-benchmarks`](https://github.com/shawntabrizi/substrate-graph-benchmarks) - Graph
   the benchmark output of FRAME pallets.
 - [`substrate-balance-calculator`](https://github.com/shawntabrizi/substrate-balance-calculator) - Breakdown
@@ -221,12 +230,14 @@ is maintained by [Parity Technologies](https://www.parity.io/).
   graph of the token balance over time of a Substrate address.
 - [`polkadot-js-bundle`](https://github.com/shawntabrizi/polkadot-js-bundle) - A standalone JS
   bundle that contains Polkadot{JS} libraries.
-- [`substrate-staking`](https://github.com/shawntabrizi/substrate-society) - A basic front-end for
+- [`substrate-society`](https://github.com/shawntabrizi/substrate-society) - A basic front-end for
   the FRAME Society pallet.
+- [Aleph.im](https://aleph.im) - Scalable, decentralized database, file storage, and computation
+  services for Substrate chains and more.
 
 ## Alternative Implementations
 
-- [Gossamer](https://gossamer.chainsafe.io/) - A Polkadot client implemented in Go; from
+- [Gossamer](https://github.com/ChainSafe/gossamer) - A Polkadot client implemented in Go; from
   [ChainSafe](https://chainsafe.io/).
 - [Kagome](https://kagome.readthedocs.io/en/latest/) - A C++17 implementation of the Polkadot client;
   from [Soramitsu](http://www.soramitsu.co.jp/).
