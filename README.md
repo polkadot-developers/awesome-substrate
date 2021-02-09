@@ -155,8 +155,8 @@ is maintained by [Parity Technologies](https://www.parity.io/).
 - [Substrate C++ API](https://github.com/usetech-llc/polkadot_api_cpp) - Maintained by
   [Usetech](https://usetech.com/blockchain/).
 - [Substrate .Net API](https://github.com/usetech-llc/polkadot_api_dotnet) - Maintained by Usetech.
-- [SubstrateNetApi](https://github.com/darkfriend77/SubstrateNetApi) - Maintained by Substrate community member Cedric
-  Decoster ([@darkfriend77 on GitHub](https://github.com/darkfriend77)).
+- [Substrate .NET Standard API](https://github.com/dotmog/SubstrateNetApi) ([nuget](https://www.nuget.org/packages/SubstrateNetApi/) full substrate
+  integration in Unity3D for gaming development, [starter template](https://github.com/darkfriend77/Unity3DExample) project. Maintained by [DOTMog Team](https://dotmog.com/).
 
 ## Ecosystem Tools
 
