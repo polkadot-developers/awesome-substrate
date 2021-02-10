@@ -83,6 +83,7 @@ is maintained by [Parity Technologies](https://www.parity.io/).
 - [Reddit](https://www.reddit.com/r/substrate/) - Official subreddit.
 - [Polkadot Stack](https://github.com/w3f/General-Grants-Program/blob/master/grants/polkadot_stack.md) - Another
   awesome list maintained by our friends at [Web3 Foundation](https://web3.foundation/).
+- [PolkaView](https://polkaview.network/dot) - Historical data on minimum staked to be rewarded.
 - [Subsocial](https://subsocial.network/) - Decentralized social network for the Polkadot / Kusama
   ecosystem. Built on Substrate + IPFS.
 - [DOTspot](https://www.dotspot.io/) - An open-place for Substrate ecosystem projects to share their
