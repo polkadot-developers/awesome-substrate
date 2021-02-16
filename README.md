@@ -240,6 +240,7 @@ is maintained by [Parity Technologies](https://www.parity.io/).
   the FRAME Society pallet.
 - [Aleph.im](https://aleph.im) - Scalable, decentralized database, file storage, and computation
   services for Substrate chains and more.
+- [`subsee`](https://github.com/ascjones/subsee) - CLI to inspect metadata of a substrate node as JSON.
 
 ## Alternative Implementations
 
