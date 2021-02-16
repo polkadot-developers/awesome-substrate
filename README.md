@@ -165,6 +165,10 @@ is maintained by [Parity Technologies](https://www.parity.io/).
   for Substrate-based chains.
 - [Polkadot-JS Extension](https://github.com/polkadot-js/extension) - Browser extension for
   interacting with Substrate-based chains.
+- [Polkadot Tool Index](https://wiki.polkadot.network/docs/en/build-tools-index#tools) - Here is
+  **a very useful** list of tools available for your development w/ Polkadot and
+  any substrate chain including Block Explorers, Wallets, Network Monitoring & Reporting,
+  Clients, Benchmarking, Fuzzing, Forking, SCALE Codec, CLI Tools and much more.
 - [Sidecar](https://github.com/paritytech/substrate-api-sidecar) - REST service that runs alongside
   Substrate nodes.
 - [Archive](https://github.com/paritytech/substrate-archive) - Indexing engine for Substrate chains.
