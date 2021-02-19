@@ -156,8 +156,10 @@ is maintained by [Parity Technologies](https://www.parity.io/).
 - [Substrate C++ API](https://github.com/usetech-llc/polkadot_api_cpp) - Maintained by
   [Usetech](https://usetech.com/blockchain/).
 - [Substrate .Net API](https://github.com/usetech-llc/polkadot_api_dotnet) - Maintained by Usetech.
-- [SubstrateNetApi](https://github.com/darkfriend77/SubstrateNetApi) - Maintained by Substrate community member Cedric
-  Decoster ([@darkfriend77 on GitHub](https://github.com/darkfriend77)).
+- [Substrate .NET Standard API](https://github.com/dotmog/SubstrateNetApi) in
+  [nuget](https://www.nuget.org/packages/SubstrateNetApi/), and
+  [Unity 3D integration example](https://github.com/darkfriend77/Unity3DExample) -
+  Maintained by [DOTMog](https://dotmog.com/).
 - [Kotlin Substrate Client](https://github.com/NodleCode/substrate-client-kotlin) - Maintained by [Nodle.io](https://github.com/NodleCode)
 
 ## Ecosystem Tools
