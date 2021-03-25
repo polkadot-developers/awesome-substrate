@@ -244,6 +244,15 @@ is maintained by [Parity Technologies](https://www.parity.io/).
   services for Substrate chains and more.
 - [`subsee`](https://github.com/ascjones/subsee) - CLI to inspect metadata of a substrate node as JSON.
 
+### Substrate Mobile Engineering Tools / Libraries
+
+- [React-Native-Substrate-Sign](https://github.com/paritytech/react-native-substrate-sign) -
+Rust library for React Native
+- [Polkadot-Dart](Pocket4D/Polkadot-Dart) - Dart Substrate API
+- [PolkaWallet SDK](https://github.com/polkawallet-io/sdk)- Flutter SDK for Substrate-based App
+- [Fearless Utils iOS](https://github.com/soramitsu/fearless-utils-iOS) - iOS Substrate tools
+- [Fearless Utils Android](https://github.com/soramitsu/fearless-utils-Android) - Android Substrate tools
+
 ## Alternative Implementations
 
 - [Gossamer](https://github.com/ChainSafe/gossamer) - A Polkadot client implemented in Go; from
