@@ -141,6 +141,7 @@ is maintained by [Parity Technologies](https://www.parity.io/).
   resources for a development chain.
 - [Commodities](https://github.com/danforbes/pallet-nft) - Defines and implements a non-fungible
   token interface.
+- [Chainlink Feed Pallet](https://github.com/smartcontractkit/chainlink-polkadot) - Chainlink feed pallet and example node showing how to integrate to Substrate chains.
 
 ## Client Libraries
 
