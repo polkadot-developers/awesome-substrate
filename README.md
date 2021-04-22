@@ -92,6 +92,7 @@ is maintained by [Parity Technologies](https://www.parity.io/).
   [Stateless.Money](https://www.stateless.money/).
 - [Substrate Migrations](https://github.com/apopiak/substrate-migrations) - A list of past runtime
   storage migrations with notes and examples.
+- [OnFinality](https://onfinality.io) - Free and public API services to shared archival nodes for Polkadot, Kusama, and other Substrate networks (as well as other infrastructure services).
 
 ### Community Resources - Guides
 
