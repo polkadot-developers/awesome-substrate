@@ -217,6 +217,7 @@ is maintained by [Parity Technologies](https://www.parity.io/).
   [docs](https://github.com/Joystream/hydra/tree/master/docs).
 - [Substrate Graph](https://github.com/playzero/substrate-graph) - GraphQL indexer for
   Substrate-based chains.
+ - [SubQuery](https://subquery.network) - A GraphQL indexer and query service that allows users to easily create indexed data sources and host them online for free in our [managed service](https://project.subquery.network/). Get started today with our [easy to follow walkthrough documentation](https://doc.subquery.network/quickstart.html).
 - [Megaclite](https://github.com/patractlabs/megaclite) - Zero-knowledge tools for the Polkadot
   ecosystem.
 - [Europa](https://github.com/patractlabs/europa) - A sandbox for the Substrate runtime execution
