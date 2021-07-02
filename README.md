@@ -26,7 +26,7 @@ is maintained by [Parity Technologies](https://www.parity.io/).
 
 - [Developer Hub](https://substrate.dev/) - Developer portal.
   - [Tutorials](https://substrate.dev/tutorials) - Guided exercises to get you started.
-  - [Knowledge Base](https://substrate.dev/knowledgebase) - In-depth documentation related to
+  - [Knowledge Base](https://substrate.dev/docs) - In-depth documentation related to
     Substrate development.
   - [Recipes](https://substrate.dev/recipes) - Working code examples that solve common problems.
   - [Reference Docs](https://substrate.dev/rustdocs) - Rustdoc API documentation.
