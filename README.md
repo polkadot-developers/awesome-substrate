@@ -250,6 +250,7 @@ is maintained by [Parity Technologies](https://www.parity.io/).
 - [`subsee`](https://github.com/ascjones/subsee) - CLI to inspect metadata of a substrate node as JSON.
 - [`polkadot-runtime-prom-exporter`](https://github.com/paritytech/polkadot-runtime-prom-exporter/) -
   A [Prometheus](https://prometheus.io/) exporter for Polkadot runtime metrics (modifable for substrate use).
+- [`subwasm`](https://github.com/chevdor/subwasm) - CLI to inspect a runtime WASM blob offline. It shows information, metadata and can compare runtimes. It can also help you fetch a runtime directly from a node.
 
 ### Substrate Mobile Engineering Tools / Libraries
 
