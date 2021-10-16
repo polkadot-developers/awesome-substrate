@@ -180,6 +180,7 @@ is maintained by [Parity Technologies](https://www.parity.io/).
 - [Archive](https://github.com/paritytech/substrate-archive) - Indexing engine for Substrate chains.
 - [TxWrapper](https://github.com/paritytech/txwrapper) - Helpful library for offline transaction
   creation.
+- [Substate](https://github.com/arrudagates/substate) - 100% no-std/wasm compatible Substrate storage key generator library for Rust.
 - [Subkey](https://substrate.dev/docs/en/knowledgebase/integrate/subkey) - Command line utility for
   working with cryptographic keys.
 - [Polkascan](https://polkascan.io/) - Multi-chain block explorer maintained by Polkascan
