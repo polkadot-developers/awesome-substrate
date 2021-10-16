@@ -14,7 +14,7 @@ maintained by [Parity Technologies](https://www.parity.io/).Source code availabl
 - [Social](#social)
 - [Events](#events)
 - [Blogs](#blogs)
-- [Recordings](#recordings)
+- [Videos](#videos)
 - [Templates](#templates)
 - [FRAME Pallets](#frame-pallets)
 - [Framework Extensions](#framework-extensions)
@@ -68,7 +68,7 @@ maintained by [Parity Technologies](https://www.parity.io/).Source code availabl
 - [Official](https://www.parity.io/blog/tag/parity-substrate) - Published by Parity.
 - [DotLeap](https://dotleap.com/) - Polkadot and Substrate Community blog and newsletter.
 
-## Recordings
+## Videos
 
 - [Substrate Seminar](https://substrate.dev/seminar) - Regularly recurring collaborative learning on
   a dedicated [Crowdcast](https://www.crowdcast.io/e/substrate-seminar).
