@@ -71,12 +71,14 @@ maintained by [Parity Technologies](https://www.parity.io/).Source code availabl
 
 ## Videos
 
-- [Substrate Seminar](https://substrate.dev/seminar) - Regularly recurring collaborative learning.
 - [Parity YouTube](https://www.youtube.com/c/paritytech)
-  - [Substrate Seminar (Archive)](https://www.youtube.com/playlist?list=PLp0_ueXY_enXRfoaW7sTudeQH10yDvFOS)
+  - [Substrate Seminar (YouTube Archive)](https://www.youtube.com/playlist?list=PLp0_ueXY_enXRfoaW7sTudeQH10yDvFOS)
   - [Sub0 Conference Oct. 2020](https://www.youtube.com/playlist?list=PLp0_ueXY_enUZk1RuEAU9ly5h0wy5FuLs)
   - [Sub0 Conference Dec. 2019](https://www.youtube.com/playlist?list=PLp0_ueXY_enWZ4UZE7rM0hdT8Z_ZTjU5V)
   - [Sub0 Conference Apr. 2019](https://www.youtube.com/playlist?list=PLp0_ueXY_enWqrfP_vR4PLhzQj76fLT8y)
+- [New Seminar Crowdcast]( https://www.crowdcast.io/e/substrate-seminar-2/) - Upcoming events and
+  latest recordings.
+- [Old Seminar Crowdcast]( https://www.crowdcast.io/e/substrate-seminar/) - Archive only.
 - [Substrate: A Rustic Vision for Polkadot by Gavin Wood at Web3 Summit 2018](https://www.youtube.com/watch?v=0IoUZdDi5Is)
 - [Polkadot Network Technical Explainers](https://www.youtube.com/playlist?list=PLOyWqupZ-WGuAuS00rK-pebTMAOxW41W8)
 
