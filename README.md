@@ -61,7 +61,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 
 - [Sub0 Developer Conference](https://sub0.parity.io/) - Semiannual, online and in-person for all
   things Substrate.
-- [Substrate Seminar](https://substrate.io/ecosystem/resources/seminar/) - Regularly recurring
+- [Substrate Seminar](https://substrate.io/ecosystem/resources/seminar/) - Bi-weekly
   collaborative learning sessions.
 
 ## Blogs
