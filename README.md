@@ -210,7 +210,6 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [Substrate Faucet Bot](https://github.com/starkleytech/substrate-faucet) - Python-based faucet for
   development purposes.
 - [Hydra](https://github.com/Joystream/hydra) - A GraphQL framework for Substrate nodes with a
-  [hosted playground](https://indexer-kusama.joystream.app/graphql).
 - [Substrate Graph](https://github.com/playzero/substrate-graph) - GraphQL indexer for
   Substrate-based chains.
 - [SubQuery](https://subquery.network) - A GraphQL indexer and query service that allows users to
