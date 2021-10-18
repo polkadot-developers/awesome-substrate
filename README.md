@@ -4,7 +4,7 @@
 
 Substrate is a framework for building upgradable, modular and efficient
 blockchains. Substrate is an open-source library of [Rust](https://www.rust-lang.org/) code that is
-maintained by [Parity Technologies](https://www.parity.io/).Source code available on
+maintained by [Parity Technologies](https://www.parity.io/). Source code available on
 [GitHub](https://github.com/paritytech/substrate).
 
 ## Contents
