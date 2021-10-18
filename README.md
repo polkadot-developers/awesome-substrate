@@ -252,7 +252,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [`srtool`](https://github.com/paritytech/srtool) - Docker image to deterministically build a runtime.
 - [`srtool-cli`](https://github.com/chevdor/srtool-cli) - CLI frontend for the `srtool` Docker image.
 - [`srtool-actions`](https://github.com/chevdor/srtool-actions) - GitHub actions to easily use the
-  `srtool` Docker image to build your onw runtime.
+  `srtool` Docker image to build your own runtime.
 
 ## Products and Services
 
