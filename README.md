@@ -148,6 +148,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
   [DOTMog](https://dotmog.com/).
 - [Kotlin Substrate Client](https://github.com/NodleCode/substrate-client-kotlin) - Maintained by 
   [Nodle.io](https://github.com/NodleCode)
+- [`sube`](https://github.com/virto-network/sube) - Lightweight Rust client library and CLI with support for type information
 
 ## Mobile
 
@@ -286,3 +287,4 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
   [Emerald](https://emerald.cash/).
 - [Ruby](https://github.com/itering/scale.rb) - Maintained by Itering.
 - [Python](https://github.com/polkascan/py-scale-codec) - Maintained by Polkascan Foundation.
+- [Scales](https://github.com/virto-network/scales) - Serializing SCALE using type information from a type registry
