@@ -149,6 +149,8 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [Kotlin Substrate Client](https://github.com/NodleCode/substrate-client-kotlin) - Maintained by 
   [Nodle.io](https://github.com/NodleCode)
 - [`sube`](https://github.com/virto-network/sube) - Lightweight Rust client library and CLI with support for type information.
+- [Subscan Go Utilities](https://github.com/itering/subscan-essentials) - SS58 and more, developed by Subscan.
+
 
 ## Mobile
 
@@ -254,6 +256,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [`srtool-cli`](https://github.com/chevdor/srtool-cli) - CLI frontend for the `srtool` Docker image.
 - [`srtool-actions`](https://github.com/chevdor/srtool-actions) - GitHub actions to easily use the
   `srtool` Docker image to build your own runtime.
+- [SS58 Transform](https://polkadot.subscan.io/tools/ss58_transform) - Display key's addressees with all SS58 prefixes.
 
 ## Products and Services
 
