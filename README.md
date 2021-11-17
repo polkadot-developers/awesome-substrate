@@ -283,6 +283,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [TypeScript](https://github.com/polkadot-js/api/tree/master/packages/types) - Maintained by
   Polkadot-JS.
 - [Go](https://github.com/itering/scale.go) - Maintained by [Itering](https://www.itering.com/).
+- [C](https://github.com/MatthewDarnell/cScale) - Maintained by Matthew Darnell.
 - [C++](https://github.com/soramitsu/kagome/tree/master/core/scale) - Maintained by Soramitsu.
 - [Haskell](https://github.com/airalab/hs-web3/tree/master/src/Codec) - Maintained by
   [Robonomics Network](https://robonomics.network/).
