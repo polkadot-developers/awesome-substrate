@@ -36,6 +36,12 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [Developer Hub GitHub](https://github.com/substrate-developer-hub/) - Developer Hub repositories.
 - [Ecosystem Projects](https://substrate.io/ecosystem/projects/) - Projects and teams building with
   Substrate.
+- Technical Papers
+  - [Polkadot Lightpaper](https://polkadot.network/Polkadot-lightpaper.pdf)
+  - [Polkadot: Vision for a heterogeneous multi-chain framework](https://github.com/polkadot-io/polkadotpaper/raw/master/PolkaDotPaper.pdf)
+  - [Overview of Polkadot and its Design Considerations](https://arxiv.org/abs/2005.13456.pdf)
+    - [Chinese Translation](https://github.com/AmadeusGB/Overview-of-Polkadot) (by community)
+
 - [DotJobs](https://dotjobs.net/) - A job board for the Substrate and Polkadot ecosystem projects,
   maintained by [Stateless.Money](https://stateless.money/).
 - [Polkadot Stack](https://github.com/w3f/Grants-Program/blob/master/docs/polkadot_stack.md) - An
