@@ -232,6 +232,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [Staking Rewards Collector](https://github.com/w3f/staking-rewards-collector) - A script to parse
   and output staking rewards for a given Kusama or Polkadot address and cross-reference them
   with daily price data.
+- [`polkadot-scripts`](https://github.com/paritytech/polkadot-scripts) - A collection of scripts Parity uses to diagnose Polkadot/Kusama.
 - [`polkadot-launch`](https://github.com/shawntabrizi/polkadot-launch) - Simple CLI tool to launch a
   local Polkadot test network.
 - [`polkadot-starship`](https://github.com/koute/polkadot-starship) - Another tool to launch a local
