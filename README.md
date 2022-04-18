@@ -49,9 +49,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 
 ## Support
 
-- [Stack Overflow](https://stackoverflow.com/questions/tagged/substrate) - Tagged with "Substrate"
-  is best for all technical questions.
-- [`subport`](https://github.com/paritytech/subport/issues) - Support repository to discuss use.
+- [Stack Exchange](https://substrate.stackexchange.com/) - is best for all technical questions.
 - [Builders Program](https://substrate.io/ecosystem/substrate-builders-program/) - White-glove
   solutions and dedicated support team for visionary teams using Substrate.
 - [Web3 Foundation Grants](https://web3.foundation/grants) - Funding for ecosystem development.
