@@ -56,10 +56,8 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 
 ## Social
 
-- [Technical Chat](https://matrix.to/#/#substrate-technical:matrix.org) - Ask questions &
-  chat with other Substrate developers.
+- [Substrate Devs Chat (Telegram)](https://t.me/substratedevs) - Chat with other Substrate developers, also briodged to [matrix](https://matrix.to/#/#substratedevs:matrix.org).
 - [Twitter](https://twitter.com/substrate_io) - Follow us to stay up-to-date.
-- [Reddit](https://www.reddit.com/r/substrate/) - Official subreddit.
 
 ## Events
 
@@ -89,10 +87,10 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 ## Templates
 
 - [Base](https://github.com/substrate-developer-hub/substrate-node-template) - Minimal FRAME-based
-  node, ready for hacking. 
+  node, derived from [upstream](https://github.com/paritytech/substrate/tree/master/bin/node-template). 
 - [Parachain](https://github.com/substrate-developer-hub/substrate-parachain-template) - Cumulus
-  enabled Substrate node, ready for hacking.   
-- [Frontier](https://github.com/substrate-developer-hub/frontier-node-template/) - Fronter enabled
+  enabled Substrate node, derived from [upstream](https://github.com/paritytech/cumulus/tree/master/parachain-template).   
+- [Frontier](https://github.com/paritytech/frontier/tree/master/template) - Fronter enabled
   EVM and Ethereum RPC compatible Substrate node, ready for hacking. 
 - [Front-End](https://github.com/substrate-developer-hub/substrate-front-end-template) - Polkadot-JS
   API and [React](https://reactjs.org/) app to build front-ends for Substrate-based chains. 
