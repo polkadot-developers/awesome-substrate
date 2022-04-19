@@ -285,6 +285,8 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [AssemblyScript](https://github.com/LimeChain/as-scale-codec) - Maintained by LimeChain.
 - [TypeScript](https://github.com/polkadot-js/api/tree/master/packages/types) - Maintained by
   Polkadot-JS.
+- [TypeScript](https://github.com/unstoppablejs/unstoppablejs/tree/main/packages/scale-ts#scale-ts) - Maintained by
+  Josep M Sobrepere.
 - [Go](https://github.com/itering/scale.go) - Maintained by [Itering](https://www.itering.com/).
 - [C](https://github.com/MatthewDarnell/cScale) - Maintained by Matthew Darnell.
 - [C++](https://github.com/soramitsu/kagome/tree/master/core/scale) - Maintained by Soramitsu.
