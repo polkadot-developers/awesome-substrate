@@ -56,7 +56,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 
 ## Social
 
-- [Substrate Devs Chat (Telegram)](https://t.me/substratedevs) - Chat with other Substrate developers, also briodged to [matrix](https://matrix.to/#/#substratedevs:matrix.org).
+- [Substrate Devs Chat (Telegram)](https://t.me/substratedevs) - Chat with other Substrate developers, also bridged to [matrix](https://matrix.to/#/#substratedevs:matrix.org).
 - [Twitter](https://twitter.com/substrate_io) - Follow us to stay up-to-date.
 
 ## Events
