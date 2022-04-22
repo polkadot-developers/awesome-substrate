@@ -152,6 +152,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
   [Nodle.io](https://github.com/NodleCode)
 - [`sube`](https://github.com/virto-network/sube) - Lightweight Rust client library and CLI with support for type information.
 - [Subscan Go Utilities](https://github.com/itering/subscan-essentials) - SS58 and more, developed by Subscan.
+- [`go-substrate-gen`](https://github.com/Aphoh/go-substrate-gen) - Generate go (de)serialization/client code from substrate metadata.
 
 
 ## Mobile
