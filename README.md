@@ -217,7 +217,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
   development purposes.
 - [Hydra](https://github.com/Joystream/hydra) - A GraphQL framework for Substrate nodes.
 - [Subsquid](https://subsquid.io) - An indexing framework (SDK + infrastructure) to quickly and easily
-  turn Substrate and EVM on-chain data into APIs and host them
+  turn Substrate and EVM on-chain data into APIs and host them.
 - [Substrate Graph](https://github.com/playzero/substrate-graph) - GraphQL indexer for
   Substrate-based chains.
 - [SubQuery](https://subquery.network) - A GraphQL indexer and query service that allows users to
