@@ -165,7 +165,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [Fearless Utils Android](https://github.com/soramitsu/fearless-utils-Android) - Android Substrate tools.
 
 ## Tools
-
+- [fudge](https://github.com/centrifuge/fudge) - Core lib for accessing and (arbitrarily) manipulating substrate databases, including the building and importing of local blocks.
 - [Polkadot-JS Apps UI](https://polkadot.js.org/apps/) - Semi-official block explorer & front-end
   for Substrate-based chains.
 - [Polkadot-JS Extension](https://github.com/polkadot-js/extension) - Browser extension for
