@@ -115,7 +115,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [`go-substrate-gen`](https://github.com/Aphoh/go-substrate-gen) - Generate go (de)serialization/client code from substrate metadata.
 - [`sube`](https://github.com/virto-network/sube) - Lightweight Rust client library and CLI with support for type information.
 - [`subxt`](https://github.com/paritytech/substrate-subxt) - Official Rust client.
-- [C++ API](https://github.com/usetech-llc/polkadot_api_cpp) - Maintained by
+- [C++ API](https://github.com/usetech-llc/polkadot_api_cpp) - Maintained by Usetech.
 - [Go RPC Client](https://github.com/centrifuge/go-substrate-rpc-client/) - Maintained by [Centrifuge](https://centrifuge.io/).
 - [Kotlin Client](https://github.com/NodleCode/substrate-client-kotlin) - Maintained by [Nodle.io](https://github.com/NodleCode)
 - [Polkadot-JS API](https://github.com/polkadot-js/api/) - Semi-official JavaScript library for Substrate-based chains.
@@ -177,7 +177,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [Subscan](https://www.subscan.io/) - Multi-network explorer for Substrate-based chains.
 - [Subsquid](https://subsquid.io) - An indexing framework (SDK + infrastructure) to quickly and easily turn Substrate and EVM on-chain data into APIs and host them.
 - [Substate](https://github.com/arrudagates/substate) - 100% no-std/wasm compatible Substrate storage key generator library for Rust.
-- [Substrate debug-kit](https://github.com/paritytech/substrate-debug-kit) - A collection of tools and libraries for debugging Substrate-based chains, including
+- [Substrate debug-kit](https://github.com/paritytech/substrate-debug-kit) - A collection of tools and libraries for debugging Substrate-based chains.
 - [Substrate Docker Builders](https://github.com/ETeissonniere/substrate-nodeops) - A set of Dockerfiles and GitHub Actions to auto-build and push a Docker image for Substrate-based chains.
 - [Substrate Faucet Bot](https://github.com/starkleytech/substrate-faucet) - Python-based faucet for development purposes.
 - [Substrate Graph](https://github.com/playzero/substrate-graph) - GraphQL indexer for Substrate-based chains.
@@ -208,4 +208,4 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [Ruby](https://github.com/itering/scale.rb) - Maintained by Itering.
 - [Scales](https://github.com/virto-network/scales) - Serializing SCALE using type information from a type registry.
 - [TypeScript](https://github.com/polkadot-js/api/tree/master/packages/types) - Maintained by Polkadot-JS.
-- [TypeScript](https://github.com/unstoppablejs/unstoppablejs/tree/main/packages/scale-ts#scale-ts)- Maintained by Josep M Sobrepere.
+- [TypeScript](https://github.com/unstoppablejs/unstoppablejs/tree/main/packages/scale-ts#scale-ts) - Maintained by Josep M Sobrepere.
