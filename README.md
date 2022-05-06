@@ -91,8 +91,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [Chainlink Feed Pallet](https://github.com/smartcontractkit/chainlink-polkadot) - Chainlink feed token interface.
 - [Official in Substrate](https://github.com/paritytech/substrate/tree/master/frame) - Large collection, Parity maintained.
 - [Open Runtime Module Library (ORML)](https://github.com/open-web3-stack/open-runtime-module-library) - Community maintained collection of Substrate runtime modules.
-- [Sunshine Bounty](https://github.com/sunshine-protocol/sunshine-bounty/tree/master/pallets) - Distributed
-  autonomous organization (DAO) for administering a bounty program.
+- [Sunshine Bounty](https://github.com/sunshine-protocol/sunshine-bounty/tree/master/pallets) - Distributed autonomous organization (DAO) for administering a bounty program.
 - [Sunshine Identity](https://github.com/sunshine-protocol/sunshine-keybase/tree/master/identity/pallet) - Keybase-inspired identity management.
 - [Sunshine Faucet](https://github.com/sunshine-protocol/sunshine-keybase/tree/master/faucet/pallet) - Dispense resources for a development chain.
 
