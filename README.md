@@ -28,7 +28,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 ## Resources
 
 - [DotJobs](https://dotjobs.net/) - A job board for the Substrate and Polkadot ecosystem projects, maintained by [Stateless.Money](https://stateless.money/).
-- [Developer Hub GitHub](https://github.com/substrate-developer-hub/) - Developer Hub repositories.
+- [Developer Hub GitHub](https://github.com/substrate-developer-hub/) - Substrate Developer Hub repositories.
 - [Ecosystem Projects](https://substrate.io/ecosystem/projects/) - Projects and teams building with Substrate.
 - [Polkadot Stack](https://github.com/w3f/Grants-Program/blob/master/docs/polkadot_stack.md) - An `awesome list` maintained by our friends at [Web3 Foundation](https://web3.foundation/).
 - [Official Homepage](https://substrate.io/) - Vision, ecosystem, opportunities, and much more.
