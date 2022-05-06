@@ -115,7 +115,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [`subxt`](https://github.com/paritytech/substrate-subxt) - Official Rust client.
 - [C++ API](https://github.com/usetech-llc/polkadot_api_cpp) - Maintained by Usetech.
 - [Go RPC Client](https://github.com/centrifuge/go-substrate-rpc-client/) - Maintained by [Centrifuge](https://centrifuge.io/).
-- [Kotlin Client](https://github.com/NodleCode/substrate-client-kotlin) - Maintained by [Nodle.io](https://github.com/NodleCode)
+- [Kotlin Client](https://github.com/NodleCode/substrate-client-kotlin) - Maintained by [Nodle.io](https://github.com/NodleCode).
 - [Polkadot-JS API](https://github.com/polkadot-js/api/) - Semi-official JavaScript library for Substrate-based chains.
 - [Python Interface](https://github.com/polkascan/py-substrate-interface) - Maintained by [Polkascan Foundation](https://polkascan.org/).
 - [Rust API Client](https://github.com/scs/substrate-api-client) - Rust client maintained by [Supercomputing Systems AG](https://www.scs.ch/).
