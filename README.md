@@ -74,7 +74,6 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
   - [Sub0 Conference Apr. 2019](https://www.youtube.com/playlist?list=PLp0_ueXY_enWqrfP_vR4PLhzQj76fLT8y)
 - [Polkadot Network Technical Explainers](https://www.youtube.com/playlist?list=PLOyWqupZ-WGuAuS00rK-pebTMAOxW41W8)
 - [Seminar Crowdcast](https://www.crowdcast.io/e/substrate-seminar-2/) - Upcoming events and latest recordings.
-  latest recordings.
   - [Old Seminar Crowdcast](https://www.crowdcast.io/e/substrate-seminar/) - Archive only.
 - [Substrate: A Rustic Vision for Polkadot by Gavin Wood at Web3 Summit 2018](https://www.youtube.com/watch?v=0IoUZdDi5Is)
 
