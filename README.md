@@ -205,5 +205,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [Python](https://github.com/polkascan/py-scale-codec) - Maintained by Polkascan Foundation.
 - [Ruby](https://github.com/itering/scale.rb) - Maintained by Itering.
 - [Scales](https://github.com/virto-network/scales) - Serializing SCALE using type information from a type registry.
-- [TypeScript](https://github.com/polkadot-js/api/tree/master/packages/types) - Maintained by Polkadot-JS.
-- [TypeScript](https://github.com/unstoppablejs/unstoppablejs/tree/main/packages/scale-ts#scale-ts) - Maintained by Josep M Sobrepere.
+- JavaScript / TypeScript implementations:
+  - [polkadot-js/api](https://github.com/polkadot-js/api/tree/master/packages/types) - Maintained by Polkadot-JS.
+  - [scale-ts](https://github.com/unstoppablejs/unstoppablejs/tree/main/packages/scale-ts#scale-ts) - Maintained by Josep M Sobrepere.
+  - [soramitsu/scale-codec-js-library](https://github.com/soramitsu/scale-codec-js-library) - Maintained by Soramitsu. 
