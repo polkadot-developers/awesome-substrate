@@ -196,7 +196,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 
 - [AssemblyScript](https://github.com/LimeChain/as-scale-codec) - Maintained by LimeChain.
 - [C](https://github.com/MatthewDarnell/cScale) - Maintained by Matthew Darnell.
-- [C++](https://github.com/soramitsu/kagome/tree/master/core/scale) - Maintained by Soramitsu.
+- [C++](https://github.com/soramitsu/scale-codec-cpp) - Maintained by Soramitsu.
 - [Codec Definition](https://docs.substrate.io/v3/advanced/scale-codec/) - Official codec documentation.
 - [Go](https://github.com/itering/scale.go) - Maintained by [Itering](https://www.itering.com/).
 - [Haskell](https://github.com/airalab/hs-web3/tree/master/src/Codec) - Maintained by [Robonomics Network](https://robonomics.network/).
