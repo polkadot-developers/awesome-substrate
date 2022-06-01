@@ -94,6 +94,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [Sunshine Bounty](https://github.com/sunshine-protocol/sunshine-bounty/tree/master/pallets) - Distributed autonomous organization (DAO) for administering a bounty program.
 - [Sunshine Identity](https://github.com/sunshine-protocol/sunshine-keybase/tree/master/identity/pallet) - Keybase-inspired identity management.
 - [Sunshine Faucet](https://github.com/sunshine-protocol/sunshine-keybase/tree/master/faucet/pallet) - Dispense resources for a development chain.
+- [RMRK Pallets](https://github.com/rmrk-team/rmrk-substrate) - Nested, conditional & Multi-resourced NFTs.
 
 ## Framework Extensions
 
@@ -130,7 +131,8 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 
 ## Tools
 
-  [`offline-election`](https://github.com/paritytech/substrate-debug-kit/tree/master/offline-election), which is a tool that is used to predict nominated proof-of-stake elections.
+[`offline-election`](https://github.com/paritytech/substrate-debug-kit/tree/master/offline-election), which is a tool that is used to predict nominated proof-of-stake elections.
+
 - [`offchain::ipfs`](https://rs-ipfs.github.io/offchain-ipfs-manual/) - Substrate infused with [IPFS](https://ipfs.io/).
 - [`polkadot-js-bundle`](https://github.com/shawntabrizi/polkadot-js-bundle) - A standalone JS bundle that contains Polkadot{JS} libraries.
 - [`polkadot-launch`](https://github.com/shawntabrizi/polkadot-launch) - Simple CLI tool to launch a local Polkadot test network.
@@ -160,7 +162,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [Jupiter](https://github.com/patractlabs/jupiter) - Testnet for smart contracts written for the FRAME Contracts pallet and ink!.
 - [Megaclite](https://github.com/patractlabs/megaclite) - Zero-knowledge tools for the Polkadot ecosystem.
 - [Parity Signer](https://www.parity.io/signer/) - Upcycle an unused mobile phone into an air-gapped hardware wallet.
-- [Polkadot PANIC](https://github.com/SimplyVC/panic_polkadot) - Monitoring and alerting solution for Polkadot nodes by Simply VC, compatible with many Substrate chains. 
+- [Polkadot PANIC](https://github.com/SimplyVC/panic_polkadot) - Monitoring and alerting solution for Polkadot nodes by Simply VC, compatible with many Substrate chains.
 - [Polkadot Tool Index](https://wiki.polkadot.network/docs/build-tools-index) - List of tools available for your development with Polkadot and any Substrate chain including Block Explorers, Wallets, Network Monitoring & Reporting, Clients, Benchmarking, Fuzzing, Forking, SCALE Codec, CLI Tools and much more.
 - [Polkadot-JS Apps UI](https://polkadot.js.org/apps/) - Semi-official block explorer & front-end for Substrate-based chains.
 - [Polkadot-JS Extension](https://github.com/polkadot-js/extension) - Browser extension for interacting with Substrate-based chains.
@@ -208,4 +210,4 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - JavaScript / TypeScript implementations:
   - [polkadot-js/api](https://github.com/polkadot-js/api/tree/master/packages/types) - Maintained by Polkadot-JS.
   - [scale-ts](https://github.com/unstoppablejs/unstoppablejs/tree/main/packages/scale-ts#scale-ts) - Maintained by Josep M Sobrepere.
-  - [soramitsu/scale-codec-js-library](https://github.com/soramitsu/scale-codec-js-library) - Maintained by Soramitsu. 
+  - [soramitsu/scale-codec-js-library](https://github.com/soramitsu/scale-codec-js-library) - Maintained by Soramitsu.
