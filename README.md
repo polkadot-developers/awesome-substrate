@@ -146,6 +146,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [`substrate-graph-benchmarks`](https://github.com/shawntabrizi/substrate-graph-benchmarks) - Graph the benchmark output of FRAME pallets.
 - [`substrate-js-utils`](https://github.com/shawntabrizi/substrate-js-utilities) - A set of useful JavaScript utilities for Substrate that uses the Polkadot{JS} API; Also [deployed as a website](https://www.shawntabrizi.com/substrate-js-utilities/).
 - [`substrate-society`](https://github.com/shawntabrizi/substrate-society) - A basic front-end for the FRAME Society pallet.
+- [`substrate-toml-lint`](https://github.com/shawntabrizi/substrate-toml-lint) - A toml parser and checker to avoid common errors in Substrate projects.
 - [`subwasm`](https://github.com/chevdor/subwasm) - CLI to inspect a runtime WASM blob offline. It shows information, metadata and can compare runtimes. It can also help you fetch a runtime directly from a node.
 - [`sup`](https://github.com/clearloop/sup) - Command line tool for generating or upgrading a Substrate node.
 - [Aleph.im](https://aleph.im) - Scalable, decentralized database, file storage, and computation services for Substrate chains and more.
