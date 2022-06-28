@@ -183,6 +183,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [Substrate Graph](https://github.com/playzero/substrate-graph) - GraphQL indexer for Substrate-based chains.
 - [TxWrapper](https://github.com/paritytech/txwrapper) - Helpful library for offline transaction creation.
 - [VSCode Substrate](https://marketplace.visualstudio.com/items?itemName=paritytech.vscode-substrate) - Plugin for Visual Studio Code.
+- [Polkaholic.io](https://polkaholic.io) - Multi-chain block explorer with API and DeFi support across 40+ parachains.
 
 ## Products and Services
 
