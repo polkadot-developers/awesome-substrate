@@ -125,7 +125,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 
 - [Fearless Utils Android](https://github.com/soramitsu/fearless-utils-Android) - Android Substrate tools.
 - [Fearless Utils iOS](https://github.com/soramitsu/fearless-utils-iOS) - iOS Substrate tools.
-- [Nova Substrate SDK Android](https://github.com/nova-wallet/substrate-sdk-android) - Substrate SDK and tools for Android
+- [Nova Substrate SDK Android](https://github.com/nova-wallet/substrate-sdk-android) - Substrate SDK and tools for Android.
 - [Polkadot-Dart](https://github.com/Pocket4D/Polkadot-Dart) - Dart Substrate API.
 - [PolkaWallet SDK](https://github.com/polkawallet-io/sdk) - Flutter SDK for Substrate-based App.
 - [React-Native-Substrate-Sign](https://github.com/paritytech/react-native-substrate-sign) - Rust library for React Native.
