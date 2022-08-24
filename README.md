@@ -47,6 +47,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [Builders Program](https://substrate.io/ecosystem/substrate-builders-program/) - White-glove solutions and dedicated support team for visionary teams using Substrate.
 - [Stack Exchange](https://substrate.stackexchange.com/) - The best place for all technical questions.
 - [Web3 Foundation Grants](https://web3.foundation/grants) - Funding for ecosystem development.
+- [Polkadot Treasury](https://wiki.polkadot.network/docs/learn-treasury#creating-a-treasury-proposal) - The Treasury funds are allocated through the voting on spending proposal.
 
 ## Social
 
