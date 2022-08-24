@@ -178,6 +178,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [Staking Rewards Collector](https://github.com/w3f/staking-rewards-collector) - A script to parse and output staking rewards for a given Kusama or Polkadot address and cross-reference them with daily price data.
 - [Subkey](https://substrate.dev/docs/en/knowledgebase/integrate/subkey) - Command line utility for working with cryptographic keys.
 - [SubQuery](https://subquery.network) - A GraphQL indexer and query service that allows users to easily create indexed data sources and host them online for free.
+  - [Nova SubQuery API](https://github.com/nova-wallet/subquery-nova) - A SubQuery API implementation for operation history and staking analytics.
 - [Subscan](https://www.subscan.io/) - Multi-network explorer for Substrate-based chains.
 - [Subsquid](https://subsquid.io) - An indexing framework (SDK + infrastructure) to quickly and easily turn Substrate and EVM on-chain data into APIs and host them.
 - [Substate](https://github.com/arrudagates/substate) - 100% no-std/wasm compatible Substrate storage key generator library for Rust.
