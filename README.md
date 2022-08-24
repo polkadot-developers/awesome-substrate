@@ -161,7 +161,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [Hydra](https://github.com/Joystream/hydra) - A GraphQL framework for Substrate nodes.
 - [Jupiter](https://github.com/patractlabs/jupiter) - Testnet for smart contracts written for the FRAME Contracts pallet and ink!.
 - [Megaclite](https://github.com/patractlabs/megaclite) - Zero-knowledge tools for the Polkadot ecosystem.
-- [Nova Polkadot Utils](https://github.com/nova-wallet/nova-utils) - Contains static information (logos, Crowdloan descriptions, DApp URLs, XCM weights, etc) to support client apps in Polkadot ecosystem (e.g. Nova Wallet) to map it to the keys/ids from the network itself.
+- [Nova Polkadot Utils](https://github.com/nova-wallet/nova-utils) - Contains static info & metadata to support client apps in Polkadot ecosystem to map it to various netowrks.
 - [Parity Signer](https://www.parity.io/signer/) - Upcycle an unused mobile phone into an air-gapped hardware wallet.
 - [Polkadot PANIC](https://github.com/SimplyVC/panic_polkadot) - Monitoring and alerting solution for Polkadot nodes by Simply VC, compatible with many Substrate chains. 
 - [Polkadot Tool Index](https://wiki.polkadot.network/docs/build-tools-index) - List of tools available for your development with Polkadot and any Substrate chain including Block Explorers, Wallets, Network Monitoring & Reporting, Clients, Benchmarking, Fuzzing, Forking, SCALE Codec, CLI Tools and much more.
