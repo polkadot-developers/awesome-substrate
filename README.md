@@ -126,13 +126,14 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [Fearless Utils Android](https://github.com/soramitsu/fearless-utils-Android) - Android Substrate tools.
 - [Fearless Utils iOS](https://github.com/soramitsu/fearless-utils-iOS) - iOS Substrate tools.
 - [Nova Substrate SDK Android](https://github.com/nova-wallet/substrate-sdk-android) - Substrate SDK and tools for Android.
+- [Nova Substrate SDK iOS](https://github.com/nova-wallet/substrate-sdk-ios) - Substrate SDK and tools for iOS.
 - [Polkadot-Dart](https://github.com/Pocket4D/Polkadot-Dart) - Dart Substrate API.
 - [PolkaWallet SDK](https://github.com/polkawallet-io/sdk) - Flutter SDK for Substrate-based App.
 - [React-Native-Substrate-Sign](https://github.com/paritytech/react-native-substrate-sign) - Rust library for React Native.
 
 ## Tools
 
-  [`offline-election`](https://github.com/paritytech/substrate-debug-kit/tree/master/offline-election), which is a tool that is used to predict nominated proof-of-stake elections.
+- [`offline-election`](https://github.com/paritytech/substrate-debug-kit/tree/master/offline-election), which is a tool that is used to predict nominated proof-of-stake elections.
 - [`offchain::ipfs`](https://rs-ipfs.github.io/offchain-ipfs-manual/) - Substrate infused with [IPFS](https://ipfs.io/).
 - [`polkadot-js-bundle`](https://github.com/shawntabrizi/polkadot-js-bundle) - A standalone JS bundle that contains Polkadot{JS} libraries.
 - [`polkadot-launch`](https://github.com/shawntabrizi/polkadot-launch) - Simple CLI tool to launch a local Polkadot test network.
@@ -143,6 +144,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [`srtool-cli`](https://github.com/chevdor/srtool-cli) - CLI frontend for the `srtool` Docker image.
 - [`srtool`](https://github.com/paritytech/srtool) - Docker image to deterministically build a runtime.
 - [`subsee`](https://github.com/ascjones/subsee) - CLI to inspect metadata of a Substrate node as JSON.
+- [`subalfred`](https://github.com/hack-ink/subalfred) - An all-in-one Substrate development toolbox.
 - [`substrate-balance-calculator`](https://github.com/shawntabrizi/substrate-balance-calculator) - Breakdown the balances of your Substrate account.
 - [`substrate-balance-graph`](https://github.com/shawntabrizi/substrate-balance-graph) - Create a graph of the token balance over time of a Substrate address.
 - [`substrate-graph-benchmarks`](https://github.com/shawntabrizi/substrate-graph-benchmarks) - Graph the benchmark output of FRAME pallets.
@@ -162,6 +164,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [Hydra](https://github.com/Joystream/hydra) - A GraphQL framework for Substrate nodes.
 - [Jupiter](https://github.com/patractlabs/jupiter) - Testnet for smart contracts written for the FRAME Contracts pallet and ink!.
 - [Megaclite](https://github.com/patractlabs/megaclite) - Zero-knowledge tools for the Polkadot ecosystem.
+- [Nova Polkadot Utils](https://github.com/nova-wallet/nova-utils) - Contains static info & metadata to support client apps in Polkadot ecosystem to map it to various netowrks.
 - [Parity Signer](https://www.parity.io/signer/) - Upcycle an unused mobile phone into an air-gapped hardware wallet.
 - [Polkadot PANIC](https://github.com/SimplyVC/panic_polkadot) - Monitoring and alerting solution for Polkadot nodes by Simply VC, compatible with many Substrate chains. 
 - [Polkadot Tool Index](https://wiki.polkadot.network/docs/build-tools-index) - List of tools available for your development with Polkadot and any Substrate chain including Block Explorers, Wallets, Network Monitoring & Reporting, Clients, Benchmarking, Fuzzing, Forking, SCALE Codec, CLI Tools and much more.
