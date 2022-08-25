@@ -188,6 +188,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [Substrate Docker Builders](https://github.com/ETeissonniere/substrate-nodeops) - A set of Dockerfiles and GitHub Actions to auto-build and push a Docker image for Substrate-based chains.
 - [Substrate Faucet Bot](https://github.com/starkleytech/substrate-faucet) - Python-based faucet for development purposes.
 - [Substrate Graph](https://github.com/playzero/substrate-graph) - GraphQL indexer for Substrate-based chains.
+- [Typechain-Polkadot](https://github.com/Supercolony-net/typechain-polkadot) - Hepls users to generate typescript types from contract ABIs (ink!) and generate runtime code to interact with contracts and deploy them.  
 - [TxWrapper](https://github.com/paritytech/txwrapper) - Helpful library for offline transaction creation.
 - [VSCode Substrate](https://marketplace.visualstudio.com/items?itemName=paritytech.vscode-substrate) - Plugin for Visual Studio Code.
 - [Polkaholic.io](https://polkaholic.io) - Multi-chain block explorer with API and DeFi support across 40+ parachains.
