@@ -111,7 +111,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 
 - [.Net API](https://github.com/usetech-llc/polkadot_api_dotnet) - Maintained by [Usetech](https://usetech.com/blockchain/).
 - [.NET Substrate API](https://github.com/ajuna-network/Ajuna.NetApi) - Used in [nuget](https://www.nuget.org/packages/Ajuna.NetApi/), and [Unity Example](https://github.com/ajuna-network/SubstrateNET/tree/master/SubstrateNET.UnityDemo); Maintained by [Ajuna Network](https://ajuna.io/).
-- [.NET Toolchain/SDK](https://github.com/ajuna-network/Ajuna.SDK) - Toolchain for Substrate .NET. Pre-generated [SubstrateNET](https://github.com/ajuna-network/SubstrateNET); Maintained by [Ajuna Network](https://ajuna.io/).
+- [.NET Toolchain/SDK](https://github.com/ajuna-network/Ajuna.SDK) - Toolchain for Substrate .NET. Pre-generated [SubstrateNET](https://github.com/ajuna-network/SubstrateNET); Maintained by Ajuna Network.
 - [`go-substrate-gen`](https://github.com/Aphoh/go-substrate-gen) - Generate go (de)serialization/client code from substrate metadata.
 - [`sube`](https://github.com/virto-network/sube) - Lightweight Rust client library and CLI with support for type information.
 - [`subxt`](https://github.com/paritytech/substrate-subxt) - Official Rust client.
@@ -135,7 +135,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 
 ## Tools
 
-- [`offline-election`](https://github.com/paritytech/substrate-debug-kit/tree/master/offline-election), which is a tool that is used to predict nominated proof-of-stake elections.
+- [`offline-election`](https://github.com/paritytech/substrate-debug-kit/tree/master/offline-election) - Tool to predict nominated proof-of-stake elections.
 - [`offchain::ipfs`](https://rs-ipfs.github.io/offchain-ipfs-manual/) - Substrate infused with [IPFS](https://ipfs.io/).
 - [`polkadot-js-bundle`](https://github.com/shawntabrizi/polkadot-js-bundle) - A standalone JS bundle that contains Polkadot{JS} libraries.
 - [`polkadot-launch`](https://github.com/shawntabrizi/polkadot-launch) - Simple CLI tool to launch a local Polkadot test network.
