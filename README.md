@@ -155,6 +155,8 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [`substrate-toml-lint`](https://github.com/shawntabrizi/substrate-toml-lint) - A toml parser and checker to avoid common errors in Substrate projects.
 - [`subwasm`](https://github.com/chevdor/subwasm) - CLI to inspect a runtime WASM blob offline. It shows information, metadata and can compare runtimes. It can also help you fetch a runtime directly from a node.
 - [`sup`](https://github.com/clearloop/sup) - Command line tool for generating or upgrading a Substrate node.
+- [`scale-value`](https://github.com/paritytech/scale-value) - Analogous to `serde_json` but for SCALE; Library to decode arbitrary SCALE encoded bytes into a dynamic `Value` given type info from `scale-info`.
+- [`scale-decode`](https://github.com/paritytech/scale-decode) - Decode SCALE bytes into arbitrary custom types by implementing a visitor trait.
 - [Aleph.im](https://aleph.im) - Scalable, decentralized database, file storage, and computation services for Substrate chains and more.
 - [Archive](https://github.com/paritytech/substrate-archive) - Indexing engine for Substrate chains.
 - [Dev Hub Utils](https://github.com/danforbes/substrate-devhub-utils) - _Unofficial_ utilities for working with official Substrate Developer Hub resources.
