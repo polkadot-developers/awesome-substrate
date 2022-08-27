@@ -112,7 +112,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [.Net API](https://github.com/usetech-llc/polkadot_api_dotnet) - Maintained by [Usetech](https://usetech.com/blockchain/).
 - [.NET Substrate API](https://github.com/ajuna-network/Ajuna.NetApi) - Used in [nuget](https://www.nuget.org/packages/Ajuna.NetApi/), and [Unity Example](https://github.com/ajuna-network/SubstrateNET/tree/master/SubstrateNET.UnityDemo); Maintained by [Ajuna Network](https://ajuna.io/).
 - [.NET Toolchain/SDK](https://github.com/ajuna-network/Ajuna.SDK) - Toolchain for Substrate .NET. Pre-generated [SubstrateNET](https://github.com/ajuna-network/SubstrateNET); Maintained by Ajuna Network.
-- [`go-substrate-gen`](https://github.com/Aphoh/go-substrate-gen) - Generate go (de)serialization/client code from substrate metadata.
+- [`go-substrate-gen`](https://github.com/Aphoh/go-substrate-gen) - Generate Go (de)serialization/client code from Substrate metadata.
 - [`sube`](https://github.com/virto-network/sube) - Lightweight Rust client library and CLI with support for type information.
 - [`subxt`](https://github.com/paritytech/substrate-subxt) - Official Rust client.
 - [C++ API](https://github.com/usetech-llc/polkadot_api_cpp) - Maintained by Usetech.
