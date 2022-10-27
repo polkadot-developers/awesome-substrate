@@ -86,6 +86,9 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [Front-End](https://github.com/substrate-developer-hub/substrate-front-end-template) - Polkadot-JS API and [React](https://reactjs.org/) app to build front-ends for Substrate-based chains.
 - [Parachain](https://github.com/substrate-developer-hub/substrate-parachain-template) - Cumulus enabled Substrate node, derived from [upstream](https://github.com/paritytech/cumulus/tree/master/parachain-template).
 - [`substrate-stencil`](https://github.com/kaichaosun/substrate-stencil) - A template for a Substrate node that includes staking and governance capabilities.
+- [polkadot-js-api-ts-template](https://github.com/kianenigma/polkadot-js-api-ts-template) - A template project to kickstart hacking on top of `@polkadot/api`
+
+
 
 ## FRAME Pallets
 
