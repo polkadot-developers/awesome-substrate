@@ -88,8 +88,6 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [`substrate-stencil`](https://github.com/kaichaosun/substrate-stencil) - A template for a Substrate node that includes staking and governance capabilities.
 - [polkadot-js-api-ts-template](https://github.com/kianenigma/polkadot-js-api-ts-template) - A template project to kickstart hacking on top of `@polkadot/api`
 
-
-
 ## FRAME Pallets
 
 - [Chainlink Feed Pallet](https://github.com/smartcontractkit/chainlink-polkadot) - Chainlink feed token interface.
