@@ -181,7 +181,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [Sidecar](https://github.com/paritytech/substrate-api-sidecar) - REST service that runs alongside Substrate nodes.
 - [SS58 Transform](https://polkadot.subscan.io/tools/ss58_transform) - Display key's addressees with all SS58 prefixes.
 - [Staking Rewards Collector](https://github.com/w3f/staking-rewards-collector) - A script to parse and output staking rewards for a given Kusama or Polkadot address and cross-reference them with daily price data.
-- [Subkey](https://substrate.dev/docs/en/knowledgebase/integrate/subkey) - Command line utility for working with cryptographic keys.
+- [Subkey](https://docs.substrate.io/reference/command-line-tools/subkey/) - Command line utility for working with cryptographic keys.
 - [SubQuery](https://subquery.network) - A GraphQL indexer and query service that allows users to easily create indexed data sources and host them online for free.
   - [Nova SubQuery API](https://github.com/nova-wallet/subquery-nova) - A SubQuery API implementation for operation history and staking analytics.
 - [Subscan](https://www.subscan.io/) - Multi-network explorer for Substrate-based chains.
