@@ -123,7 +123,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [Python Interface](https://github.com/polkascan/py-substrate-interface) - Maintained by [Polkascan Foundation](https://polkascan.org/).
 - [Rust API Client](https://github.com/scs/substrate-api-client) - Rust client maintained by [Supercomputing Systems AG](https://www.scs.ch/).
 - [Subscan Go Utilities](https://github.com/itering/subscan-essentials) - SS58 and more, developed by Subscan.
-- [Sub-Api](https://github.com/kodadot/packages) - Logical and friendly wrapper for Substrate API maintained & used by KodaDot in production.
+- [Sub-Api](https://github.com/kodadot/packages/tree/main/sub-api) - Friendly wrapper for Polkadot.js API maintained by KodaDot.
 
 ## Mobile
 
