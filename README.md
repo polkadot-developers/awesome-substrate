@@ -169,7 +169,6 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [Halva](https://github.com/halva-suite/halva) - A toolchain for improving the experience of developing on Substrate.
 - [Hydra](https://github.com/Joystream/hydra) - A GraphQL framework for Substrate nodes.
 - [Jupiter](https://github.com/patractlabs/jupiter) - Testnet for smart contracts written for the FRAME Contracts pallet and ink!.
-- [Minimark](https://github.com/kodadot/packages) - Implementation of RMRK v1/v2 protocol used by KodaDot Indexers in production
 - [Megaclite](https://github.com/patractlabs/megaclite) - Zero-knowledge tools for the Polkadot ecosystem.
 - [Metadata Portal](https://nova-wallet.github.io/metadata-portal/) - A self-hosted webpage that shows the latest metadata and chain specs for any given network.
 - [Nova Polkadot Utils](https://github.com/nova-wallet/nova-utils) - Contains static info & metadata to support client apps in Polkadot ecosystem to map it to various netowrks.
