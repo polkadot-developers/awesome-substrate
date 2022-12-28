@@ -70,6 +70,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 
 - [Parity YouTube](https://www.youtube.com/c/paritytech)
   - [Substrate Seminar (YouTube Archive)](https://www.youtube.com/playlist?list=PLp0_ueXY_enXRfoaW7sTudeQH10yDvFOS)
+  - [Sub0 Conference Nov. 2022](https://youtube.com/playlist?list=PLOyWqupZ-WGvywLqJDsMIYdCn8QEa2ShQ)
   - [Sub0 Conference Oct. 2020](https://www.youtube.com/playlist?list=PLp0_ueXY_enUZk1RuEAU9ly5h0wy5FuLs)
   - [Sub0 Conference Dec. 2019](https://www.youtube.com/playlist?list=PLp0_ueXY_enWZ4UZE7rM0hdT8Z_ZTjU5V)
   - [Sub0 Conference Apr. 2019](https://www.youtube.com/playlist?list=PLp0_ueXY_enWqrfP_vR4PLhzQj76fLT8y)
