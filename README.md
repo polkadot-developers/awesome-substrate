@@ -89,6 +89,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [Parachain](https://github.com/substrate-developer-hub/substrate-parachain-template) - Cumulus enabled Substrate node, derived from [upstream](https://github.com/paritytech/cumulus/tree/master/parachain-template).
 - [`substrate-stencil`](https://github.com/kaichaosun/substrate-stencil) - A template for a Substrate node that includes staking and governance capabilities.
 - [polkadot-js-api-ts-template](https://github.com/kianenigma/polkadot-js-api-ts-template) - A template project to kickstart hacking on top of `@polkadot/api`.
+- [INK!athon](https://inkathon.xyz/) - Full-stack dApp boilerplate with ink! smart contracts and a React frontend using the `useInkathon` (listed below) hooks library maintained by [Scio Labs](https://scio.xyz).
 
 ## FRAME Pallets
 
@@ -126,6 +127,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [Rust API Client](https://github.com/scs/substrate-api-client) - Rust client maintained by [Supercomputers Systems AG](https://www.scs.ch/).
 - [Subscan Go Utilities](https://github.com/itering/subscan-essentials) - SS58 and more, developed by Subscan.
 - [Sub-Api](https://github.com/kodadot/packages/tree/main/sub-api) - Friendly wrapper for Polkadot.js API maintained by KodaDot.
+- [`useInkathon`](https://github.com/scio-labs/use-inkathon) - Typesafe React Hooks library abstracting functionality by polkadot.js for working with Substrate-based networks and ink! smart contracts maintained by Scio Labs.
 
 ## Mobile
 
@@ -174,7 +176,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [Megaclite](https://github.com/patractlabs/megaclite) - Zero-knowledge tools for the Polkadot ecosystem.
 - [Metadata Portal](https://nova-wallet.github.io/metadata-portal/) - A self-hosted webpage that shows the latest metadata and chain specs for any given network.
 - [Minimark](https://github.com/kodadot/packages) - Implementation of RMRK NFT v1/v2 protocol maintained by KodaDot.
-- [Nova Polkadot Utils](https://github.com/nova-wallet/nova-utils) - Contains static info & metadata to support client apps in Polkadot ecosystem to map it to various networks.
+- [Nova Polkadot Utils](https://github.com/nova-wallet/nova-utils) - Contains static info & metadata to support client apps in Polkadot ecosystem to map it to various netowrks.
 - [Parity Signer](https://www.parity.io/signer/) - Upcycle an unused mobile phone into an air-gapped hardware wallet.
 - [Polkadot PANIC](https://github.com/SimplyVC/panic_polkadot) - Monitoring and alerting solution for Polkadot nodes by Simply VC, compatible with many Substrate chains.
 - [Polkadot Tool Index](https://wiki.polkadot.network/docs/build-tools-index) - List of tools available for your development with Polkadot and any Substrate chain including Block Explorers, Wallets, Network Monitoring & Reporting, Clients, Benchmarking, Fuzzing, Forking, SCALE Codec, CLI Tools and much more.
@@ -196,7 +198,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [Substrate Docker Builders](https://github.com/ETeissonniere/substrate-nodeops) - A set of Dockerfiles and GitHub Actions to auto-build and push a Docker image for Substrate-based chains.
 - [Substrate Faucet Bot](https://github.com/starkleytech/substrate-faucet) - Python-based faucet for development purposes.
 - [Substrate Graph](https://github.com/playzero/substrate-graph) - GraphQL indexer for Substrate-based chains.
-- [Typechain-Polkadot](https://github.com/Supercolony-net/typechain-polkadot) - Helps users to generate typescript types from contract ABIs (ink!) and generate runtime code to interact with contracts and deploy them.
+- [Typechain-Polkadot](https://github.com/Supercolony-net/typechain-polkadot) - Hepls users to generate typescript types from contract ABIs (ink!) and generate runtime code to interact with contracts and deploy them.
 - [TxWrapper](https://github.com/paritytech/txwrapper) - Helpful library for offline transaction creation.
 - [VSCode Substrate](https://marketplace.visualstudio.com/items?itemName=paritytech.vscode-substrate) - Plugin for Visual Studio Code.
 - [Polkaholic.io](https://polkaholic.io) - Multi-chain block explorer with API and DeFi support across 40+ parachains.
