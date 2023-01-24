@@ -203,6 +203,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 ## Products and Services
 
 - [OnFinality](https://onfinality.io) - Free and paid services to shared Substrate based nodes.
+- [PrivHost](https://privhost.laissez-faire.trade/) -  Public Tor .onion supported nodes for Polkadot, Kusama and Edgeware.     
 
 ## Alternative Implementations
 
