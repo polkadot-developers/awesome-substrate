@@ -51,7 +51,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 
 ## Social
 
-- [Substrate Devs Chat (Telegram)](https://t.me/substratedevs) - Chat with other Substrate developers, also bridged to [matrix](https://matrix.to/#/#substratedevs:matrix.org).
+- [Substrate Developers Chat (Telegram)](https://t.me/substratedevs) - Chat with other Substrate developers, also bridged to [matrix](https://matrix.to/#/#substratedevs:matrix.org).
 - [Twitter](https://twitter.com/substrate_io) - Follow us to stay up-to-date.
 
 ## Events
@@ -75,8 +75,9 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
   - [Sub0 Conference Dec. 2019](https://www.youtube.com/playlist?list=PLp0_ueXY_enWZ4UZE7rM0hdT8Z_ZTjU5V)
   - [Sub0 Conference Apr. 2019](https://www.youtube.com/playlist?list=PLp0_ueXY_enWqrfP_vR4PLhzQj76fLT8y)
 - [Polkadot Network Technical Explainers](https://www.youtube.com/playlist?list=PLOyWqupZ-WGuAuS00rK-pebTMAOxW41W8)
-- [Seminar Crowdcast](https://www.crowdcast.io/e/substrate-seminar-2/) - Upcoming events and latest recordings.
-  - [Old Seminar Crowdcast](https://www.crowdcast.io/e/substrate-seminar/) - Archive only.
+- [Substrate Seminar Twitch](https://www.twitch.tv/polkadotdev) - Biweekly stream hosted by Polkadot Developers Twitch.
+  - [Old Seminar Crowdcast](https://www.crowdcast.io/e/substrate-seminar-2/) - Seminar archive.
+  - [Older Seminar Crowdcast](https://www.crowdcast.io/e/substrate-seminar/) - Older still Seminar archive.
 - [Substrate: A Rustic Vision for Polkadot by Gavin Wood at Web3 Summit 2018](https://www.youtube.com/watch?v=0IoUZdDi5Is)
 
 ## Templates
@@ -123,7 +124,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [Kotlin Client](https://github.com/NodleCode/substrate-client-kotlin) - Maintained by [Nodle.io](https://github.com/NodleCode).
 - [Polkadot-JS API](https://github.com/polkadot-js/api/) - Semi-official JavaScript library for Substrate-based chains.
 - [Python Interface](https://github.com/polkascan/py-substrate-interface) - Maintained by [Polkascan Foundation](https://polkascan.org/).
-- [Rust API Client](https://github.com/scs/substrate-api-client) - Rust client maintained by [Supercomputing Systems AG](https://www.scs.ch/).
+- [Rust API Client](https://github.com/scs/substrate-api-client) - Rust client maintained by [Supercomputers Systems AG](https://www.scs.ch/).
 - [Subscan Go Utilities](https://github.com/itering/subscan-essentials) - SS58 and more, developed by Subscan.
 - [Sub-Api](https://github.com/kodadot/packages/tree/main/sub-api) - Friendly wrapper for Polkadot.js API maintained by KodaDot.
 - [`useInkathon`](https://github.com/scio-labs/use-inkathon) - Typesafe React Hooks library abstracting functionality by polkadot.js for working with Substrate-based networks and ink! smart contracts maintained by Scio Labs.
@@ -206,6 +207,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 
 - [OnFinality](https://onfinality.io) - Free and paid services to shared Substrate based nodes.
 - [PrivHost](https://privhost.laissez-faire.trade/) - Public Tor .onion supported nodes for Polkadot, Kusama and Edgeware.
+- [Substrate Devops Guide](https://paritytech.github.io/devops-guide/) - Parity devops team's configuration and guidance on deploying, monitoring, and maintaining node infrastructure.
 
 ## Alternative Implementations
 
