@@ -53,7 +53,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 
 - [Substrate Developers Chat (Telegram)](https://t.me/substratedevs) - Chat with other Substrate developers, also bridged to [matrix](https://matrix.to/#/#substratedevs:matrix.org).
 - [Twitter](https://twitter.com/substrate_io) - Follow us to stay up-to-date.
-- [Polkaverse](https://polkaverse.com) - A decentralized social platform for the Polkadot community members to discuss, knowledge transfer, post ecosystem updates, etc. Built on top of [Subsocial](https://subsocial.network).
+- [Polkaverse](https://polkaverse.com) - A decentralized news-feed style social platform for the Polkadot community to discuss, share knowledge, post ecosystem updates and interact with posts. Built on top of [Subsocial](https://subsocial.network).
 
 ## Events
 
@@ -91,7 +91,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [`substrate-stencil`](https://github.com/kaichaosun/substrate-stencil) - A template for a Substrate node that includes staking and governance capabilities.
 - [polkadot-js-api-ts-template](https://github.com/kianenigma/polkadot-js-api-ts-template) - A template project to kickstart hacking on top of `@polkadot/api`.
 - [INK!athon](https://inkathon.xyz/) - Full-stack dApp boilerplate with ink! smart contracts and a React frontend using the `useInkathon` (listed below) hooks library maintained by [Scio Labs](https://scio.xyz).
-- [Subsocial Starter Kit](https://docs.subsocial.network/docs/develop/developer-quickstart) - A starter boilerplate for building web3 social apps for Polkadot ecosystem on top of Subsocial blockchain (parachain on Polkadot). 
+- [Subsocial Starter Kit](https://docs.subsocial.network/docs/develop/developer-quickstart) - A starter-kit for building web3 social apps for the Polkadot ecosystem, powered by the [Subsocial blockchain](https://subsocial.network).
 
 ## FRAME Pallets
 
@@ -205,8 +205,8 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [TxWrapper](https://github.com/paritytech/txwrapper) - Helpful library for offline transaction creation.
 - [VSCode Substrate](https://marketplace.visualstudio.com/items?itemName=paritytech.vscode-substrate) - Plugin for Visual Studio Code.
 - [Polkaholic.io](https://polkaholic.io) - Multi-chain block explorer with API and DeFi support across 40+ parachains.
-- [SubID](https://sub.id) - The #1 portfolio management tool in the Polkadot ecosystem. See your balances, crowdloan history, NFTs, and more. Claim vested tokens and perform cross-chain transfers.
-- [Subsocial SDK Playground](https://play.subsocial.network) - Subsocial JS SDK Playground allows you to fetch spaces, send transactions on blockchain and test the SDK code snippets on the go without need to download or setup anything.
+- [SubID](https://github.com/dappforce/subid) - An advanced cross-chain portfolio management tool for the Polkadot ecosystem, allowing any user to see their balances across chains; view their crowdloan history; view their NFTs across Polkadot ecosystem chains; claim their vested tokens and perform cross-chain transfers.
+- [Subsocial SDK Playground](https://play.subsocial.network) - Subsocial JS SDK Playground allows you to fetch spaces, send transactions on blockchain and test the SDK code snippets on the go without the need to download or setup anything locally.
 
 ## Products and Services
 
