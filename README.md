@@ -169,7 +169,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [3xpl.com](https://3xpl.com/polkadot) — Fastest ad-free universal block explorer and JSON API with Polkadot support by [@3xplcom](https://github.com/3xplcom).
 - [Aleph.im](https://aleph.im) - Scalable, decentralized database, file storage, and computation services for Substrate chains and more.
 - [Archive](https://github.com/paritytech/substrate-archive) - Indexing engine for Substrate chains.
-- [Blockchair.com](https://blockchair.com/bitcoin) - Universal blockchain explorer and search engine with Polkadot support by [@Blockchair](https://github.com/Blockchair).
+- [Blockchair.com](https://blockchair.com/polkadot) - Universal blockchain explorer and search engine with Polkadot support by [@Blockchair](https://github.com/Blockchair).
 - [Dev Hub Utils](https://github.com/danforbes/substrate-devhub-utils) - _Unofficial_ utilities for working with official Substrate Developer Hub resources.
 - [Europa](https://github.com/patractlabs/europa) - A sandbox for the Substrate runtime execution environment.
 - [Fork Off Substrate](https://github.com/maxsam4/fork-off-substrate) - Script to help bootstrap a new chain with the state of a running chain.
