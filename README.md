@@ -122,6 +122,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [`sube`](https://github.com/virto-network/sube) - Lightweight Rust client library and CLI with support for type information.
 - [`subxt`](https://github.com/paritytech/substrate-subxt) - Official Rust client.
 - [C++ API](https://github.com/usetech-llc/polkadot_api_cpp) - Maintained by Usetech.
+- [Dart API](https://github.com/leonardocustodio/polkadart) - Maintained by Leonardo Custodio.
 - [Go RPC Client](https://github.com/centrifuge/go-substrate-rpc-client/) - Maintained by [Centrifuge](https://centrifuge.io/).
 - [Kotlin Client](https://github.com/NodleCode/substrate-client-kotlin) - Maintained by [Nodle.io](https://github.com/NodleCode).
 - [Polkadot-JS API](https://github.com/polkadot-js/api/) - Semi-official JavaScript library for Substrate-based chains.
@@ -138,6 +139,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [Fearless Utils iOS](https://github.com/soramitsu/fearless-utils-iOS) - iOS Substrate tools.
 - [Nova Substrate SDK Android](https://github.com/nova-wallet/substrate-sdk-android) - Substrate SDK and tools for Android.
 - [Nova Substrate SDK iOS](https://github.com/nova-wallet/substrate-sdk-ios) - Substrate SDK and tools for iOS.
+- [Polkadart](https://github.com/leonardocustodio/polkadart) - Dart Substrate SDK.
 - [Polkadot-Dart](https://github.com/Pocket4D/Polkadot-Dart) - Dart Substrate API.
 - [PolkaWallet SDK](https://github.com/polkawallet-io/sdk) - Flutter SDK for Substrate-based App.
 - [React-Native-Substrate-Sign](https://github.com/paritytech/react-native-substrate-sign) - Rust library for React Native.
@@ -227,6 +229,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [C](https://github.com/MatthewDarnell/cScale) - Maintained by Matthew Darnell.
 - [C++](https://github.com/soramitsu/scale-codec-cpp) - Maintained by Soramitsu.
 - [Codec Definition](https://docs.substrate.io/v3/advanced/scale-codec/) - Official codec documentation.
+- [Dart](https://github.com/leonardocustodio/polkadart) - Maintained by Leonardo Custodio.
 - [Go](https://github.com/itering/scale.go) - Maintained by [Itering](https://www.itering.com/).
 - [Haskell](https://github.com/airalab/hs-web3/tree/master/src/Codec) - Maintained by [Robonomics Network](https://robonomics.network/).
 - [Java](https://github.com/emeraldpay/polkaj/tree/master/polkaj-scale) - Maintained by [Emerald](https://emerald.cash/).
