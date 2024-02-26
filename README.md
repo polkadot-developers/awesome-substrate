@@ -199,6 +199,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [SubQuery](https://subquery.network) - A GraphQL indexer and query service that allows users to easily create indexed data sources and host them online for free.
   - [Nova SubQuery API](https://github.com/nova-wallet/subquery-nova) - A SubQuery API implementation for operation history and staking analytics.
 - [Subscan](https://www.subscan.io/) - Multi-network explorer for Substrate-based chains.
+- [Subspace](https://github.com/subspace/subspace) - The first layer-one blockchain that can fully resolve the blockchain trilemma by simultaneously achieving scalability, security, and decentralization.
 - [Subsquid](https://subsquid.io) - An indexing framework (SDK + infrastructure) to quickly and easily turn Substrate and EVM on-chain data into APIs and host them.
 - [Substate](https://github.com/arrudagates/substate) - 100% no-std/wasm compatible Substrate storage key generator library for Rust.
 - [Substrate debug-kit](https://github.com/paritytech/substrate-debug-kit) - A collection of tools and libraries for debugging Substrate-based chains.
