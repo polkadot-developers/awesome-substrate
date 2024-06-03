@@ -170,8 +170,10 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [`sup`](https://github.com/clearloop/sup) - Command line tool for generating or upgrading a Substrate node.
 - [`scale-value`](https://github.com/paritytech/scale-value) - Analogous to `serde_json` but for SCALE; Library to decode arbitrary SCALE encoded bytes into a dynamic `Value` given type info from `scale-info`.
 - [`scale-decode`](https://github.com/paritytech/scale-decode) - Decode SCALE bytes into arbitrary custom types by implementing a visitor trait.
+- [3xpl.com](https://3xpl.com/polkadot) — Fastest ad-free universal block explorer and JSON API with Polkadot support by [@3xplcom](https://github.com/3xplcom).
 - [Aleph.im](https://aleph.im) - Scalable, decentralized database, file storage, and computation services for Substrate chains and more.
 - [Archive](https://github.com/paritytech/substrate-archive) - Indexing engine for Substrate chains.
+- [Blockchair.com](https://blockchair.com/polkadot) - Universal blockchain explorer and search engine with Polkadot support by [@Blockchair](https://github.com/Blockchair).
 - [Dev Hub Utils](https://github.com/danforbes/substrate-devhub-utils) - _Unofficial_ utilities for working with official Substrate Developer Hub resources.
 - [Europa](https://github.com/patractlabs/europa) - A sandbox for the Substrate runtime execution environment.
 - [Fork Off Substrate](https://github.com/maxsam4/fork-off-substrate) - Script to help bootstrap a new chain with the state of a running chain.
