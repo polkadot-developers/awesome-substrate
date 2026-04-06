@@ -11,6 +11,7 @@ blockchains. Substrate is an open-source library of [Rust](https://www.rust-lang
 maintained by [Parity Technologies](https://www.parity.io/). Source code available on
 [GitHub](https://github.com/paritytech/substrate).
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Substrate blockchain workflow orchestration, automated Polkadot development management, and multi-agent coordination. MIT licensed.
 ## Contents
 
 - [Resources](#resources)
