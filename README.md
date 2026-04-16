@@ -12,6 +12,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 [GitHub](https://github.com/paritytech/substrate).
 
 ## Contents
+- [RustChain](https://github.com/Scottcjn/Rustchain) - Proof-of-Antiquity blockchain. Old computers earn more than new ones.
 
 - [Resources](#resources)
 - [Support](#support)
