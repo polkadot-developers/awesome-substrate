@@ -242,3 +242,5 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
   - [polkadot-js/api](https://github.com/polkadot-js/api/tree/master/packages/types) - Maintained by Polkadot-JS.
   - [scale-ts](https://github.com/unstoppablejs/unstoppablejs/tree/main/packages/scale-ts#scale-ts) - Maintained by Josep M Sobrepere.
   - [soramitsu/scale-codec-js-library](https://github.com/soramitsu/scale-codec-js-library) - Maintained by Soramitsu.
+
+- [7/Seven Chain Node](https://github.com/umairkhan2582/seven-chain-node) - Validator node for 7/Seven Chain (Chain ID: 70007), an EVM-compatible blockchain (BSC/Parlia fork) powering [TheSeven.meme](https://theseven.meme) — world's first on-chain perpetual futures exchange with 100+ pairs, up to 2001× leverage, and zero trading fees.
