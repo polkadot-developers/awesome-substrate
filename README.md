@@ -215,6 +215,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 
 ## Products and Services
 
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - On-chain trust scoring MCP server for AI agent wallets on Solana. Verify agent identity before x402 micropayments — a trust primitive for multi-chain AI payment flows.
 - [OnFinality](https://onfinality.io) - Free and paid services to shared Substrate based nodes.
 - [PrivHost](https://privhost.laissez-faire.trade/) - Public Tor .onion supported nodes for Polkadot, Kusama and Edgeware.
 - [Substrate Devops Guide](https://paritytech.github.io/devops-guide/) - Parity devops team's configuration and guidance on deploying, monitoring, and maintaining node infrastructure.
