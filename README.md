@@ -191,6 +191,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [Polkadot-JS Extension](https://github.com/polkadot-js/extension) - Browser extension for interacting with Substrate-based chains.
 - [Polkascan](https://polkascan.io/) - Multi-chain block explorer maintained by Polkascan Foundation.
 - [Proxy Hot Wallet Demo](https://github.com/emostov/proxy-hot-wallet) - A demonstration of a secure, convenient, and flexible hot wallet architecture built on Substrate primitives.
+- [PubFi Discovery](https://pubfi.ai/discovery/chain/polkadot) - Source-selection guide for Polkadot and Substrate data APIs, including Subscan, SubSquid, SubQuery, and governance data workflows.
 - [Redspot](https://github.com/patractlabs/redspot) - A [Truffle](https://www.trufflesuite.com/truffle)-like toolkit for smart contracts for the FRAME Contracts pallet and ink!.
 - [Sidecar](https://github.com/paritytech/substrate-api-sidecar) - REST service that runs alongside Substrate nodes.
 - [SS58 Transform](https://polkadot.subscan.io/tools/ss58_transform) - Display key's addressees with all SS58 prefixes.
