@@ -216,6 +216,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 ## Products and Services
 
 - [OnFinality](https://onfinality.io) - Free and paid services to shared Substrate based nodes.
+- [Orogen](https://orogen.network) - A decentralized network for verifiable LLM inference, with an OpenAI-compatible gateway and validator replay on a Substrate-based chain.
 - [PrivHost](https://privhost.laissez-faire.trade/) - Public Tor .onion supported nodes for Polkadot, Kusama and Edgeware.
 - [Substrate Devops Guide](https://paritytech.github.io/devops-guide/) - Parity devops team's configuration and guidance on deploying, monitoring, and maintaining node infrastructure.
 
