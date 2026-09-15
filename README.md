@@ -218,6 +218,8 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [OnFinality](https://onfinality.io) - Free and paid services to shared Substrate based nodes.
 - [PrivHost](https://privhost.laissez-faire.trade/) - Public Tor .onion supported nodes for Polkadot, Kusama and Edgeware.
 - [Substrate Devops Guide](https://paritytech.github.io/devops-guide/) - Parity devops team's configuration and guidance on deploying, monitoring, and maintaining node infrastructure.
+- [HostDeFi](https://hostdefi.com) - Free token-safety scanner for Solana and EVM tokens: A+–F grades from on-chain checks, keyless REST API, hosted MCP server.
+
 
 ## Alternative Implementations
 
