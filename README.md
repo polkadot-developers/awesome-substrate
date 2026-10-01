@@ -215,6 +215,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 
 ## Products and Services
 
+- [Acurast](https://acurast.com) - Decentralized compute network on smartphones, running its own Substrate-based chain.
 - [OnFinality](https://onfinality.io) - Free and paid services to shared Substrate based nodes.
 - [PrivHost](https://privhost.laissez-faire.trade/) - Public Tor .onion supported nodes for Polkadot, Kusama and Edgeware.
 - [Substrate Devops Guide](https://paritytech.github.io/devops-guide/) - Parity devops team's configuration and guidance on deploying, monitoring, and maintaining node infrastructure.
