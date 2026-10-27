@@ -14,7 +14,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 ## Contents
 
 - [Resources](#resources)
-- [Support](#support)
+- [Support](#support) 
 - [Social](#social)
 - [Events](#events)
 - [Blogs](#blogs)
